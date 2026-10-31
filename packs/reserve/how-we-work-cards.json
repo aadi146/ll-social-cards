@@ -1,0 +1,81 @@
+[
+ {
+  "id": "how-we-work-who-pays-you-c1",
+  "type": "qa",
+  "label": "ask the broker",
+  "question": "Who pays you, and does it change what you tell me?",
+  "answer": "The lender pays us, not you, and that doesn't raise your rate. Every lender pays us the same, so we have no favourite bank. We're bound by a best interests duty; a branch isn't. And it doesn't matter who introduced us, builder or agent. Our duty runs to you."
+ },
+ {
+  "id": "how-we-work-forty-lenders-c1",
+  "type": "qa",
+  "label": "ask the broker",
+  "question": "Do you really work with forty lenders?",
+  "answer": "No, and most brokers who say they do really use about six. We know our top ten lenders deeply. That depth is what lets us workshop an unusual file with a credit team instead of guessing. Ask any broker which lenders they placed loans with last year, not how many are on the panel."
+ },
+ {
+  "id": "how-we-work-credit-score-c1",
+  "type": "qa",
+  "label": "ask the broker",
+  "question": "Will applying for a loan hurt my credit score?",
+  "answer": "Every formal application touches your credit file, so lodging with three banks to see who says yes leaves three marks. A branch has to lodge to find out if you fit. We don't. We talk to each lender's credit team about your scenario first, then lodge once, with the one that already said yes."
+ },
+ {
+  "id": "how-we-work-after-pre-approval-c1",
+  "type": "qa",
+  "label": "ask the broker",
+  "question": "What do you actually do after pre-approval?",
+  "answer": "The loan is the easy part. The weeks between pre-approval and an accepted offer are where you need us: a number on a Saturday before you bid, a question answered before you sign, a quick reply while you're standing in the kitchen. If a broker goes quiet in that stretch, that tells you everything."
+ },
+ {
+  "id": "how-we-work-talk-to-my-accountant-c1",
+  "type": "qa",
+  "label": "ask the broker",
+  "question": "Why do you want to talk to my accountant?",
+  "answer": "Because we don't give tax advice and won't pretend to. We design the lending structure, then take it to your accountant to check from a tax angle before anything is set up. For business owners, accountant and bookkeeper in the room too, so the numbers the bank sees are the ones everyone agrees on."
+ },
+ {
+  "id": "how-we-work-messy-situation-c1",
+  "type": "qa",
+  "label": "ask the broker",
+  "question": "My situation is a bit messy. Can you still get me a loan?",
+  "answer": "Sometimes, yes. Hard files get approved on the story, not the numbers alone. We speak to the lender's credit team before lodging, then write it up plainly: what went wrong, why it isn't a pattern, how this loan fixes it. The ugly bits go in first. Surprises cost more than problems."
+ },
+ {
+  "id": "how-we-work-five-year-question-c1",
+  "type": "qa",
+  "label": "ask the broker",
+  "question": "Why do you ask about my five-year plan before quoting a rate?",
+  "answer": "Because the right loan depends on the answer. Buying again in two years, selling, starting a business, having kids: each one changes how the loan should be built, how it's split and what it needs to flex. A broker who only finds the cheapest rate has done a transaction. We'd rather give advice."
+ },
+ {
+  "id": "how-we-work-ask-the-banks-first-c1",
+  "type": "take",
+  "hook": "We ask the banks before we tell them who you are.",
+  "so_what": "Before you apply anywhere, ask whether the lenders have been sounded out on your scenario, and what each one said."
+ },
+ {
+  "id": "how-we-work-one-page-structure-c1",
+  "type": "take",
+  "hook": "If your loan structure can't fit on one page, it's too clever.",
+  "so_what": "Ask your broker to draw your splits, offsets and cash flows on one page before settlement. Keep the photo."
+ },
+ {
+  "id": "how-we-work-after-settlement-c1",
+  "type": "take",
+  "hook": "Your broker's job starts again the day your loan settles.",
+  "so_what": "Ask your broker what happens after settlement and when your first scheduled review is. If there isn't one, that's your answer."
+ },
+ {
+  "id": "how-we-work-warm-referrals-c1",
+  "type": "take",
+  "hook": "A good referral isn't a phone number. It's a briefing.",
+  "so_what": "When your broker refers you on, ask what they've already shared and how they vetted the person you're being sent to."
+ },
+ {
+  "id": "how-we-work-calm-person-on-the-call-c1",
+  "type": "take",
+  "hook": "Our job is to be the only calm person on the call.",
+  "so_what": "When a deal gets tense, ask your broker what the lender actually needs, rather than reacting to the email."
+ }
+]

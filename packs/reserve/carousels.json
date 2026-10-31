@@ -1,0 +1,1574 @@
+{
+ "series": "carousels",
+ "title": "Carousels",
+ "description": "Twenty reserve carousels: what-actually-happens walkthroughs, before-you-sign checklists, five-things-we-check and plain-English explainers across first home, investors, business owners, refinancing and how we work.",
+ "posts": [
+  {
+   "id": "build-first-home",
+   "slot": "carousels",
+   "pillar": "first-home",
+   "insight_keys": [
+    "sequence_land_and_build_contracts_before_signing",
+    "never_sign_land_contract_unreviewed",
+    "ask_for_fixed_price_and_time_no_harm_asking",
+    "two_places_a_build_loses_time",
+    "construction_loans_progress_draws",
+    "interest_only_during_build_cushions_rent_plus_repayments"
+   ],
+   "needs_confirmation": true,
+   "hook": "Building your first home? Here&rsquo;s what actually happens, in order.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "cover",
+     "label": "first home",
+     "hook": "Building your first home? Here&rsquo;s what actually happens, in order.",
+     "sub": "Land contract, build contract, the wait, the progress payments. The order matters more than people think."
+    },
+    {
+     "id": "c2",
+     "type": "point",
+     "label": "first home",
+     "n": 1,
+     "of": 5,
+     "title": "Contract order comes first",
+     "body": "Whether you sign land and build together or land first changes which low-deposit options you qualify for. We work the order out before anyone signs a block."
+    },
+    {
+     "id": "c3",
+     "type": "point",
+     "label": "first home",
+     "n": 2,
+     "of": 5,
+     "title": "The land contract gets reviewed",
+     "body": "We won&rsquo;t let a client sign a developer&rsquo;s land contract without a solicitor reading it. Titling dates, sunset clauses and finance timing all live in there."
+    },
+    {
+     "id": "c4",
+     "type": "point",
+     "label": "first home",
+     "n": 3,
+     "of": 5,
+     "title": "Ask for a fixed price",
+     "body": "Fixed-price and completion-time clauses are harder to get than they were. They are still negotiable at signing. Ask every time. You lose nothing."
+    },
+    {
+     "id": "c5",
+     "type": "point",
+     "label": "first home",
+     "n": 4,
+     "of": 5,
+     "title": "Where a build loses time",
+     "body": "Two places: land titling and the builder. Land delays cost you little, no mortgage has started. Builder delays cost rent and interest together. Put your energy there."
+    },
+    {
+     "id": "c6",
+     "type": "point",
+     "label": "first home",
+     "n": 5,
+     "of": 5,
+     "title": "Progress payments, step by step",
+     "body": "You don&rsquo;t pay on the whole loan from day one. Money goes to the builder in stages, usually interest-only, so repayments rise as the house does."
+    },
+    {
+     "id": "c7",
+     "type": "cta",
+     "label": "first home",
+     "headline": "Building? Get the order right first.",
+     "body": "Fifteen minutes before you sign anything saves months later.",
+     "button": "Book a quick chat &rarr;"
+    }
+   ],
+   "linkedin": "Building your first home? Here's what actually happens, in order.\n\nMost people start with the builder's brochure. We start with the paperwork order, because whether you sign the land and build contracts together or land first can change which low-deposit options you qualify for. That decision is made before anyone signs a block.\n\nThen the land contract goes to a solicitor, every time. Titling dates, sunset clauses and finance timing live in that document, and a developer's contract is written for the developer.\n\nThe slide on where a build loses time is the one to screenshot. Land delays cost you very little. Builder delays cost you rent and interest at the same time. That's where the negotiating energy goes.\n\nThe rest is in the carousel, including how progress payments actually work.\n\nGeneral information only, not personal advice.",
+   "instagram": "Building your first home? Here's what actually happens, in order. Swipe through.\n\nContract order first, because it decides which low-deposit options you can use. Land contract to a solicitor, always. Ask the builder for a fixed price and a deadline. Know where a build loses time, and that it's the builder, not the land, that costs you. Then progress payments, stage by stage, with repayments rising as the house does.\n\nWhich stage of a build worries you most?\n\nGeneral information only, not personal advice.\n\n#firsthomebuyer #houseandland #newbuild #mortgagebroker #lendingleverage"
+  },
+  {
+   "id": "settlement-day",
+   "slot": "carousels",
+   "pillar": "first-home",
+   "insight_keys": [
+    "keep_the_deposit_in_trust_until_settlement",
+    "deposit_must_land_before_settlement_not_application",
+    "check_loan_docs_match_the_structure",
+    "no_new_credit_between_approval_and_the_next_assessment",
+    "take_the_full_penalty_free_extension",
+    "settlement_extension_check_the_other_side"
+   ],
+   "needs_confirmation": true,
+   "hook": "Settlement day is boring when it goes right. Here&rsquo;s how we keep it boring.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "cover",
+     "label": "first home",
+     "hook": "Settlement day is boring when it goes right. Here&rsquo;s how we keep it boring.",
+     "sub": "What actually happens between approval and keys, and the small things that break it."
+    },
+    {
+     "id": "c2",
+     "type": "point",
+     "label": "first home",
+     "n": 1,
+     "of": 5,
+     "title": "Your deposit stays in trust",
+     "body": "We prefer the deposit sits in the agent&rsquo;s trust account until settlement. Releasing it early to the seller removes your protection if the deal falls over."
+    },
+    {
+     "id": "c3",
+     "type": "point",
+     "label": "first home",
+     "n": 2,
+     "of": 5,
+     "title": "Funds land before settlement",
+     "body": "You don&rsquo;t need every dollar in one account on application day. You need it verifiable and in Australia by settlement, with the transfers timed and documented."
+    },
+    {
+     "id": "c4",
+     "type": "point",
+     "label": "first home",
+     "n": 3,
+     "of": 5,
+     "title": "We read the loan documents",
+     "body": "The moment the deal goes unconditional we check the lender&rsquo;s documents against what was approved. Interest-only periods and offsets have a habit of going missing in between."
+    },
+    {
+     "id": "c5",
+     "type": "point",
+     "label": "first home",
+     "n": 4,
+     "of": 5,
+     "title": "Nothing new on credit",
+     "body": "Between approval and settlement, no new card, lease or car loan. A fresh commitment can shrink the capacity you were approved on and reopen a finished file."
+    },
+    {
+     "id": "c6",
+     "type": "point",
+     "label": "first home",
+     "n": 5,
+     "of": 5,
+     "title": "If the date moves",
+     "body": "Ask once, for the full penalty-free window the contract allows, and check what the delay does to the people on the other side before you ask."
+    },
+    {
+     "id": "c7",
+     "type": "cta",
+     "label": "first home",
+     "headline": "Settlement should be the dull bit.",
+     "body": "Tell us your contract dates and we&rsquo;ll map the rest.",
+     "button": "Book a quick chat &rarr;"
+    }
+   ],
+   "linkedin": "Settlement day is boring when it goes right. Here's how we keep it boring.\n\nThe days between approval and keys are where a good purchase gets messy. Not because anything dramatic happens, but because small things get missed.\n\nThe deposit stays in the agent's trust account until settlement, because releasing it early hands your protection to the seller. The loan documents get read by us the moment the deal goes unconditional, because the structure we fought for has a habit of going missing between approval and contract.\n\nAnd nothing new goes on your credit file until the keys are in your hand. A car loan in that window can reopen a file that was finished.\n\nThe carousel covers the rest, including what to do if a settlement date has to move.\n\nGeneral information only, not personal advice.",
+   "instagram": "Settlement day is boring when it goes right. Swipe for how we keep it that way.\n\nDeposit stays in trust until the day. Funds verifiable and in Australia by settlement, not on day one. We read the loan documents before you sign them. No new credit between approval and keys. And if a date has to move, ask once, for the full window, after checking what it does to the other side.\n\nWhich of these did nobody tell you before your first purchase?\n\nGeneral information only, not personal advice.\n\n#settlementday #firsthomebuyer #homeloan #mortgagebroker #lendingleverage"
+  },
+  {
+   "id": "after-settlement",
+   "slot": "carousels",
+   "pillar": "how-we-work",
+   "insight_keys": [
+    "client_care_rhythm_six_touchpoints",
+    "have_your_salary_land_in_the_offset",
+    "debt_gets_easier_over_time",
+    "home_buyers_buy_a_car_within_six_months",
+    "protection_conversation_after_approval",
+    "trapped_equity_can_buy_another_income_asset"
+   ],
+   "needs_confirmation": true,
+   "hook": "You&rsquo;ve got the keys. Our job starts again.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "cover",
+     "label": "how we work",
+     "hook": "You&rsquo;ve got the keys. Our job starts again.",
+     "sub": "What actually happens after settlement: reviews, the offset habit, the car, the equity check."
+    },
+    {
+     "id": "c2",
+     "type": "point",
+     "label": "how we work",
+     "n": 1,
+     "of": 5,
+     "title": "Settlement is the start",
+     "body": "We run six touchpoints a year after settlement, including rate reviews at six and twelve months and an equity check. That&rsquo;s the relationship, not the paperwork."
+    },
+    {
+     "id": "c3",
+     "type": "point",
+     "label": "how we work",
+     "n": 2,
+     "of": 5,
+     "title": "Pay lands in the offset",
+     "body": "Change your payroll account to the offset and spend from there. The balance grows by default and interest falls every month without extra discipline."
+    },
+    {
+     "id": "c4",
+     "type": "point",
+     "label": "how we work",
+     "n": 3,
+     "of": 5,
+     "title": "Year one is the hardest",
+     "body": "A mortgage feels biggest on day one. In our experience it gets easier to carry as time goes on. Plan your buffer for the first two years."
+    },
+    {
+     "id": "c5",
+     "type": "point",
+     "label": "how we work",
+     "n": 4,
+     "of": 5,
+     "title": "The car conversation",
+     "body": "Most people who buy a home buy a car within six months. We&rsquo;d rather talk about how you&rsquo;d fund it now than after it has blown the budget."
+    },
+    {
+     "id": "c6",
+     "type": "point",
+     "label": "how we work",
+     "n": 5,
+     "of": 5,
+     "title": "The equity check",
+     "body": "Once the home has grown, equity sitting in it has done its job once. The review asks whether it should be doing a second one."
+    },
+    {
+     "id": "c7",
+     "type": "cta",
+     "label": "how we work",
+     "headline": "Keys in hand? Book the first review.",
+     "body": "Six months after settlement is when the first check happens.",
+     "button": "Book a quick chat &rarr;"
+    }
+   ],
+   "linkedin": "You've got the keys. Our job starts again.\n\nMost people think a broker's work ends at settlement. For us it's where the relationship actually starts. We run six touchpoints a year after settlement: rate reviews at six and twelve months, an equity check, and the conversations in between.\n\nThe first habit we set up is simple. Your pay lands in the offset and you spend from there, so the balance grows by default and interest falls without any extra discipline.\n\nThe slide on the car is the one people laugh at and then nod. Most new home owners buy a car within six months. We'd rather plan it than discover it.\n\nThe equity check comes later, once the home has grown. The rest is in the carousel.\n\nGeneral information only, not personal advice.",
+   "instagram": "You've got the keys. Our job starts again. Swipe for what actually happens after settlement.\n\nSix touchpoints a year, with rate reviews at six and twelve months. Pay into the offset, spend from the offset. A buffer for the first two years, because that's when the loan feels biggest. The car conversation before the car. And an equity check once the home has grown.\n\nWhen did your broker last call you after settlement?\n\nGeneral information only, not personal advice.\n\n#homeowner #offsetaccount #mortgagebroker #moneyhabits #lendingleverage"
+  },
+  {
+   "id": "parental-guarantor",
+   "slot": "carousels",
+   "pillar": "first-home",
+   "insight_keys": [
+    "strong_income_plus_guarantor_beats_no_deposit",
+    "capacity_problems_need_cash_flow_fixes_not_guarantors",
+    "guarantor_home_is_locked_in_for_years",
+    "guarantor_legal_advice_needs_a_solicitor_not_a_jp",
+    "a_parent_near_retirement_shortens_the_loan_runway"
+   ],
+   "needs_confirmation": true,
+   "hook": "Mum and Dad going guarantor? Here&rsquo;s what they actually sign.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "cover",
+     "label": "first home",
+     "hook": "Mum and Dad going guarantor? Here&rsquo;s what they actually sign.",
+     "sub": "What a parental guarantor does, what it doesn&rsquo;t fix, and the appointment nobody books early enough."
+    },
+    {
+     "id": "c2",
+     "type": "point",
+     "label": "first home",
+     "n": 1,
+     "of": 5,
+     "title": "What it actually solves",
+     "body": "A strong income with little savings is very financeable when a parent offers their property as security. The loan can cover price and costs. The question becomes servicing."
+    },
+    {
+     "id": "c3",
+     "type": "point",
+     "label": "first home",
+     "n": 2,
+     "of": 5,
+     "title": "What it doesn&rsquo;t fix",
+     "body": "A guarantor fixes a deposit problem, not a repayment problem. If the shortfall is servicing, the fix is lower monthly commitments, not Mum and Dad."
+    },
+    {
+     "id": "c4",
+     "type": "point",
+     "label": "first home",
+     "n": 3,
+     "of": 5,
+     "title": "Their house is tied up",
+     "body": "The parents&rsquo; home is committed for several years. If they sell before the security is released, a cash contribution is usually required. The whole family agrees the timeline."
+    },
+    {
+     "id": "c5",
+     "type": "point",
+     "label": "first home",
+     "n": 4,
+     "of": 5,
+     "title": "The legal advice appointment",
+     "body": "Guarantors need a certificate of independent legal advice. A JP can&rsquo;t sign it, only a solicitor can. We book it the day loan documents are issued."
+    },
+    {
+     "id": "c6",
+     "type": "point",
+     "label": "first home",
+     "n": 5,
+     "of": 5,
+     "title": "Guarantor, not co-borrower",
+     "body": "A parent near retirement on the loan itself is help for a few years, not thirty, because lenders assess their income to retirement. Security alone often achieves more."
+    },
+    {
+     "id": "c7",
+     "type": "cta",
+     "label": "first home",
+     "headline": "Helping a child into a home?",
+     "body": "Bring the parents to the first chat. It&rsquo;s a family decision.",
+     "button": "Book a quick chat &rarr;"
+    }
+   ],
+   "linkedin": "Mum and Dad going guarantor? Here's what they actually sign.\n\nA parental guarantor is one of the most useful tools we have for a first-home buyer with a strong income and a thin deposit. It is also one of the most misunderstood, usually by the parents.\n\nThe slide to start with is what it doesn't fix. A guarantor solves a deposit problem. If the shortfall is in repayments, the parents' signature changes nothing, and the fix is on the monthly commitments instead.\n\nThen the practical bits. Their home is tied up for several years and selling early usually means a cash contribution. And the independent legal advice certificate needs a solicitor, not a JP, which is why we book that appointment the day loan documents are issued rather than discovering it at settlement.\n\nThe carousel has all five.\n\nGeneral information only, not personal advice.",
+   "instagram": "Mum and Dad going guarantor? Swipe for what they actually sign.\n\nIt solves a deposit problem, not a repayment problem. Their home is tied up for several years, and selling early usually means putting cash in. The legal advice certificate needs a solicitor, not a JP. And security from a parent often does more, for longer, than putting a parent near retirement on the loan itself.\n\nHas your family talked about the release timeline, or just the signature?\n\nGeneral information only, not personal advice.\n\n#guarantor #firsthomebuyer #familyfinance #mortgagebroker #lendingleverage"
+  },
+  {
+   "id": "refinancing-honestly",
+   "slot": "carousels",
+   "pillar": "refinancing-honestly",
+   "insight_keys": [
+    "dont_refinance_for_small_gains",
+    "run_the_valuation_before_you_send_a_single_payslip",
+    "valuations_vary_by_lender_so_test_before_you_commit",
+    "pay_down_to_80_lvr_to_unlock_better_rate",
+    "switching_lenders_is_redirecting_your_salary",
+    "refinance_small_surplus_covers_interest_gap"
+   ],
+   "needs_confirmation": true,
+   "hook": "What actually happens when you ask us to refinance. Sometimes we say don&rsquo;t.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "cover",
+     "label": "refinancing",
+     "hook": "What actually happens when you ask us to refinance. Sometimes we say don&rsquo;t.",
+     "sub": "Valuation first, paperwork second, and a few honest reasons to leave a good loan alone."
+    },
+    {
+     "id": "c2",
+     "type": "point",
+     "label": "refinancing",
+     "n": 1,
+     "of": 5,
+     "title": "Sometimes the answer is no",
+     "body": "We won&rsquo;t move a loan just to move it. If you already have a good rate and we can&rsquo;t add a real structural benefit, we&rsquo;d rather leave it alone."
+    },
+    {
+     "id": "c3",
+     "type": "point",
+     "label": "refinancing",
+     "n": 2,
+     "of": 5,
+     "title": "Valuation before payslips",
+     "body": "Before we ask for a single document we order valuations, because the property value decides whether a refinance is even worth doing."
+    },
+    {
+     "id": "c4",
+     "type": "point",
+     "label": "refinancing",
+     "n": 3,
+     "of": 5,
+     "title": "One valuation is one opinion",
+     "body": "The spread between lenders&rsquo; valuations can be the difference between a yes and a no. We run several before committing anywhere."
+    },
+    {
+     "id": "c5",
+     "type": "point",
+     "label": "refinancing",
+     "n": 4,
+     "of": 5,
+     "title": "Repricing can beat moving",
+     "body": "If a valuation lands you close to the next pricing tier, a modest lump sum and a reprice with your current lender can beat discharging. Same offsets, no exit fees."
+    },
+    {
+     "id": "c6",
+     "type": "point",
+     "label": "refinancing",
+     "n": 5,
+     "of": 5,
+     "title": "Moving is one form",
+     "body": "Switching banks is redirecting your salary into the new offset. Bills can stay where they are. And the new loan settles slightly above the payout on purpose; the surplus lands in your offset."
+    },
+    {
+     "id": "c7",
+     "type": "cta",
+     "label": "refinancing",
+     "headline": "Not sure your loan needs moving?",
+     "body": "Ask us. The honest answer might be leave it.",
+     "button": "Book a quick chat &rarr;"
+    }
+   ],
+   "linkedin": "What actually happens when you ask us to refinance. Sometimes we say don't.\n\nWe won't move a loan just to move it. If you already have a good rate and we can't add a real structural benefit, a needed cash-out, a cleaner split, a better fit for the next purchase, we'd rather leave it alone and tell you so.\n\nWhen it is worth looking at, the order matters. Valuation first, paperwork second. The property value decides whether the exercise makes sense, so we order valuations with several lenders before asking for a payslip.\n\nThe slide on repricing is the quiet one. Sometimes a small lump sum and a reprice with your current bank does more than a move, with no exit fees and the same offsets.\n\nThe rest, including why the new loan settles slightly above the old balance, is in the carousel.\n\nGeneral information only, not personal advice.",
+   "instagram": "What actually happens when you ask us to refinance. Swipe through, because sometimes the answer is don't.\n\nWe won't move a loan just to move it. Valuation first, paperwork second. One lender's valuation is one opinion, so we run several. Sometimes a reprice with your current bank beats moving. And if you do move, switching is mostly one form: where your pay goes.\n\nWhen did someone last tell you not to refinance?\n\nGeneral information only, not personal advice.\n\n#refinance #homeloan #mortgagebroker #honestadvice #lendingleverage"
+  },
+  {
+   "id": "business-from-equity",
+   "slot": "carousels",
+   "pillar": "business-owners",
+   "insight_keys": [
+    "mortgage_backed_credit_cheapest_for_business",
+    "keep_the_family_home_out_of_business_security",
+    "interest_only_pockets_for_a_business_that_dips_in_and_out",
+    "transact_through_offset_never_redraw",
+    "loan_agreement_when_funding_a_trust",
+    "one_conversation_per_bank_or_purposes_collide"
+   ],
+   "needs_confirmation": true,
+   "hook": "Funding your business from your home&rsquo;s equity. What actually happens.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "cover",
+     "label": "business owners",
+     "hook": "Funding your business from your home&rsquo;s equity. What actually happens.",
+     "sub": "The cheapest money, the house question, the separate pocket, and the paperwork your accountant will want."
+    },
+    {
+     "id": "c2",
+     "type": "point",
+     "label": "business owners",
+     "n": 1,
+     "of": 5,
+     "title": "Why it&rsquo;s the cheapest money",
+     "body": "Credit secured by residential property is usually the cheapest funding a business can get, compared with an unsecured line or overdraft. That&rsquo;s why the question comes up."
+    },
+    {
+     "id": "c3",
+     "type": "point",
+     "label": "business owners",
+     "n": 2,
+     "of": 5,
+     "title": "Is the house in?",
+     "body": "We start unsecured or with the smallest security a lender accepts. If property has to come in, an investment property goes before the family home. Your call, and we respect it."
+    },
+    {
+     "id": "c4",
+     "type": "point",
+     "label": "business owners",
+     "n": 3,
+     "of": 5,
+     "title": "A pocket, not a top-up",
+     "body": "Business funds sit in their own interest-only split beside the home loan. The pocket carries its own purpose; the home loan keeps getting paid down untouched."
+    },
+    {
+     "id": "c5",
+     "type": "point",
+     "label": "business owners",
+     "n": 4,
+     "of": 5,
+     "title": "Draw from the offset",
+     "body": "Funds are drawn into an offset, never transacted through redraw. The money costs nothing until used and the loan stays clean for your accountant."
+    },
+    {
+     "id": "c6",
+     "type": "point",
+     "label": "business owners",
+     "n": 5,
+     "of": 5,
+     "title": "Paper the entity loan",
+     "body": "If you borrow personally and lend to your company or trust, ask your accountant whether a formal loan agreement is needed before the funds move. Usually yes."
+    },
+    {
+     "id": "c7",
+     "type": "cta",
+     "label": "business owners",
+     "headline": "Business needs cash? Start with the structure.",
+     "body": "One conversation with your broker and accountant before the bank.",
+     "button": "Book a quick chat &rarr;"
+    }
+   ],
+   "linkedin": "Funding your business from your home's equity. What actually happens.\n\nIt comes up because the maths is hard to argue with. Credit secured by residential property is usually the cheapest money a business can borrow.\n\nBut the next slide is the one we spend the most time on: do you want the house involved at all? We start unsecured or with the smallest security a lender will take. If property has to come in, an investment property goes before anyone's family home. Plenty of owners say no, and we respect that.\n\nIf you proceed, the structure is a separate interest-only pocket beside the home loan, drawn through an offset, never redraw, with a loan agreement to the entity if your accountant says so.\n\nAnd one voice talks to the bank. Two requests to one lender at once is how both die.\n\nGeneral information only, not personal advice.",
+   "instagram": "Funding your business from your home's equity. Swipe for what actually happens.\n\nIt's usually the cheapest money a business can borrow. The first question is whether you want the house involved at all, and no is a fine answer. If yes: a separate interest-only pocket beside the home loan, drawn through an offset, never redraw, and a loan agreement to the entity if your accountant wants one.\n\nWould you put your home behind your business, or keep them apart?\n\nGeneral information only, not personal advice.\n\n#businessowner #businessfinance #equity #mortgagebroker #lendingleverage"
+  },
+  {
+   "id": "before-land-contract",
+   "slot": "carousels",
+   "pillar": "first-home",
+   "insight_keys": [
+    "never_sign_land_contract_unreviewed",
+    "sunset_clause_get_advice_before_you_sign_or_extend",
+    "compare_build_cost_to_established_homes",
+    "a_finance_clause_is_your_penalty_free_exit",
+    "dont_bank_on_the_grant_at_settlement"
+   ],
+   "needs_confirmation": true,
+   "hook": "Before you sign a land or off-the-plan contract, five checks.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "cover",
+     "label": "first home",
+     "hook": "Before you sign a land or off-the-plan contract, five checks.",
+     "sub": "The developer&rsquo;s contract is written for the developer. Here&rsquo;s what we look for before you sign."
+    },
+    {
+     "id": "c2",
+     "type": "point",
+     "label": "first home",
+     "n": 1,
+     "of": 5,
+     "title": "A lawyer has read it",
+     "body": "We don&rsquo;t let a client sign a developer&rsquo;s contract without a solicitor reviewing it first. If you don&rsquo;t have one, we refer one."
+    },
+    {
+     "id": "c3",
+     "type": "point",
+     "label": "first home",
+     "n": 2,
+     "of": 5,
+     "title": "The sunset clause",
+     "body": "Developers use sunset clauses to buy themselves time. Negotiate it at signing, and never sign an extension request without your solicitor and broker seeing what it does to your finance."
+    },
+    {
+     "id": "c4",
+     "type": "point",
+     "label": "first home",
+     "n": 3,
+     "of": 5,
+     "title": "Land plus build vs established",
+     "body": "Add up land and build, then look at what finished homes nearby sell for. If the new build is well above, it has to justify the gap on quality, not newness."
+    },
+    {
+     "id": "c5",
+     "type": "point",
+     "label": "first home",
+     "n": 4,
+     "of": 5,
+     "title": "A finance clause",
+     "body": "A lender won&rsquo;t put an unusual property in writing before a valuation, and the valuation needs a signed contract. The finance clause is how you sign and still have an exit."
+    },
+    {
+     "id": "c6",
+     "type": "point",
+     "label": "first home",
+     "n": 5,
+     "of": 5,
+     "title": "The grant is a bonus",
+     "body": "We plan settlement as if any grant might not land in time. Keep enough of your own cash to settle without it, and chase it afterwards."
+    },
+    {
+     "id": "c7",
+     "type": "cta",
+     "label": "first home",
+     "headline": "Got a contract in your inbox?",
+     "body": "Send it to us before you send it back.",
+     "button": "Book a quick chat &rarr;"
+    }
+   ],
+   "linkedin": "Before you sign a land or off-the-plan contract, five checks.\n\nA developer's contract is written by the developer's lawyers for the developer's benefit. That's not sinister, it's just who drafted it. So the first rule is simple: a solicitor reads it before you sign, and if you don't have one, we refer one.\n\nThe sunset clause slide is the one people skip and regret. It can be negotiated at signing, and when the developer runs late and asks you to extend, that request goes to your solicitor and broker before anyone replies.\n\nAnd the finance clause. A lender won't commit to an unusual property in writing before a valuation, and the valuation needs a signed contract. The clause is how you sign and still have a penalty-free way out.\n\nThe other two are in the carousel.\n\nGeneral information only, not personal advice.",
+   "instagram": "Before you sign a land or off-the-plan contract, five checks. Swipe through.\n\nA solicitor reads it first. The sunset clause gets negotiated at signing and never extended without advice. Land plus build gets compared to established homes nearby. There's a finance clause so you can sign and still have an exit. And the grant is a bonus, never the deposit.\n\nWhich of these five did your contract have covered?\n\nGeneral information only, not personal advice.\n\n#offtheplan #houseandland #firsthomebuyer #mortgagebroker #lendingleverage"
+  },
+  {
+   "id": "before-loan-documents",
+   "slot": "carousels",
+   "pillar": "money-habits",
+   "insight_keys": [
+    "check_loan_docs_match_the_structure",
+    "every_fee_listed_is_not_every_fee_charged",
+    "one_offset_each_on_a_joint_loan",
+    "thirty_year_term_pay_like_twenty_five",
+    "if_we_cant_draw_your_structure_you_wont_use_it_right"
+   ],
+   "needs_confirmation": true,
+   "hook": "Before you sign the loan documents, five things to check.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "cover",
+     "label": "money habits",
+     "hook": "Before you sign the loan documents, five things to check.",
+     "sub": "Approved isn&rsquo;t the same as written down. Here&rsquo;s what we read before the documents reach you."
+    },
+    {
+     "id": "c2",
+     "type": "point",
+     "label": "money habits",
+     "n": 1,
+     "of": 5,
+     "title": "Does it match the approval?",
+     "body": "Repayment type, term, offset, interest-only period. The structure we fought for has a habit of going missing between approval and contract. Check every line."
+    },
+    {
+     "id": "c3",
+     "type": "point",
+     "label": "money habits",
+     "n": 2,
+     "of": 5,
+     "title": "Fees: the worst-case list",
+     "body": "The documents list every fee the lender could ever charge, because the law says so. Most never apply. Ask which two or three you will actually pay."
+    },
+    {
+     "id": "c4",
+     "type": "point",
+     "label": "money habits",
+     "n": 3,
+     "of": 5,
+     "title": "Enough offset accounts",
+     "body": "On a joint loan we set up one offset per partner, so each keeps their own savings visible and working against the same debt. Ask now, not after."
+    },
+    {
+     "id": "c5",
+     "type": "point",
+     "label": "money habits",
+     "n": 4,
+     "of": 5,
+     "title": "The longest term available",
+     "body": "Write it over thirty years and pay it like twenty-five. The long term protects your capacity for the next move. Your extra repayments do the real work."
+    },
+    {
+     "id": "c6",
+     "type": "point",
+     "label": "money habits",
+     "n": 5,
+     "of": 5,
+     "title": "The napkin test",
+     "body": "If the structure can&rsquo;t be drawn on one page with arrows showing where money flows, it is too complicated to run. Ask for the drawing before you sign."
+    },
+    {
+     "id": "c7",
+     "type": "cta",
+     "label": "money habits",
+     "headline": "Documents arrived and look like a phone book?",
+     "body": "Send them over. We&rsquo;ll walk the pages that matter.",
+     "button": "Book a quick chat &rarr;"
+    }
+   ],
+   "linkedin": "Before you sign the loan documents, five things to check.\n\nApproved isn't the same as written down. We read the loan documents on the lender portal the moment a deal goes unconditional, before they reach the client, because the structure we fought for has a habit of going missing between approval and contract. Interest-only periods especially.\n\nThe fee schedule slide is there to calm you down. The documents list every fee the lender could ever charge because the law requires it. Most are for situations you'll never meet. Ask which two or three you will actually pay.\n\nAnd the napkin test. If your structure can't be drawn on one page with arrows showing where the money moves, it's too clever to run correctly. We'd rather draw it for you now than explain it later.\n\nAll five in the carousel.\n\nGeneral information only, not personal advice.",
+   "instagram": "Before you sign the loan documents, five things to check. Swipe through.\n\nDoes it match what was approved, line by line? The fee list is every fee that could happen, not what will. Is there an offset for each of you? Is it the longest term available, so your capacity stays open? And can the whole structure fit on a napkin?\n\nDid anyone walk you through your last loan documents, or did you just sign?\n\nGeneral information only, not personal advice.\n\n#homeloan #loandocuments #moneyhabits #mortgagebroker #lendingleverage"
+  },
+  {
+   "id": "before-buying-with-sibling",
+   "slot": "carousels",
+   "pillar": "first-home",
+   "insight_keys": [
+    "buying_with_family_common_debt_reducer",
+    "co_buy_one_lives_one_invests_split_the_loan",
+    "co_owner_on_title_may_be_asked_onto_the_loan",
+    "joint_asset_nothing_moves_without_both_signatures",
+    "security_guarantor_not_servicing_guarantor"
+   ],
+   "needs_confirmation": true,
+   "hook": "Buying with a sibling or a mate? Settle these five things first.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "cover",
+     "label": "first home",
+     "hook": "Buying with a sibling or a mate? Settle these five things first.",
+     "sub": "Two names on a title is simple. Two names on a loan, years later, is where it gets interesting."
+    },
+    {
+     "id": "c2",
+     "type": "point",
+     "label": "first home",
+     "n": 1,
+     "of": 5,
+     "title": "The next lender&rsquo;s view",
+     "body": "When one of you later wants to buy alone, some lenders count only your share of the joint loan. Others count all of it. We model both before anyone co-buys."
+    },
+    {
+     "id": "c3",
+     "type": "point",
+     "label": "first home",
+     "n": 2,
+     "of": 5,
+     "title": "One lives there, one invests",
+     "body": "The loan can be split: an owner-occupier portion for the resident, an investment portion for the other. It takes workshopping, but it is a normal structure."
+    },
+    {
+     "id": "c4",
+     "type": "point",
+     "label": "first home",
+     "n": 3,
+     "of": 5,
+     "title": "Title versus loan",
+     "body": "If someone is on the title but not the loan, most lenders still want them as a guarantor or co-borrower. Decide who is on what with your solicitor before you apply."
+    },
+    {
+     "id": "c5",
+     "type": "point",
+     "label": "first home",
+     "n": 4,
+     "of": 5,
+     "title": "Nothing moves without both",
+     "body": "Any refinance or restructure against a jointly owned property needs both owners to agree. Have the conversation together before you come to us."
+    },
+    {
+     "id": "c6",
+     "type": "point",
+     "label": "first home",
+     "n": 5,
+     "of": 5,
+     "title": "Security isn&rsquo;t servicing",
+     "body": "A co-owner can sign as a security guarantor so you can borrow against the property without their income being assessed. Most people only need that."
+    },
+    {
+     "id": "c7",
+     "type": "cta",
+     "label": "first home",
+     "headline": "Co-buying? Draw it up before you sign.",
+     "body": "A short chat now is cheaper than a disagreement later.",
+     "button": "Book a quick chat &rarr;"
+    }
+   ],
+   "linkedin": "Buying with a sibling or a mate? Settle these five things first.\n\nCo-buying gets people into the market who couldn't do it alone. It also creates a loan that follows both of you for years, so we have the awkward conversations now.\n\nThe first slide decides whether it's a good idea. When one of you later wants to buy alone, some lenders count only your share of the joint loan against you. Others count the whole thing. We model it both ways before advising anyone to co-buy.\n\nIf one of you will live there and the other won't, the loan can be split into an owner-occupier portion and an investment portion. It takes workshopping with lenders, but it's a normal structure and nobody has to pretend anything.\n\nTitle versus loan, both signatures, and the security-only option are in the carousel.\n\nGeneral information only, not personal advice.",
+   "instagram": "Buying with a sibling or a mate? Swipe for the five things to settle first.\n\nHow will the next lender read the joint loan when one of you buys alone? Can the loan be split if one lives there and one invests? Who's on title and who's on the loan? Nothing moves later without both signatures. And a co-owner can give security without being assessed on income.\n\nHave you and your co-buyer talked about what happens when one of you wants out?\n\nGeneral information only, not personal advice.\n\n#cobuying #firsthomebuyer #propertytogether #mortgagebroker #lendingleverage"
+  },
+  {
+   "id": "before-build-contract",
+   "slot": "carousels",
+   "pillar": "first-home",
+   "insight_keys": [
+    "sign_a_fixed_price_build_contract_early",
+    "quote_other_builders_even_if_you_keep_yours",
+    "cheap_builder_costs_you_in_five_years",
+    "see_every_builder_in_one_trip",
+    "pay_for_the_lender_that_inspects_your_build"
+   ],
+   "needs_confirmation": true,
+   "hook": "Before you sign a fixed-price build contract, five things.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "cover",
+     "label": "first home",
+     "hook": "Before you sign a fixed-price build contract, five things.",
+     "sub": "The price you lock is the price you pay. Here&rsquo;s what we check before you lock it."
+    },
+    {
+     "id": "c2",
+     "type": "point",
+     "label": "first home",
+     "n": 1,
+     "of": 5,
+     "title": "Lock the price early",
+     "body": "Build prices move while you wait. Once the land is certain, lock a fixed-price contract and read the terms. Builders are changing them."
+    },
+    {
+     "id": "c3",
+     "type": "point",
+     "label": "first home",
+     "n": 2,
+     "of": 5,
+     "title": "Two more quotes anyway",
+     "body": "Even if you&rsquo;ve signed a preliminary agreement, send your final spec to two other builders. Differences can be large, and the quotes confirm you&rsquo;re paying market rate."
+    },
+    {
+     "id": "c4",
+     "type": "point",
+     "label": "first home",
+     "n": 3,
+     "of": 5,
+     "title": "The builder, not the newness",
+     "body": "A new home is only as new as the builder who built it. Ask for addresses of homes they finished five years ago and go and look."
+    },
+    {
+     "id": "c5",
+     "type": "point",
+     "label": "first home",
+     "n": 4,
+     "of": 5,
+     "title": "Compare them side by side",
+     "body": "A display village puts several builders next to each other. You compare inclusions, quality and price in an afternoon, not one a weekend."
+    },
+    {
+     "id": "c6",
+     "type": "point",
+     "label": "first home",
+     "n": 5,
+     "of": 5,
+     "title": "Pay for the inspecting lender",
+     "body": "Some lenders charge a construction fee because they send a valuer to check each stage before releasing money. We recommend that over fee-free. It&rsquo;s a second set of eyes."
+    },
+    {
+     "id": "c7",
+     "type": "cta",
+     "label": "first home",
+     "headline": "About to sign with a builder?",
+     "body": "Send us the contract and the quote. Fifteen minutes.",
+     "button": "Book a quick chat &rarr;"
+    }
+   ],
+   "linkedin": "Before you sign a fixed-price build contract, five things.\n\nThe price you lock today is the price you pay, which is exactly why we want it locked early, once the land is certain, and why we want the terms read properly. Builders are changing them.\n\nThe slide people push back on is two more quotes. Even if you've already signed a preliminary agreement and intend to stay, send your final spec to two other builders. Price differences can be large, and if you stay put, the quotes confirm you're paying market rate.\n\nThen the question that matters more than the brochure: who is the builder? A new home is only as new as whoever built it. Ask for addresses of houses they finished five years ago and drive past.\n\nThe construction fee slide surprises people. Pay for the bank that inspects each stage.\n\nGeneral information only, not personal advice.",
+   "instagram": "Before you sign a fixed-price build contract, swipe for the five things we check.\n\nLock the price once the land is certain and read the terms. Get two more quotes on the same spec, even if you stay. Ask the builder for addresses from five years ago. Compare builders side by side in one trip. And pay for the lender that inspects each stage before paying the builder.\n\nWould you pay a fee for a second set of eyes on your builder?\n\nGeneral information only, not personal advice.\n\n#newbuild #buildingahome #firsthomebuyer #mortgagebroker #lendingleverage"
+  },
+  {
+   "id": "check-apartment",
+   "slot": "carousels",
+   "pillar": "first-home",
+   "insight_keys": [
+    "apartment_body_corporate_due_diligence",
+    "older_pocket_sized_unit_blocks",
+    "long_days_on_market_is_a_warning_light",
+    "buy_what_the_next_buyer_wants",
+    "never_use_the_agents_inspector_or_lawyer"
+   ],
+   "needs_confirmation": true,
+   "hook": "Five things we check on an apartment before you offer.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "cover",
+     "label": "first home",
+     "hook": "Five things we check on an apartment before you offer.",
+     "sub": "There&rsquo;s always a reason someone is selling. These are the places we look for it."
+    },
+    {
+     "id": "c2",
+     "type": "point",
+     "label": "first home",
+     "n": 1,
+     "of": 5,
+     "title": "The body corporate minutes",
+     "body": "Problems in apartments are often well hidden in the body corporate. Read the minutes and ask what the last three special levies were for."
+    },
+    {
+     "id": "c3",
+     "type": "point",
+     "label": "first home",
+     "n": 2,
+     "of": 5,
+     "title": "The block itself",
+     "body": "The type we quietly like: older, smaller blocks, no lift, decent land. Ask why the fees are what they are before you fall for a view."
+    },
+    {
+     "id": "c4",
+     "type": "point",
+     "label": "first home",
+     "n": 3,
+     "of": 5,
+     "title": "Days on market",
+     "body": "If similar apartments sold and this one has sat for months, it is telling you something: price, layout or a defect. Dig before you get excited about a bargain."
+    },
+    {
+     "id": "c5",
+     "type": "point",
+     "label": "first home",
+     "n": 4,
+     "of": 5,
+     "title": "Who buys it after you",
+     "body": "A layout the market dislikes is cheap to buy and hard to sell. Ask who the likely buyer is in a few years and whether this suits them."
+    },
+    {
+     "id": "c6",
+     "type": "point",
+     "label": "first home",
+     "n": 5,
+     "of": 5,
+     "title": "Whose inspector it is",
+     "body": "The agent&rsquo;s recommended inspector and lawyer work in the agent&rsquo;s world, not yours. The only people checking the property should be paid by you."
+    },
+    {
+     "id": "c7",
+     "type": "cta",
+     "label": "first home",
+     "headline": "Found an apartment you like?",
+     "body": "Send us the listing before the open. We&rsquo;ll start digging.",
+     "button": "Book a quick chat &rarr;"
+    }
+   ],
+   "linkedin": "Five things we check on an apartment before you offer.\n\nThere's always a reason someone is selling. A tired landlord is fine. A building problem is not, and in apartments that reason usually sits in the body corporate records. We read the minutes and ask what the last three special levies were for.\n\nThe slide on days on market is the simplest check and the most skipped. If comparable apartments sold and this one has sat for months, something is wrong with the price, the layout or the building. Find out which before you get excited about a bargain.\n\nAnd the last one is blunt. If the agent recommended the inspector or the lawyer, they are not yours. The only people checking the property should be paid by you.\n\nThe block type we quietly like, and the next-buyer test, are in the carousel.\n\nGeneral information only, not personal advice.",
+   "instagram": "Five things we check on an apartment before you offer. Swipe through.\n\nThe body corporate minutes and the last three special levies. The block itself, and why the fees are what they are. Days on market compared to similar listings. Who would buy it after you. And whether the inspector and lawyer are yours or the agent's.\n\nWhat's the one thing you'd want checked before buying an apartment?\n\nGeneral information only, not personal advice.\n\n#apartmentliving #firsthomebuyer #duediligence #mortgagebroker #lendingleverage"
+  },
+  {
+   "id": "check-investment-true-cost",
+   "slot": "carousels",
+   "pillar": "complex-lending",
+   "insight_keys": [
+    "know_the_two_year_holding_cost_before_you_sign",
+    "model_a_generous_cost_line_and_judge_the_property_by_it",
+    "older_properties_bring_little_depreciation",
+    "holding_cost_sets_the_growth_you_need",
+    "shop_the_landlord_insurance_every_year"
+   ],
+   "needs_confirmation": true,
+   "hook": "An investment property&rsquo;s true monthly cost. Five lines we check.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "cover",
+     "label": "investors",
+     "hook": "An investment property&rsquo;s true monthly cost. Five lines we check.",
+     "sub": "The brochure yield is not the number. These are the lines we put in front of you before you offer."
+    },
+    {
+     "id": "c2",
+     "type": "point",
+     "label": "investors",
+     "n": 1,
+     "of": 5,
+     "title": "Two years, after tax",
+     "body": "Before you sign, we put the monthly holding cost in front of you, before and after tax, then multiply it by two years. That total drives the decision."
+    },
+    {
+     "id": "c3",
+     "type": "point",
+     "label": "investors",
+     "n": 2,
+     "of": 5,
+     "title": "A fat cost line",
+     "body": "Rates, insurance, water, agent fees, maintenance, modelled generously. If the property can&rsquo;t live inside that budget, the problem is the property, not the budget."
+    },
+    {
+     "id": "c4",
+     "type": "point",
+     "label": "investors",
+     "n": 3,
+     "of": 5,
+     "title": "Little depreciation on old stock",
+     "body": "An older property brings little depreciation to claim, so the after-tax cost sits close to the pre-tax number. We model it that way. Confirm with your accountant."
+    },
+    {
+     "id": "c5",
+     "type": "point",
+     "label": "investors",
+     "n": 4,
+     "of": 5,
+     "title": "The growth you need",
+     "body": "Divide the annual out-of-pocket by the price. That is the growth the suburb has to deliver just to break even. Ask whether it ever has."
+    },
+    {
+     "id": "c6",
+     "type": "point",
+     "label": "investors",
+     "n": 5,
+     "of": 5,
+     "title": "The insurance line",
+     "body": "Insurance is the holding cost investors most often overpay. Three quotes with matching cover every renewal; the saving often beats any rate negotiation."
+    },
+    {
+     "id": "c7",
+     "type": "cta",
+     "label": "investors",
+     "headline": "Want the real monthly number on a property?",
+     "body": "Send us the listing and the rent appraisal.",
+     "button": "Book a quick chat &rarr;"
+    }
+   ],
+   "linkedin": "An investment property's true monthly cost. Five lines we check.\n\nThe brochure gives you a yield. We give you a monthly number, before and after tax, and then multiply it by two years, because the total you will carry before rent and value catch up is the number that should drive the decision.\n\nThe cost line is modelled fat on purpose. Rates, insurance, water, agent fees, maintenance. If a property can't live inside a generous budget, that's a problem with the property, not the budget.\n\nThe slide on growth is the one to hold onto. Divide what the property costs you a year by what you paid. That's the growth the suburb must deliver just to break even. Ask whether it ever has.\n\nDepreciation on older stock, and the insurance line, are in the carousel. The tax side is one for your accountant.\n\nGeneral information only, not personal advice.",
+   "instagram": "An investment property's true monthly cost. Swipe for the five lines we check.\n\nThe two-year holding cost, after tax. A deliberately generous cost line for rates, insurance and upkeep. How little depreciation an older property actually brings. The growth rate the suburb needs just to break even. And the insurance quote worth re-shopping every year.\n\nDo you know what your investment costs you each month, after everything?\n\nGeneral information only, not personal advice.\n\n#propertyinvestor #investmentproperty #holdingcosts #mortgagebroker #lendingleverage"
+  },
+  {
+   "id": "check-business-before-lender",
+   "slot": "carousels",
+   "pillar": "business-owners",
+   "insight_keys": [
+    "know_what_security_your_bank_already_holds",
+    "align_entity_ownership_before_a_business_refinance",
+    "the_risk_team_googles_every_director_in_your_group",
+    "one_big_customer_is_a_red_flag_to_a_bank",
+    "a_spreadsheet_is_not_evidence_official_prints_only"
+   ],
+   "needs_confirmation": true,
+   "hook": "Five things we check on your business before a lender does.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "cover",
+     "label": "business owners",
+     "hook": "Five things we check on your business before a lender does.",
+     "sub": "Credit teams find these anyway. We&rsquo;d rather find them first and have the answer ready."
+    },
+    {
+     "id": "c2",
+     "type": "point",
+     "label": "business owners",
+     "n": 1,
+     "of": 5,
+     "title": "What your bank already holds",
+     "body": "A small facility can carry a general security over your whole business without you noticing. It surfaces when a new lender does due diligence and holds up settlement."
+    },
+    {
+     "id": "c3",
+     "type": "point",
+     "label": "business owners",
+     "n": 2,
+     "of": 5,
+     "title": "Does the chart line up?",
+     "body": "Fast refinance pathways rely on the same people owning and directing every entity on the loan. Mismatches turn a quick file into exceptions."
+    },
+    {
+     "id": "c4",
+     "type": "point",
+     "label": "business owners",
+     "n": 3,
+     "of": 5,
+     "title": "Every director, every old venture",
+     "body": "Risk teams review every entity and director in your group, including dormant companies and former partners. We prepare the one-paragraph explanation before credit asks."
+    },
+    {
+     "id": "c5",
+     "type": "point",
+     "label": "business owners",
+     "n": 4,
+     "of": 5,
+     "title": "Customer concentration",
+     "body": "One huge customer makes your accountant happy and your banker nervous. Lenders want the contract terms, the pipeline beyond it and a second way out."
+    },
+    {
+     "id": "c6",
+     "type": "point",
+     "label": "business owners",
+     "n": 5,
+     "of": 5,
+     "title": "Official documents only",
+     "body": "A spreadsheet or an email from your CFO is a rumour to a bank. Portal statements, signed agreements, the source document every time."
+    },
+    {
+     "id": "c7",
+     "type": "cta",
+     "label": "business owners",
+     "headline": "Thinking about business finance in the next year?",
+     "body": "Let&rsquo;s check the file before a lender does.",
+     "button": "Book a quick chat &rarr;"
+    }
+   ],
+   "linkedin": "Five things we check on your business before a lender does.\n\nCredit teams are thorough. The question is whether they find something you have an answer for, or something that stalls the file a month. So we check first.\n\nThe slide that catches the most people is what your existing bank already holds. A small facility can carry a general security over your whole trading business, and nobody notices until a new lender's due diligence turns it up a week before settlement.\n\nThen the entity chart. The fastest business refinance pathways assume the same people own and direct every entity on the loan. A mismatch turns a quick file into a pile of exceptions.\n\nAnd the risk team will search every director and every old venture in your group. We'd rather write the one-paragraph explanation now.\n\nConcentration and documents are in the carousel.\n\nGeneral information only, not personal advice.",
+   "instagram": "Five things we check on your business before a lender does. Swipe through.\n\nWhat security your current bank already holds. Whether the same people own and direct every entity on the loan. Every director and every old venture the risk team will find. How much of your revenue sits with one customer. And whether your numbers are official documents or a spreadsheet.\n\nDo you know what security your bank holds over your business right now?\n\nGeneral information only, not personal advice.\n\n#businessowner #businessfinance #smallbusiness #mortgagebroker #lendingleverage"
+  },
+  {
+   "id": "check-portfolio-not-paying",
+   "slot": "carousels",
+   "pillar": "complex-lending",
+   "insight_keys": [
+    "portfolio_must_leave_you_surplus",
+    "hold_if_sustainable_sell_if_not",
+    "bank_valuation_is_not_a_sale_price",
+    "selling_a_security_property_triggers_a_servicing_review",
+    "every_loan_split_needs_a_paper_trail"
+   ],
+   "needs_confirmation": true,
+   "hook": "Your rentals pay for themselves but not you? Five things we check.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "cover",
+     "label": "investors",
+     "hook": "Your rentals pay for themselves but not you? Five things we check.",
+     "sub": "A portfolio that just survives isn&rsquo;t working for you. Here&rsquo;s where a review starts."
+    },
+    {
+     "id": "c2",
+     "type": "point",
+     "label": "investors",
+     "n": 1,
+     "of": 5,
+     "title": "What&rsquo;s left each month",
+     "body": "If rent almost covers repayments and you live off your wage, the portfolio is surviving, not working. The review starts with what&rsquo;s left over after every repayment."
+    },
+    {
+     "id": "c3",
+     "type": "point",
+     "label": "investors",
+     "n": 2,
+     "of": 5,
+     "title": "Two separate questions",
+     "body": "Has it done well, and can you comfortably hold it for two more years? A good buy can still be the wrong one to keep. Selling early is a fine decision."
+    },
+    {
+     "id": "c4",
+     "type": "point",
+     "label": "investors",
+     "n": 3,
+     "of": 5,
+     "title": "Two numbers for each property",
+     "body": "The bank&rsquo;s valuation and what the market would actually pay are different numbers for different jobs. We give you both, plainly."
+    },
+    {
+     "id": "c5",
+     "type": "point",
+     "label": "investors",
+     "n": 4,
+     "of": 5,
+     "title": "What selling does next",
+     "body": "Sell one property and the lender reassesses your servicing without that rent. It may force debt you wanted to keep to be paid down. Plan the swap first."
+    },
+    {
+     "id": "c6",
+     "type": "point",
+     "label": "investors",
+     "n": 5,
+     "of": 5,
+     "title": "Where every split went",
+     "body": "Years later the bank and your accountant will both ask what each loan split paid for. If you can&rsquo;t say, neither can they. One page per split."
+    },
+    {
+     "id": "c7",
+     "type": "cta",
+     "label": "investors",
+     "headline": "Portfolio feels stuck?",
+     "body": "A review starts with one number: what&rsquo;s left each month.",
+     "button": "Book a quick chat &rarr;"
+    }
+   ],
+   "linkedin": "Your rentals pay for themselves but not you? Five things we check.\n\nA portfolio where rent almost covers the repayments and you live off your wage is not working for you. It is surviving. When we review one, the first question is what's left each month after every repayment. If the answer is nothing, the structure changes first.\n\nThe second slide separates two questions people tangle together. Has this property done well, and can you comfortably hold it for two more years? A good buy can still be the wrong one to keep.\n\nAnd if selling is on the table, the slide on servicing matters. Sell one property and the lender reassesses you without that rent, and may want debt paid down that you planned to keep. We plan the swap before the contract.\n\nValuations and paper trails are in the carousel.\n\nGeneral information only, not personal advice.",
+   "instagram": "Your rentals pay for themselves but not you? Swipe for the five things we check.\n\nWhat's left each month after every repayment. Whether holding is sustainable, separate from whether it was a good buy. The bank's valuation versus a real sale price. What selling one does to the loans on the others. And whether you can say where every loan split went.\n\nWhat does your portfolio leave you each month, honestly?\n\nGeneral information only, not personal advice.\n\n#propertyportfolio #propertyinvestor #cashflow #mortgagebroker #lendingleverage"
+  },
+  {
+   "id": "knockback-that-wasnt",
+   "slot": "carousels",
+   "pillar": "how-we-work",
+   "insight_keys": [
+    "one_banks_no_is_not_the_markets_no",
+    "appetite_beats_the_policy_document",
+    "packaged_income_needs_a_broker_who_argues",
+    "explain_your_payslips_before_the_lender_misreads_them",
+    "credit_exceptions_need_a_clear_story",
+    "same_bank_different_desk_different_answer"
+   ],
+   "needs_confirmation": true,
+   "hook": "The bank said no. That&rsquo;s one bank. It isn&rsquo;t the answer.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "cover",
+     "label": "how we work",
+     "hook": "The bank said no. That&rsquo;s one bank. It isn&rsquo;t the answer.",
+     "sub": "The knockback that wasn&rsquo;t: how income gets misread, and what a good broker argues."
+    },
+    {
+     "id": "c2",
+     "type": "point",
+     "label": "how we work",
+     "n": 1,
+     "of": 5,
+     "title": "One no is one policy",
+     "body": "A branch saying no is one lender&rsquo;s policy on one day, not a verdict on you. We see knockbacks turn into approvals once the file is packaged and taken to the right lender."
+    },
+    {
+     "id": "c3",
+     "type": "point",
+     "label": "how we work",
+     "n": 2,
+     "of": 5,
+     "title": "Policy is written. Appetite isn&rsquo;t.",
+     "body": "What a bank publishes and what its credit team is hungry for right now are different things. A lender with appetite workshops a file another would decline on the same paper."
+    },
+    {
+     "id": "c4",
+     "type": "point",
+     "label": "how we work",
+     "n": 3,
+     "of": 5,
+     "title": "Income that gets misread",
+     "body": "Salary-packaged pay is routinely shaded or ignored. It&rsquo;s real income. We present it correctly and push back with credit when it&rsquo;s discounted."
+    },
+    {
+     "id": "c5",
+     "type": "point",
+     "label": "how we work",
+     "n": 4,
+     "of": 5,
+     "title": "Explain before they guess",
+     "body": "Back pay, second payroll numbers, leave types all look unstable to an assessor with thirty seconds per page. We write a one-page income note before they form the wrong view."
+    },
+    {
+     "id": "c6",
+     "type": "point",
+     "label": "how we work",
+     "n": 5,
+     "of": 5,
+     "title": "Approvals are stories",
+     "body": "Borderline deals get approved on the narrative. We speak to credit first, then write the submission: what happened, why it&rsquo;s not a pattern, how this loan fixes it."
+    },
+    {
+     "id": "c7",
+     "type": "cta",
+     "label": "how we work",
+     "headline": "Been told no?",
+     "body": "Bring us the decline. We&rsquo;ll tell you what it actually means.",
+     "button": "Book a quick chat &rarr;"
+    }
+   ],
+   "linkedin": "The bank said no. That's one bank. It isn't the answer.\n\nA branch saying no, or a broker saying we can't help you, is one lender's policy on one day. It is not a verdict on you. We regularly see knockbacks on self-employed income, packaged income and small deposits become approvals once the file is packaged properly and taken to a lender with appetite for that borrower.\n\nThe slide on misread income is the one we feel strongest about. Salary-packaged pay gets shaded or ignored by assessors and by brokers who don't understand it. It is real income, and our job is to present it correctly and argue when it's discounted.\n\nAnd borderline deals are approved on the story, not the spreadsheet. We talk to credit first, then write the submission as a narrative.\n\nSometimes the answer is even simpler: same bank, different desk.\n\nGeneral information only, not personal advice.",
+   "instagram": "The bank said no. That's one bank. Swipe for why it isn't the answer.\n\nOne no is one lender's policy on one day. Published policy and real appetite are different things. Packaged income gets misread and we argue it. A one-page income note stops an assessor guessing. And borderline files get approved on the story, so we write one.\n\nHave you ever taken a knockback as the final word?\n\nGeneral information only, not personal advice.\n\n#homeloan #declined #mortgagebroker #howwework #lendingleverage"
+  },
+  {
+   "id": "debt-recycling-plain",
+   "slot": "carousels",
+   "pillar": "complex-lending",
+   "insight_keys": [
+    "redraw_is_not_savings_debt_recycling",
+    "one_loan_split_per_purpose",
+    "set_up_the_full_split_draw_a_little_scale_later",
+    "call_us_before_you_move_borrowed_money",
+    "broker_designs_accountant_verifies"
+   ],
+   "needs_confirmation": true,
+   "hook": "Debt recycling, without the jargon.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "cover",
+     "label": "investors",
+     "hook": "Debt recycling, without the jargon.",
+     "sub": "Turning home loan debt into investment debt, one split at a time. Here&rsquo;s how it actually works."
+    },
+    {
+     "id": "c2",
+     "type": "point",
+     "label": "investors",
+     "n": 1,
+     "of": 5,
+     "title": "Redraw isn&rsquo;t savings",
+     "body": "Money in redraw has already paid down your home loan. Pulling it out for an investment muddies the purpose. The cleaner path is a separate split for investing."
+    },
+    {
+     "id": "c3",
+     "type": "point",
+     "label": "investors",
+     "n": 2,
+     "of": 5,
+     "title": "One pocket per purpose",
+     "body": "Equity release is broken into labelled splits, one per asset, each interest-only with its own offset. Your accountant can see which dollar bought what."
+    },
+    {
+     "id": "c4",
+     "type": "point",
+     "label": "investors",
+     "n": 3,
+     "of": 5,
+     "title": "Set up once, draw slowly",
+     "body": "The full split is set up now with the undrawn part sitting in offset. You draw what you&rsquo;re comfortable with and release more later without a new application."
+    },
+    {
+     "id": "c5",
+     "type": "point",
+     "label": "investors",
+     "n": 4,
+     "of": 5,
+     "title": "Check before you transfer",
+     "body": "Which account money leaves and lands in decides whether interest stays deductible. Confirm the path with your broker and accountant before any transfer between splits."
+    },
+    {
+     "id": "c6",
+     "type": "point",
+     "label": "investors",
+     "n": 5,
+     "of": 5,
+     "title": "We draw, accountant signs",
+     "body": "We don&rsquo;t give tax advice. We design the structure, then your accountant verifies it from a tax point of view before anything is implemented."
+    },
+    {
+     "id": "c7",
+     "type": "cta",
+     "label": "investors",
+     "headline": "Curious whether this fits you?",
+     "body": "A short chat, then your accountant gets the drawing.",
+     "button": "Book a quick chat &rarr;"
+    }
+   ],
+   "linkedin": "Debt recycling, without the jargon.\n\nThe idea is simple. You slowly turn debt against your home, which you can't claim, into debt against investments, which you may be able to, one labelled split at a time. Tax is your accountant's call. Structure is ours.\n\nThe first slide is the one most people get wrong. Money in redraw has already paid down your home loan. Pulling it back out to invest muddies the purpose of that loan. The cleaner path is a separate split, set up for investing and nothing else.\n\nThe slide on setting it up once is where nervous clients relax. We set up the full split now, leave the undrawn part in offset costing nothing, and you draw what you're comfortable with. More later, no new application.\n\nAnd before any transfer between accounts, check with us. One wrong move undoes the trail.\n\nGeneral information only, not personal advice.",
+   "instagram": "Debt recycling, without the jargon. Swipe for how it actually works.\n\nRedraw isn't savings, so pulling it out to invest muddies the loan. Use a separate split per purpose, each with its own offset. Set the whole thing up once and draw it slowly. Check with us before moving money between accounts. And your accountant signs off before anything is implemented.\n\nHad debt recycling explained to you in a way that made sense?\n\nGeneral information only, not personal advice.\n\n#debtrecycling #propertyinvestor #loanstructure #mortgagebroker #lendingleverage"
+  },
+  {
+   "id": "cash-offset-debt-asset",
+   "slot": "carousels",
+   "pillar": "complex-lending",
+   "insight_keys": [
+    "debt_fund_the_asset_keep_the_cash_working",
+    "never_pay_an_investment_deposit_from_cash",
+    "get_the_funding_step_right_at_purchase",
+    "offset_gives_the_interest_saving_without_locking_the_cash",
+    "offset_savings_are_not_taxable_income"
+   ],
+   "needs_confirmation": true,
+   "hook": "Cash is for the offset. Debt is for the asset.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "cover",
+     "label": "investors",
+     "hook": "Cash is for the offset. Debt is for the asset.",
+     "sub": "Why we&rsquo;d rather you borrow for the investment and keep your own money where you can reach it."
+    },
+    {
+     "id": "c2",
+     "type": "point",
+     "label": "investors",
+     "n": 1,
+     "of": 5,
+     "title": "The house grows either way",
+     "body": "A property grows the same whether you paid cash or borrowed. So we debt-fund the asset and keep your cash deployed where it keeps working."
+    },
+    {
+     "id": "c3",
+     "type": "point",
+     "label": "investors",
+     "n": 2,
+     "of": 5,
+     "title": "Never swap them",
+     "body": "Cash goes against your home. Borrowing goes to the investment. Paying the deposit from cash and borrowing later muddies the trail and wastes the deductible position."
+    },
+    {
+     "id": "c4",
+     "type": "point",
+     "label": "investors",
+     "n": 3,
+     "of": 5,
+     "title": "Day one can&rsquo;t be rewound",
+     "body": "Pay cash at settlement and borrow against the property two weeks later, and the interest may never be deductible. Unwinding that is hard. Decide the source first."
+    },
+    {
+     "id": "c5",
+     "type": "point",
+     "label": "investors",
+     "n": 4,
+     "of": 5,
+     "title": "Same saving, still reachable",
+     "body": "A bigger deposit and the same money in an offset save the same interest. The deposit is locked. The offset is available any day you need it."
+    },
+    {
+     "id": "c6",
+     "type": "point",
+     "label": "investors",
+     "n": 5,
+     "of": 5,
+     "title": "Interest saved isn&rsquo;t taxed",
+     "body": "Cash in an offset saves interest rather than earning it, so there&rsquo;s no interest income to declare. That&rsquo;s why it usually beats a savings account for the same dollars."
+    },
+    {
+     "id": "c7",
+     "type": "cta",
+     "label": "investors",
+     "headline": "About to pay cash for an investment?",
+     "body": "Talk to us and your accountant first. It can&rsquo;t be rewound.",
+     "button": "Book a quick chat &rarr;"
+    }
+   ],
+   "linkedin": "Cash is for the offset. Debt is for the asset.\n\nWhen a client has the cash to buy an investment outright, we still prefer to borrow for it. The property grows the same either way, and your cash keeps working somewhere you can reach it.\n\nThe slide on day one is the one that can't be undone. How you fund a purchase at settlement is a tax event. Pay cash and borrow against the property a fortnight later, and the interest may never be deductible. We decide the source of funds before the contract, with your accountant.\n\nThe offset slides explain the other half. A bigger deposit and the same money in an offset save the same interest, but only one is available on a bad day. And interest you don't pay is never taxed.\n\nThe tax treatment is one for your accountant.\n\nGeneral information only, not personal advice.",
+   "instagram": "Cash is for the offset. Debt is for the asset. Swipe for why.\n\nThe property grows the same whether you paid cash or borrowed. Paying the deposit from cash and borrowing later wastes the deductible position, and day one can't be rewound. A bigger deposit and an offset save the same interest, but only one is reachable. And interest you don't pay is never taxed. Check it with your accountant.\n\nWhere does your spare cash sit right now, and why there?\n\nGeneral information only, not personal advice.\n\n#offsetaccount #propertyinvestor #loanstructure #mortgagebroker #lendingleverage"
+  },
+  {
+   "id": "negotiate-terms-not-price",
+   "slot": "carousels",
+   "pillar": "first-home",
+   "insight_keys": [
+    "write_the_offer_down_so_the_agent_must_present_it",
+    "sweeten_the_terms_not_the_price",
+    "ask_what_terms_the_vendor_actually_values",
+    "set_your_walk_away_price_before_auction_day",
+    "keep_your_real_budget_to_yourself"
+   ],
+   "needs_confirmation": true,
+   "hook": "Negotiate terms, not price. Five moves that cost you nothing.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "cover",
+     "label": "first home",
+     "hook": "Negotiate terms, not price. Five moves that cost you nothing.",
+     "sub": "Certainty wins properties. Dollars just pay for them. Here&rsquo;s how we shape an offer."
+    },
+    {
+     "id": "c2",
+     "type": "point",
+     "label": "first home",
+     "n": 1,
+     "of": 5,
+     "title": "Write the offer down",
+     "body": "If the agent says the vendor won&rsquo;t accept your number, put it in writing anyway. A written offer must be presented. The owner decides, not the agent."
+    },
+    {
+     "id": "c3",
+     "type": "point",
+     "label": "first home",
+     "n": 2,
+     "of": 5,
+     "title": "Ask what the vendor values",
+     "body": "Before writing anything, ask the agent which conditions matter to the seller. Often a short settlement earns nothing and standard clauses cost nothing."
+    },
+    {
+     "id": "c4",
+     "type": "point",
+     "label": "first home",
+     "n": 3,
+     "of": 5,
+     "title": "Sweeten terms, not dollars",
+     "body": "A settlement that suits them, a short finance clause you can actually meet, minimal special conditions. Your number competes on certainty instead of price."
+    },
+    {
+     "id": "c5",
+     "type": "point",
+     "label": "first home",
+     "n": 4,
+     "of": 5,
+     "title": "Your walk-away, on paper",
+     "body": "Agree the maximum with your broker the day before. Write it down. Give it to whoever bids. If it runs past, you leave. There will be another one."
+    },
+    {
+     "id": "c6",
+     "type": "point",
+     "label": "first home",
+     "n": 5,
+     "of": 5,
+     "title": "Budget, not limit",
+     "body": "Tell the agent the number you want to stick to and hold the real headroom back. Push only when something genuinely special turns up."
+    },
+    {
+     "id": "c7",
+     "type": "cta",
+     "label": "first home",
+     "headline": "Found the one and about to offer?",
+     "body": "Send us the listing before the number. Terms first.",
+     "button": "Book a quick chat &rarr;"
+    }
+   ],
+   "linkedin": "Negotiate terms, not price. Five moves that cost you nothing.\n\nBuyers think negotiation is about the number. Mostly it's about certainty. A vendor who knows your deal will settle, on a date that suits them, often takes less than a nervous higher offer.\n\nThe first slide is the one that surprises people. If the agent tells you verbally that your number won't fly, write the offer down anyway. A written offer has to be presented, and the vendor makes the call, not the agent.\n\nThen ask what the vendor actually values before you give anything away. Often a short settlement earns nothing and standard clauses cost nothing, so spend your concessions where they count.\n\nAnd the walk-away number goes on paper the day before, not in your head on the day.\n\nThe fifth move, budget versus limit, is in the carousel.\n\nGeneral information only, not personal advice.",
+   "instagram": "Negotiate terms, not price. Swipe for five moves that cost you nothing.\n\nWrite the offer down so it has to be presented. Ask what the vendor actually values before you concede anything. Shape your settlement and conditions around that, so you compete on certainty. Put your walk-away number on paper the day before. And tell the agent your budget, not your limit.\n\nHave you ever won a property on terms rather than price?\n\nGeneral information only, not personal advice.\n\n#negotiation #firsthomebuyer #propertyoffer #mortgagebroker #lendingleverage"
+  },
+  {
+   "id": "why-a-broker",
+   "slot": "carousels",
+   "pillar": "how-we-work",
+   "insight_keys": [
+    "brokers_are_paid_the_same_so_no_favourite_bank",
+    "a_broker_is_paid_by_the_lender_not_a_higher_rate",
+    "we_sound_out_every_bank_before_one_application_hits_your_file",
+    "forty_lenders_on_paper_six_in_practice",
+    "slow_replies_are_the_broker_red_flag"
+   ],
+   "needs_confirmation": true,
+   "hook": "Why use a broker at all? Our honest answer, in five slides.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "cover",
+     "label": "how we work",
+     "hook": "Why use a broker at all? Our honest answer, in five slides.",
+     "sub": "Who pays us, why we don&rsquo;t have a favourite bank, and the honest truth about forty lenders."
+    },
+    {
+     "id": "c2",
+     "type": "point",
+     "label": "how we work",
+     "n": 1,
+     "of": 5,
+     "title": "Paid the same, every bank",
+     "body": "Every lender pays us the same, so we have no reason to steer you anywhere but the right answer. A branch sells its own product and isn&rsquo;t bound to act in your interest. We are."
+    },
+    {
+     "id": "c3",
+     "type": "point",
+     "label": "how we work",
+     "n": 2,
+     "of": 5,
+     "title": "You don&rsquo;t pay us",
+     "body": "The lender pays the broker, and that doesn&rsquo;t raise your rate. The same loan through us costs you the same as going direct, with someone on your side."
+    },
+    {
+     "id": "c4",
+     "type": "point",
+     "label": "how we work",
+     "n": 3,
+     "of": 5,
+     "title": "Ask every bank, apply once",
+     "body": "A branch has to lodge an application to find out if you fit, and every lodgement touches your credit file. We talk to every lender&rsquo;s credit team first and lodge once."
+    },
+    {
+     "id": "c5",
+     "type": "point",
+     "label": "how we work",
+     "n": 4,
+     "of": 5,
+     "title": "Forty lenders on paper",
+     "body": "Most brokers who say forty lenders really work with six. We&rsquo;re open about it: we know our top ten deeply, and that depth is what lets us workshop an unusual file."
+    },
+    {
+     "id": "c6",
+     "type": "point",
+     "label": "how we work",
+     "n": 5,
+     "of": 5,
+     "title": "The two-day text",
+     "body": "If your broker takes two days to reply while you&rsquo;re out inspecting, that&rsquo;s your answer. The loan is the easy part. The support during the search is the job."
+    },
+    {
+     "id": "c7",
+     "type": "cta",
+     "label": "how we work",
+     "headline": "Want the honest version in person?",
+     "body": "Fifteen minutes. We&rsquo;ll tell you who pays us too.",
+     "button": "Book a quick chat &rarr;"
+    }
+   ],
+   "linkedin": "Why use a broker at all? Our honest answer, in five slides.\n\nStart with money, because everyone wonders. Every lender pays us the same, so we have no favourite bank and no reason to steer you anywhere but the right answer. You don't pay us, and that doesn't raise your rate.\n\nThe slide on applying once is the practical one. A branch has to lodge an application to find out if you fit, and every lodgement touches your credit file. We talk to every lender's credit team first, then lodge once with the one that already said yes.\n\nAnd the forty lenders thing. Most brokers who say forty really work with six. We know our top ten deeply, and that depth is what lets us workshop a hard file instead of guessing.\n\nThe fifth slide is a test you can run on any broker.\n\nGeneral information only, not personal advice.",
+   "instagram": "Why use a broker at all? Swipe for our honest answer.\n\nEvery bank pays us the same, so no favourite. You don't pay us and your rate doesn't go up. We ask every lender first and apply once, so your credit file isn't touched five times. Forty lenders on the website usually means six in real life; we say ten and mean it. And if your broker takes two days to text back, that's your answer.\n\nWhat's the one thing you'd want a broker to be honest about?\n\nGeneral information only, not personal advice.\n\n#mortgagebroker #howwework #homeloan #honestadvice #lendingleverage"
+  },
+  {
+   "id": "what-bank-counts-business",
+   "slot": "carousels",
+   "pillar": "business-owners",
+   "insight_keys": [
+    "banks_lend_on_income_tax_has_been_paid_on",
+    "rising_income_can_be_shown_with_recent_activity",
+    "full_tax_returns_tell_the_story_a_notice_cant",
+    "same_trade_history_bridges_a_short_abn",
+    "young_business_lead_with_director_track_record",
+    "business_car_debt_belongs_with_the_business"
+   ],
+   "needs_confirmation": true,
+   "hook": "What a bank will and won&rsquo;t count when you own the business.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "cover",
+     "label": "business owners",
+     "hook": "What a bank will and won&rsquo;t count when you own the business.",
+     "sub": "Tax-smart pay and bank-smart pay are different things. Here&rsquo;s how a lender reads you."
+    },
+    {
+     "id": "c2",
+     "type": "point",
+     "label": "business owners",
+     "n": 1,
+     "of": 5,
+     "title": "Taxed income counts",
+     "body": "Drawings and untaxed distributions suit the accountant. Lenders struggle to use income that hasn&rsquo;t been taxed. If you want to keep borrowing, pay yourself in a way a bank can read."
+    },
+    {
+     "id": "c3",
+     "type": "point",
+     "label": "business owners",
+     "n": 2,
+     "of": 5,
+     "title": "This year&rsquo;s growth, sometimes",
+     "body": "If last year&rsquo;s return understates where the business is now, recent activity statements and interims can annualise income with the right lender. Growth doesn&rsquo;t always wait a year."
+    },
+    {
+     "id": "c4",
+     "type": "point",
+     "label": "business owners",
+     "n": 3,
+     "of": 5,
+     "title": "Full return, not notice",
+     "body": "The notice shows the final number. The return shows the deductions, super contributions and add-backs that lift assessable income. Send both."
+    },
+    {
+     "id": "c5",
+     "type": "point",
+     "label": "business owners",
+     "n": 4,
+     "of": 5,
+     "title": "Years on the tools count",
+     "body": "One year on your own ABN plus ten as an employee in the same trade can be assessed on that continuity. Bring the old payment summaries."
+    },
+    {
+     "id": "c6",
+     "type": "point",
+     "label": "business owners",
+     "n": 5,
+     "of": 5,
+     "title": "Young business? Lead with you",
+     "body": "A young business is the bank&rsquo;s hurdle. We lead with the directors&rsquo; track record, signed contracts and the growth story, and stack funding if one bank won&rsquo;t move."
+    },
+    {
+     "id": "c7",
+     "type": "cta",
+     "label": "business owners",
+     "headline": "Business owner buying in the next year?",
+     "body": "Bring your broker and accountant together before the next return.",
+     "button": "Book a quick chat &rarr;"
+    }
+   ],
+   "linkedin": "What a bank will and won't count when you own the business.\n\nYour accountant's job is to make your tax bill small. A lender's job is to find income it can rely on. Those goals pull in opposite directions, and most owners find out mid-application.\n\nThe first slide is the hard truth. Drawings and untaxed distributions suit the accountant, but lenders struggle to use income that hasn't been taxed. If you plan to keep borrowing, how you pay yourself has to be readable by a bank. That's a conversation for your broker and accountant together, before the next return.\n\nThe slide on growth is the good news. With the right lender, recent activity statements and interims can show this year's income rather than last year's.\n\nShort ABN with years on the tools, young businesses, and the work ute are in the carousel.\n\nGeneral information only, not personal advice.",
+   "instagram": "What a bank will and won't count when you own the business. Swipe through.\n\nIncome tax has been paid on counts. Untaxed drawings mostly don't. This year's growth can count with the right lender and recent activity statements. Send the full return, not just the notice. Years in the same trade as an employee can bridge a short ABN. And a young business leads with its directors.\n\nDoes your accountant know you plan to borrow in the next two years?\n\nGeneral information only, not personal advice.\n\n#businessowner #selfemployed #homeloan #mortgagebroker #lendingleverage"
+  }
+ ]
+}

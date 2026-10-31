@@ -1,0 +1,122 @@
+[
+ {
+  "id": "our-take-brand-new-apartment-grant-c1",
+  "type": "take",
+  "hook": "Don&rsquo;t buy a brand-new apartment just to get the grant.",
+  "so_what": "Compare the grant against what you&rsquo;d overpay for new before it decides your purchase."
+ },
+ {
+  "id": "our-take-old-small-block-c1",
+  "type": "take",
+  "hook": "The unit type we quietly like: old, small block, no lift.",
+  "so_what": "Ask why the body corporate fees are what they are before you fall for a view."
+ },
+ {
+  "id": "our-take-home-or-investment-first-c1",
+  "type": "take",
+  "hook": "Own home or investment first? That&rsquo;s a life question, not a maths one.",
+  "so_what": "Decide how you want to live for the next five years before you decide what to buy."
+ },
+ {
+  "id": "our-take-take-the-permanent-role-c1",
+  "type": "take",
+  "hook": "Changing jobs before you buy? Take the permanent role.",
+  "so_what": "If a purchase is close, ask how a job change would be treated before you accept it."
+ },
+ {
+  "id": "our-take-solicitor-not-conveyancer-c1",
+  "type": "take",
+  "hook": "Conveyancer or solicitor? Only one can tell you what the contract means.",
+  "so_what": "Before you sign anything, ask whether the person reviewing it can give you legal advice."
+ },
+ {
+  "id": "our-take-purchase-ready-c1",
+  "type": "take",
+  "hook": "Don&rsquo;t chase a pre-approval. Get purchase-ready.",
+  "so_what": "Have your documents current and your capacity tested across lenders before the right place appears."
+ },
+ {
+  "id": "our-take-agents-inspector-not-yours-c1",
+  "type": "take",
+  "hook": "If the agent recommended them, they&rsquo;re not yours.",
+  "so_what": "The only people checking the property should be paid by you. Pick your own inspector and solicitor."
+ },
+ {
+  "id": "our-take-offset-next-deposit-c1",
+  "type": "take",
+  "hook": "Planning to upgrade? Build your next deposit inside an offset.",
+  "so_what": "Ask whether an offset on your investment loan is where your savings should live."
+ },
+ {
+  "id": "our-take-buy-the-house-c1",
+  "type": "take",
+  "hook": "If you can afford it, buy the house.",
+  "so_what": "Ask what a house in a proven area costs versus the unit you&rsquo;re looking at."
+ },
+ {
+  "id": "our-take-cheap-small-town-c1",
+  "type": "take",
+  "hook": "Cheap isn&rsquo;t the same as good value in a small town.",
+  "so_what": "Ask for the growth data before you buy somewhere just because it&rsquo;s affordable."
+ },
+ {
+  "id": "our-take-thirty-pay-twenty-five-c1",
+  "type": "take",
+  "hook": "Sign for thirty years. Pay it off in twenty-five anyway.",
+  "so_what": "Take the longest term on offer, then set your own higher repayment or offset target."
+ },
+ {
+  "id": "our-take-drive-past-c1",
+  "type": "take",
+  "hook": "Buy something you can drive past. Interstate is darts in the dark.",
+  "so_what": "Ask what you know about that market that the person selling it doesn&rsquo;t profit from."
+ },
+ {
+  "id": "our-take-deposit-sets-the-pace-c1",
+  "type": "take",
+  "hook": "Your income says buy. Your deposit says wait. The deposit wins.",
+  "so_what": "Plan your next two purchases around equity release and valuations, not just what you can service."
+ },
+ {
+  "id": "our-take-ask-your-bank-first-c1",
+  "type": "take",
+  "hook": "Your current bank can often do what you need. Ask them first.",
+  "so_what": "Before moving, ask whether a top-up or variation with your lender gets the same result."
+ },
+ {
+  "id": "our-take-haggling-starts-at-proposal-c1",
+  "type": "take",
+  "hook": "The rate on your proposal is where the haggling starts, not ends.",
+  "so_what": "Ask your broker whether they re-price your loan before settlement, and how often."
+ },
+ {
+  "id": "our-take-check-your-rate-c1",
+  "type": "take",
+  "hook": "Most people are wrong about their own interest rate. Check yours.",
+  "so_what": "Look up the current rate on every split today. The one you signed at has probably moved."
+ },
+ {
+  "id": "our-take-cheapest-is-slowest-c1",
+  "type": "take",
+  "hook": "The cheapest lender is often the slowest. Which matters more right now?",
+  "so_what": "Tell your broker how close you are to making an offer. It changes which lender is right."
+ },
+ {
+  "id": "our-take-clear-the-car-c1",
+  "type": "take",
+  "hook": "Got savings and a car loan? Clear the car first.",
+  "so_what": "Ask what paying out the car loan, break fee included, does to your borrowing power."
+ },
+ {
+  "id": "our-take-buffer-in-months-c1",
+  "type": "take",
+  "hook": "Don&rsquo;t ask how much buffer you have. Ask how many months it buys.",
+  "so_what": "Divide your buffer by the monthly shortfall and write down the date you&rsquo;ll review the plan."
+ },
+ {
+  "id": "our-take-day-one-is-the-hardest-c1",
+  "type": "take",
+  "hook": "Your mortgage feels biggest on day one. It gets easier.",
+  "so_what": "Plan your buffer for the first two years, because that&rsquo;s when it bites."
+ }
+]

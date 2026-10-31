@@ -1,0 +1,261 @@
+{
+ "series": "how-we-work",
+ "title": "How we work",
+ "description": "Behind the scenes at Lending Leverage: who pays us, how we run a file, and the questions people actually ask a broker, answered plainly.",
+ "posts": [
+  {
+   "id": "who-pays-you",
+   "slot": "how-we-work",
+   "pillar": "how-we-work",
+   "insight_keys": [
+    "brokers_are_paid_the_same_so_no_favourite_bank",
+    "a_broker_is_paid_by_the_lender_not_a_higher_rate",
+    "a_referral_never_changes_our_advice"
+   ],
+   "needs_confirmation": true,
+   "hook": "You don't pay us. The bank does. Your rate doesn't change.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "qa",
+     "label": "ask the broker",
+     "question": "Who pays you, and does it change what you tell me?",
+     "answer": "The lender pays us, not you, and that doesn't raise your rate. Every lender pays us the same, so we have no favourite bank. We're bound by a best interests duty; a branch isn't. And it doesn't matter who introduced us, builder or agent. Our duty runs to you."
+    }
+   ],
+   "linkedin": "You don't pay us. The bank does. Your rate doesn't change.\n\nIt's the first question people should ask a broker. So here's the plain answer. The lender pays the broker when a loan settles. You don't get charged, and your interest rate isn't loaded to cover it. The same loan through us costs you the same as walking into the branch, except someone is sitting on your side of the table.\n\nEvery lender pays us the same. That matters, because it means we have no reason to steer you anywhere but the right answer. A branch can only sell its own product and carries no duty to act in your best interest. We do.\n\nAnd if a builder or an agent introduced us, that changes nothing. Our duty runs to you, not to whoever made the introduction.\n\nGeneral information only, not personal advice.",
+   "instagram": "You don't pay us. The bank does. Your rate doesn't change.\n\nThe lender pays the broker when your loan settles. You aren't charged, and your rate isn't loaded to cover it. Same loan, same cost as going direct, with someone on your side.\n\nEvery lender pays us the same, so we have no favourite bank. A branch can only sell its own product. We're bound to act in your best interest, and that holds no matter who introduced us.\n\nHas anyone ever told you plainly how your broker gets paid?\nGeneral information only, not personal advice.\n\n#mortgagebroker #homeloans #melbournebroker #plainenglishfinance #lendingleverage"
+  },
+  {
+   "id": "forty-lenders",
+   "slot": "how-we-work",
+   "pillar": "how-we-work",
+   "insight_keys": [
+    "forty_lenders_on_paper_six_in_practice"
+   ],
+   "needs_confirmation": true,
+   "hook": "Forty lenders on the website usually means six in real life.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "qa",
+     "label": "ask the broker",
+     "question": "Do you really work with forty lenders?",
+     "answer": "No, and most brokers who say they do really use about six. We know our top ten lenders deeply. That depth is what lets us workshop an unusual file with a credit team instead of guessing. Ask any broker which lenders they placed loans with last year, not how many are on the panel."
+    }
+   ],
+   "linkedin": "Forty lenders on the website usually means six in real life.\n\nPeople ask us if we work with forty lenders. The honest answer is no, and neither does almost anyone else who says they do. Most brokers place the bulk of their loans with a handful of banks they know well.\n\nWe'd rather be open about it. We know our top ten lenders deeply: how their credit teams think, what they'll look at twice, where an unusual file has a real chance. That depth is what lets us workshop your scenario with a person instead of guessing from a policy document.\n\nSo the number on the panel tells you very little. The better question for any broker is which lenders they actually placed loans with last year. That answer tells you where their real knowledge sits.\n\nGeneral information only, not personal advice.",
+   "instagram": "Forty lenders on the website usually means six in real life.\n\nDo we work with forty lenders? Honestly, no. Almost nobody does, whatever the website says. Most brokers place most of their loans with a handful of banks they know well.\n\nWe know our top ten deeply. That depth is what lets us workshop an unusual file with a credit team instead of guessing from a policy document.\n\nNext time you meet a broker, skip the panel size. Ask which lenders they actually placed loans with last year.\n\nHas a broker ever given you a straight answer to that one?\nGeneral information only, not personal advice.\n\n#mortgagebroker #homeloans #melbournebroker #askthebroker #lendingleverage"
+  },
+  {
+   "id": "credit-score",
+   "slot": "how-we-work",
+   "pillar": "how-we-work",
+   "insight_keys": [
+    "we_sound_out_every_bank_before_one_application_hits_your_file"
+   ],
+   "needs_confirmation": true,
+   "hook": "We ask every bank first, then apply once.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "qa",
+     "label": "ask the broker",
+     "question": "Will applying for a loan hurt my credit score?",
+     "answer": "Every formal application touches your credit file, so lodging with three banks to see who says yes leaves three marks. A branch has to lodge to find out if you fit. We don't. We talk to each lender's credit team about your scenario first, then lodge once, with the one that already said yes."
+    }
+   ],
+   "linkedin": "We ask every bank first, then apply once.\n\nWill applying hurt your credit score? Every formal application touches your credit file. So if you walk into three branches to see who says yes, you leave three marks behind.\n\nA branch has to lodge an application to find out whether you fit. That's the only tool it has. We have a different one. We can talk to each lender's credit team about your scenario before anything is lodged: who has appetite, on what terms, where the sticking points are.\n\nThen we lodge once, with the lender that has already said yes in principle. One application on your file, not a trail of them.\n\nBefore you apply anywhere, ask whether your scenario has been workshopped with the lender first.\n\nGeneral information only, not personal advice.",
+   "instagram": "We ask every bank first, then apply once.\n\nEvery formal application touches your credit file. Walk into three branches to see who says yes and you leave three marks behind.\n\nA branch has to lodge to find out whether you fit. We don't. We talk to each lender's credit team about your scenario first, then lodge once, with the one that has already said yes in principle.\n\nOne application on your file, not a trail of them.\n\nHas anyone ever lodged an application for you before checking it would fly?\nGeneral information only, not personal advice.\n\n#mortgagebroker #creditscore #homeloans #melbournebroker #lendingleverage"
+  },
+  {
+   "id": "after-pre-approval",
+   "slot": "how-we-work",
+   "pillar": "how-we-work",
+   "insight_keys": [
+    "slow_replies_are_the_broker_red_flag"
+   ],
+   "needs_confirmation": true,
+   "hook": "If your broker takes two days to text back, that is your answer.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "qa",
+     "label": "ask the broker",
+     "question": "What do you actually do after pre-approval?",
+     "answer": "The loan is the easy part. The weeks between pre-approval and an accepted offer are where you need us: a number on a Saturday before you bid, a question answered before you sign, a quick reply while you're standing in the kitchen. If a broker goes quiet in that stretch, that tells you everything."
+    }
+   ],
+   "linkedin": "If your broker takes two days to text back, that is your answer.\n\nWhat do we actually do after pre-approval? More than before it. The loan is the easy part. The hard part is the stretch between pre-approval and an accepted offer, when you're inspecting on Saturdays, second-guessing a price on Sunday night and trying to work out what you can really commit to.\n\nThat's when you need a number quickly, a question answered before you sign anything, and someone who picks up. If a broker goes quiet in that window, the support you were actually paying for isn't there.\n\nSo when you're choosing a broker, ask how they support you between pre-approval and offer, and how fast they reply. The answer matters more than the rate they quote you.\n\nGeneral information only, not personal advice.",
+   "instagram": "If your broker takes two days to text back, that is your answer.\n\nThe loan is the easy part. The real work is the stretch between pre-approval and an accepted offer: Saturday inspections, a price you're unsure about, a contract in your inbox.\n\nThat's when you need a number quickly and someone who picks up. If a broker goes quiet in that window, the support you were paying for isn't there.\n\nAsk any broker how they back you between pre-approval and offer, and how fast they reply.\n\nHow long did your broker take to get back to you last time?\nGeneral information only, not personal advice.\n\n#firsthomebuyer #mortgagebroker #preapproval #melbournebroker #lendingleverage"
+  },
+  {
+   "id": "talk-to-my-accountant",
+   "slot": "how-we-work",
+   "pillar": "how-we-work",
+   "insight_keys": [
+    "broker_designs_accountant_verifies",
+    "accountant_bookkeeper_and_broker_must_talk"
+   ],
+   "needs_confirmation": true,
+   "hook": "We draw the structure. Your accountant signs off. Then we build.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "qa",
+     "label": "ask the broker",
+     "question": "Why do you want to talk to my accountant?",
+     "answer": "Because we don't give tax advice and won't pretend to. We design the lending structure, then take it to your accountant to check from a tax angle before anything is set up. For business owners, accountant and bookkeeper in the room too, so the numbers the bank sees are the ones everyone agrees on."
+    }
+   ],
+   "linkedin": "We draw the structure. Your accountant signs off. Then we build.\n\nPeople sometimes bristle when we ask to talk to their accountant. Fair enough, so here's why. We don't give tax advice and we won't pretend to. What we do is design the lending structure: which loans, which splits, where the offset sits, how the money moves. Then we take that drawing to your accountant to check from a tax angle before anything is set up.\n\nFor business owners we go one step further. When the accountant and the bookkeeper don't talk to each other, things fall through the gap and the lending suffers. We'd rather be in the room with both, so the numbers the bank sees are the numbers everyone agrees on.\n\nBefore you sign, ask whether your loan structure has been checked with your accountant.\n\nGeneral information only, not personal advice.",
+   "instagram": "We draw the structure. Your accountant signs off. Then we build.\n\nWhy do we want to talk to your accountant? Because we don't give tax advice and won't pretend to. We design the lending structure, then take it to your accountant to check from a tax angle before anything is set up.\n\nFor business owners, we'd rather have the accountant and bookkeeper in the room too. When they don't talk, things fall through the gap and the lending suffers.\n\nHas your broker ever asked to meet your accountant?\nGeneral information only, not personal advice.\n\n#mortgagebroker #businessowners #loanstructure #melbournebroker #lendingleverage"
+  },
+  {
+   "id": "messy-situation",
+   "slot": "how-we-work",
+   "pillar": "how-we-work",
+   "insight_keys": [
+    "credit_exceptions_need_a_clear_story",
+    "disclose_everything_to_the_lender_upfront"
+   ],
+   "needs_confirmation": true,
+   "hook": "Banks approve stories, not spreadsheets.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "qa",
+     "label": "ask the broker",
+     "question": "My situation is a bit messy. Can you still get me a loan?",
+     "answer": "Sometimes, yes. Hard files get approved on the story, not the numbers alone. We speak to the lender's credit team before lodging, then write it up plainly: what went wrong, why it isn't a pattern, how this loan fixes it. The ugly bits go in first. Surprises cost more than problems."
+    }
+   ],
+   "linkedin": "Banks approve stories, not spreadsheets.\n\n\"My situation's a bit messy. Can you still get me a loan?\" We hear it a lot, and the answer is sometimes yes, but never by hoping nobody notices.\n\nHard files don't get approved on the numbers alone. They get approved on the narrative. Before we lodge anything borderline we speak to the lender's credit team, get a steer, and then write the submission as a story: what went wrong, why it isn't a pattern, and how this loan fixes it.\n\nThe other half is telling the bank the ugly bits first. A problem the lender knows about on day one is a problem. The same thing surfacing after they've priced the deal is a surprise, and surprises reset the whole conversation.\n\nIf your file is unusual, ask what the written case will say before it goes in.\n\nGeneral information only, not personal advice.",
+   "instagram": "Banks approve stories, not spreadsheets.\n\n\"My situation's a bit messy. Can you still help?\" Sometimes, yes. Never by hoping nobody notices.\n\nHard files get approved on the story, not the numbers alone. We speak to the lender's credit team before lodging, then write it up plainly: what went wrong, why it isn't a pattern, how this loan fixes it.\n\nAnd the ugly bits go in first. Surprises cost more than problems.\n\nIf your file is unusual, has anyone shown you what the bank will actually read?\nGeneral information only, not personal advice.\n\n#mortgagebroker #homeloans #plainenglish #melbournebroker #lendingleverage"
+  },
+  {
+   "id": "five-year-question",
+   "slot": "how-we-work",
+   "pillar": "how-we-work",
+   "insight_keys": [
+    "rate_shopping_makes_you_a_transactional_broker"
+   ],
+   "needs_confirmation": true,
+   "hook": "If your broker only talked about rate, you got a transaction, not advice.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "qa",
+     "label": "ask the broker",
+     "question": "Why do you ask about my five-year plan before quoting a rate?",
+     "answer": "Because the right loan depends on the answer. Buying again in two years, selling, starting a business, having kids: each one changes how the loan should be built, how it's split and what it needs to flex. A broker who only finds the cheapest rate has done a transaction. We'd rather give advice."
+    }
+   ],
+   "linkedin": "If your broker only talked about rate, you got a transaction, not advice.\n\nWhy do we ask where you see yourself in three to five years before we quote anything? Because the right loan depends on the answer.\n\nBuying again in two years looks different from staying put for ten. Starting a business changes how income will be read next time. Kids on the way changes the buffer you want. Each one changes how the loan should be built, how it's split and what it needs to flex around.\n\nIf all a broker does is find you the cheapest rate, that's a transaction. Useful, maybe, but it isn't advice, and it won't survive your next move.\n\nSo expect the questions about your next five years before anyone mentions a rate. If they don't come, ask why.\n\nGeneral information only, not personal advice.",
+   "instagram": "If your broker only talked about rate, you got a transaction, not advice.\n\nWhy do we ask about your next five years before quoting anything? Because the right loan depends on the answer. Buying again, selling, starting a business, having kids: each one changes how the loan should be built and how it's split.\n\nFinding the cheapest rate is a transaction. Useful, but it isn't advice, and it won't survive your next move.\n\nExpect the five-year questions first. If they don't come, ask why.\n\nWhen did a broker last ask you where you'll be in five years?\nGeneral information only, not personal advice.\n\n#mortgagebroker #homeloans #refinance #melbournebroker #lendingleverage"
+  },
+  {
+   "id": "ask-the-banks-first",
+   "slot": "how-we-work",
+   "pillar": "how-we-work",
+   "insight_keys": [
+    "sound_out_lenders_anonymously_before_you_apply",
+    "we_sound_out_every_bank_before_one_application_hits_your_file"
+   ],
+   "needs_confirmation": true,
+   "hook": "We ask the banks before we tell them who you are.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "take",
+     "hook": "We ask the banks before we tell them who you are.",
+     "so_what": "Before you apply anywhere, ask whether the lenders have been sounded out on your scenario, and what each one said."
+    }
+   ],
+   "linkedin": "We ask the banks before we tell them who you are.\n\nHere's what happens in the week before a complex deal is lodged. We take the scenario, not the name, to several lenders' credit teams. Who has appetite? On what terms? Where will it get stuck?\n\nNothing touches your credit file while that happens. Nobody has your name. You haven't paid for a formal application anywhere. What you get back is a short list of lenders that have already said \"yes, send it\", and a clear picture of what each one will want to see.\n\nThen we lodge once, with the one that fits. A branch can't do this; it has one product and has to lodge to find out.\n\nBefore you apply anywhere, ask what the lenders said when your scenario was put to them.\n\nGeneral information only, not personal advice.",
+   "instagram": "We ask the banks before we tell them who you are.\n\nIn the week before a complex deal is lodged, we take the scenario, not the name, to several lenders' credit teams. Who has appetite? On what terms? Where will it get stuck?\n\nNothing touches your credit file while that happens. What comes back is a short list of lenders that have already said \"send it\", and a clear picture of what each wants to see. Then we lodge once.\n\nHas anyone ever shown you what the banks said before you applied?\nGeneral information only, not personal advice.\n\n#mortgagebroker #businesslending #homeloans #melbournebroker #lendingleverage"
+  },
+  {
+   "id": "one-page-structure",
+   "slot": "how-we-work",
+   "pillar": "how-we-work",
+   "insight_keys": [
+    "if_we_cant_draw_your_structure_you_wont_use_it_right",
+    "map_every_entity_and_loan_on_one_page_first"
+   ],
+   "needs_confirmation": true,
+   "hook": "If your loan structure can't fit on one page, it's too clever.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "take",
+     "hook": "If your loan structure can't fit on one page, it's too clever.",
+     "so_what": "Ask your broker to draw your splits, offsets and cash flows on one page before settlement. Keep the photo."
+    }
+   ],
+   "linkedin": "If your loan structure can't fit on one page, it's too clever.\n\nClients keep asking us to draw their structure and send a photo. They're right to. Every loan, every split, every offset, with arrows showing where money comes in and where it goes. If it can't be sketched on one page, it's too complicated to run properly, and a structure you can't run properly isn't saving you anything.\n\nIt's also where we start when someone arrives overwhelmed by what a previous adviser built. The first job isn't a loan. It's a map: every entity, every property, every loan, and how money moves between them. Nothing gets refinanced until the client can see the whole thing on one page.\n\nAsk your broker to draw your splits, offsets and cash flows before settlement. Then stick it on the fridge.\n\nGeneral information only, not personal advice.",
+   "instagram": "If your loan structure can't fit on one page, it's too clever.\n\nClients ask us to draw their structure and send a photo. They're right to. Every loan, split and offset, with arrows showing where the money flows. If it can't be sketched on one page, it's too complicated to run properly.\n\nIt's also where we start when someone arrives overwhelmed by what someone else built. First job isn't a loan. It's a map. Nothing gets refinanced until you can see the whole thing.\n\nCould you draw your own loan structure right now?\nGeneral information only, not personal advice.\n\n#loanstructure #mortgagebroker #propertyinvestor #melbournebroker #lendingleverage"
+  },
+  {
+   "id": "after-settlement",
+   "slot": "how-we-work",
+   "pillar": "how-we-work",
+   "insight_keys": [
+    "client_care_rhythm_six_touchpoints"
+   ],
+   "needs_confirmation": true,
+   "hook": "Your broker's job starts again the day your loan settles.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "take",
+     "hook": "Your broker's job starts again the day your loan settles.",
+     "so_what": "Ask your broker what happens after settlement and when your first scheduled review is. If there isn't one, that's your answer."
+    }
+   ],
+   "linkedin": "Your broker's job starts again the day your loan settles.\n\nMost people think settlement is the finish line. For us it's the start of the relationship. We run six touchpoints a year with every client after settlement: rate reviews at six and twelve months, an equity check, and the check-ins in between where we ask what's changed. New job, new baby, a loan that no longer fits.\n\nWe budget for this. It's real time and real cost per client, and we do it because that's where good lending comes from: knowing a client's situation well enough to see the next move before they do. It's also, honestly, where our referrals come from.\n\nAsk your broker what happens after settlement and when your first scheduled review is. If the answer is a shrug, you know what you've got.\n\nGeneral information only, not personal advice.",
+   "instagram": "Your broker's job starts again the day your loan settles.\n\nSettlement isn't the finish line. It's the start. We run six touchpoints a year after settlement: rate reviews at six and twelve months, an equity check, and the check-ins between where we ask what's changed.\n\nIt costs us real time per client. We do it because that's where good lending comes from, and, honestly, where our referrals come from.\n\nAsk your broker what happens after settlement and when your first review is.\n\nWhen did you last hear from the person who set up your loan?\nGeneral information only, not personal advice.\n\n#mortgagebroker #homeloans #refinance #melbournebroker #lendingleverage"
+  },
+  {
+   "id": "warm-referrals",
+   "slot": "how-we-work",
+   "pillar": "how-we-work",
+   "insight_keys": [
+    "warm_referrals_not_tick_and_flick",
+    "refer_out_only_question_is_client_service"
+   ],
+   "needs_confirmation": true,
+   "hook": "A good referral isn't a phone number. It's a briefing.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "take",
+     "hook": "A good referral isn't a phone number. It's a briefing.",
+     "so_what": "When your broker refers you on, ask what they've already shared and how they vetted the person you're being sent to."
+    }
+   ],
+   "linkedin": "A good referral isn't a phone number. It's a briefing.\n\nWhen we introduce a client to a conveyancer, a planner or an accountant, that person doesn't start from zero. They walk in already briefed with what our compliance allows us to share: what's being bought, what the timeline looks like, what the client is worried about. A referral that's just a name and a number tells the client we never really knew them.\n\nThe same goes for things we don't do in-house, like asset finance. The only question we ask about the partner is what service our client will get. The referral fee is irrelevant if the experience is worse than ours, because the client remembers it as our introduction.\n\nWhen your broker refers you on, ask what they've already shared and how they vetted the person.\n\nGeneral information only, not personal advice.",
+   "instagram": "A good referral isn't a phone number. It's a briefing.\n\nWhen we introduce you to a conveyancer, planner or accountant, they walk in already briefed with what we're allowed to share. A name and a number on its own tells you we never really knew you.\n\nSame for things we don't do in-house. The only question we ask about a partner is what service you'll get. The referral fee is irrelevant if the experience is worse than ours.\n\nWhen you were last referred on, did the next person already know your story?\nGeneral information only, not personal advice.\n\n#mortgagebroker #homebuying #conveyancer #melbournebroker #lendingleverage"
+  },
+  {
+   "id": "calm-person-on-the-call",
+   "slot": "how-we-work",
+   "pillar": "how-we-work",
+   "insight_keys": [
+    "broker_manages_two_stakeholders"
+   ],
+   "needs_confirmation": true,
+   "hook": "Our job is to be the only calm person on the call.",
+   "cards": [
+    {
+     "id": "c1",
+     "type": "take",
+     "hook": "Our job is to be the only calm person on the call.",
+     "so_what": "When a deal gets tense, ask your broker what the lender actually needs, rather than reacting to the email."
+    }
+   ],
+   "linkedin": "Our job is to be the only calm person on the call.\n\nA broker sits between two parties who both need to be kept honest and kept calm. The lender wants a clean file and a straight answer. The client wants to know why the bank is asking for one more document, three days out. Both are reasonable. Both get tense.\n\nSo we carry the lender's position to the client and the client's position to the lender, in plain words, without the heat. We stay frank when the conversation gets hard, because a soft answer now costs more later. And we never let a deal turn into a fight, because the next deal is with the same people.\n\nWhen a deal gets tense, ask your broker to translate what the lender actually needs, rather than reacting to the email yourself.\n\nGeneral information only, not personal advice.",
+   "instagram": "Our job is to be the only calm person on the call.\n\nA broker sits between two parties who both need to be kept honest and kept calm. The lender wants a straight answer. You want to know why the bank is asking for one more document, three days out.\n\nSo we carry each side's position to the other, in plain words, without the heat. Frank when it gets hard. Never a fight, because the next deal is with the same people.\n\nWhen a deal got tense, did your broker calm it down or add to it?\nGeneral information only, not personal advice.\n\n#mortgagebroker #settlement #homeloans #melbournebroker #lendingleverage"
+  }
+ ]
+}

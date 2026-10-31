@@ -97,7 +97,7 @@ const BUILDERS = {
     disc(c.note || GEN, t, { marginTop: 30 })]),
   cover: c => card(true, t => [label(c.label, t), head(c.hook, 96, t, { marginTop: 70 }), rule(), body(c.sub, t, 40), row({ marginTop: 60 }, pill('swipe  →', t, { fontFamily: SANS, fontWeight: 700, letterSpacing: 0 }))]),
   point: c => card(false, t => [
-    row({ justifyContent: 'space-between', alignItems: 'baseline' }, label(c.label, t), label(`${c.n} / ${c.of}`, t, { width: 'auto', color: MUTED })),
+    row({ justifyContent: 'space-between', alignItems: 'baseline' }, label(c.label, t, { width: 'auto' }), label(`${c.n} / ${c.of}`, t, { width: 'auto', color: MUTED, whiteSpace: 'nowrap' })),
     text(String(c.n).padStart(2, '0'), { width: 'auto', fontFamily: SANS, fontWeight: 700, fontSize: 88, letterSpacing: -3, lineHeight: 1, color: TEAL, marginTop: 70 }),
     head(c.title, 72, t, { marginTop: 26 }), rule(), body(c.body, t)]),
   cta: c => card(true, t => [label(c.label, t), head(c.headline, 84, t, { marginTop: 70 }), rule(), body(c.body, t, 40),

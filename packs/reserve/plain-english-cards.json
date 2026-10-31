@@ -1,0 +1,107 @@
+[
+ {
+  "id": "plain-english-lvr-c1",
+  "type": "term",
+  "term": "LVR",
+  "meaning": "How much of the property&rsquo;s value you&rsquo;re borrowing, as a percentage.",
+  "why_it_matters": "Banks price and approve loans in bands of LVR. A few thousand dollars that tips you into a lower band can mean a cheaper loan for years, with the same bank and no moving. Know your number."
+ },
+ {
+  "id": "plain-english-offset-account-c1",
+  "type": "term",
+  "term": "Offset account",
+  "meaning": "A bank account linked to your loan. Its balance cancels out loan interest.",
+  "why_it_matters": "Interest is worked out daily. Every dollar sitting in the offset is a dollar of loan you don&rsquo;t pay interest on that day. Your pay, your savings, your bills money: all of it can work against the mortgage while it waits."
+ },
+ {
+  "id": "plain-english-redraw-c1",
+  "type": "term",
+  "term": "Redraw",
+  "meaning": "Extra repayments you&rsquo;ve made that the loan lets you take back out.",
+  "why_it_matters": "Redraw and offset both save the same interest. The difference is whose money it is. Redraw sits inside the loan, so getting it back depends on the loan&rsquo;s rules. An offset is your own account. If you may need the cash, we prefer the offset."
+ },
+ {
+  "id": "plain-english-serviceability-c1",
+  "type": "term",
+  "term": "Serviceability",
+  "meaning": "Borrowing power: what a lender thinks you can repay from income, debts and spending.",
+  "why_it_matters": "It&rsquo;s not one number. The same payslips give different answers at different lenders. Card limits count even at zero balance, and most people understate what they spend. We run several lenders and give you the comfortable figure first, not the maximum."
+ },
+ {
+  "id": "plain-english-pre-approval-c1",
+  "type": "term",
+  "term": "Pre-approval",
+  "meaning": "A lender&rsquo;s conditional yes, before you&rsquo;ve found the property.",
+  "why_it_matters": "It tells you what you can bid and shows agents you&rsquo;re serious. It&rsquo;s conditional on the property and on nothing changing. If it sits below the homes you keep missing, that&rsquo;s a lender problem: another lender may say a bigger yes."
+ },
+ {
+  "id": "plain-english-lmi-c1",
+  "type": "term",
+  "term": "LMI",
+  "meaning": "Insurance you pay for that protects the bank, not you.",
+  "why_it_matters": "Lenders mortgage insurance usually applies when your deposit is under about 20%. It&rsquo;s a one-off cost added to the loan. It can be the price of buying years earlier instead of saving longer, but know who it protects: the lender, if you can&rsquo;t pay."
+ },
+ {
+  "id": "plain-english-valuation-c1",
+  "type": "term",
+  "term": "Valuation",
+  "meaning": "The lender&rsquo;s opinion of what your property is worth. Not the market&rsquo;s.",
+  "why_it_matters": "It decides how much equity you can use and whether a refinance is worth doing. Different lenders&rsquo; valuers land on different numbers, so we test several before lodging anything, and we plan for the figure you&rsquo;ll probably get, not just the one you want."
+ },
+ {
+  "id": "plain-english-interest-only-c1",
+  "type": "term",
+  "term": "Interest-only",
+  "meaning": "Repayments that cover the interest and none of the loan itself.",
+  "why_it_matters": "It&rsquo;s a tool, not a default. It usually costs more, because lenders charge a higher rate, and the debt doesn&rsquo;t shrink. We use it when cash flow needs room, during a build or a tight patch, and switch back when the reason has passed."
+ },
+ {
+  "id": "plain-english-principal-and-interest-c1",
+  "type": "term",
+  "term": "Principal and interest",
+  "meaning": "Each repayment pays the interest and chips away at the loan.",
+  "why_it_matters": "Principal is the amount you borrowed. Interest is the rent on it. Early on, most of each repayment is interest; as the balance falls, more goes to principal. Money in an offset speeds that up without changing the repayment at all."
+ },
+ {
+  "id": "plain-english-guarantor-c1",
+  "type": "term",
+  "term": "Guarantor",
+  "meaning": "Someone who backs your loan with their property or their income.",
+  "why_it_matters": "There are two kinds. A security guarantor puts up property so you can borrow against it; their income isn&rsquo;t needed. A servicing guarantor backs the repayments. Most people only need the first, and it fixes a deposit gap, not a repayment gap."
+ },
+ {
+  "id": "plain-english-equity-c1",
+  "type": "term",
+  "term": "Equity",
+  "meaning": "What your property is worth minus what you still owe on it.",
+  "why_it_matters": "It&rsquo;s the deposit you already have. If the loan on a property you own is low, releasing equity is often the quickest way to fund the next purchase, faster than saving. How much you can use depends on the lender&rsquo;s valuation, not the agent&rsquo;s."
+ },
+ {
+  "id": "plain-english-settlement-c1",
+  "type": "term",
+  "term": "Settlement",
+  "meaning": "The day the money moves and the property becomes yours.",
+  "why_it_matters": "The bank is usually the quick bit. The hard bit is lining the date up with your sale, your lease and the people on the other side. Need more time? Ask once, for the whole window the contract allows."
+ },
+ {
+  "id": "plain-english-split-loan-c1",
+  "type": "term",
+  "term": "Split loan",
+  "meaning": "One loan divided into parts, each with its own terms.",
+  "why_it_matters": "Most often, a fixed part for certainty and a variable part with the offset attached, so your savings keep working. The variable pocket is where extra repayments go. If the structure can&rsquo;t be drawn on one page with arrows, it&rsquo;s too clever to run properly."
+ },
+ {
+  "id": "plain-english-cross-securing-c1",
+  "type": "term",
+  "term": "Cross-securing",
+  "meaning": "One loan held against two or more of your properties at once.",
+  "why_it_matters": "It can be the quick way to buy without a cash deposit. You lose flexibility: sell one and the bank reassesses the lot; move one loan and the other comes too. Ask how your loans are secured, not just what they cost."
+ },
+ {
+  "id": "plain-english-fixed-vs-variable-c1",
+  "type": "term",
+  "term": "Fixed vs variable",
+  "meaning": "Fixed locks the repayment for a set time. Variable moves with the market.",
+  "why_it_matters": "Fixing is a certainty decision, not a forecast. You&rsquo;re buying a known repayment, and you give something up for it: usually extra repayments are capped and the offset goes. Decide what you&rsquo;re buying before you lock anything. Nobody knows where rates go next, including us."
+ }
+]

@@ -1,0 +1,107 @@
+[
+ {
+  "id": "myth-cash-is-safe-c1",
+  "type": "myth",
+  "myth": "Paying cash is the safe way to invest.",
+  "reality": "We&rsquo;d usually borrow for the asset and keep the cash working.",
+  "because": "The property grows the same whether or not it carries a loan. Borrowed money isn&rsquo;t income, and your cash stays where you can reach it. Run it with your accountant."
+ },
+ {
+  "id": "myth-interest-free-invisible-c1",
+  "type": "myth",
+  "myth": "It&rsquo;s interest-free, so it doesn&rsquo;t count.",
+  "reality": "The bank counts the repayment, not the interest.",
+  "because": "Every monthly commitment comes off what you can borrow, interest or not. Small buy-now-pay-later and store facilities quietly cap a refinance or a second purchase."
+ },
+ {
+  "id": "myth-ten-percent-contract-c1",
+  "type": "myth",
+  "myth": "You need ten percent on the contract.",
+  "reality": "The contract deposit is a negotiation, not a rule.",
+  "because": "With solid pre-approval, a smaller deposit, a staged deposit or a deposit bond can all work. We&rsquo;d rather that than drain a parent&rsquo;s savings to look strong."
+ },
+ {
+  "id": "myth-tax-return-softens-c1",
+  "type": "myth",
+  "myth": "The tax return will soften the holding cost.",
+  "reality": "On an older property, there&rsquo;s little depreciation to claim.",
+  "because": "Established homes bring very little depreciation, so the after-tax cost sits close to the pre-tax number. We model it that way. Check what&rsquo;s realistic with your accountant."
+ },
+ {
+  "id": "myth-investment-first-benefits-c1",
+  "type": "myth",
+  "myth": "Buy an investment first and you lose your first home benefits.",
+  "reality": "Sometimes. It depends on your state and whether you live there.",
+  "because": "In some states an investment you never live in doesn&rsquo;t burn every first home concession. The rules differ and change, so we check before you sign."
+ },
+ {
+  "id": "myth-deposit-and-duty-c1",
+  "type": "myth",
+  "myth": "A bigger deposit means less stamp duty.",
+  "reality": "Duty is set by the property, not the loan.",
+  "because": "Transfer duty depends on the type and price of the property and your eligibility as a buyer. Borrowing less or putting in more changes nothing on that bill."
+ },
+ {
+  "id": "myth-selling-buys-capacity-c1",
+  "type": "myth",
+  "myth": "Sell the home and the bank will lend me more.",
+  "reality": "Selling gives you cash, not borrowing power.",
+  "because": "The rent you pay afterwards goes straight back into the servicing calculation. Capacity comes from income and lower commitments, not from turning an asset into a bank balance."
+ },
+ {
+  "id": "myth-one-bank-for-everything-c1",
+  "type": "myth",
+  "myth": "Refinancing means moving everything to one bank.",
+  "reality": "Different banks win at different things. We often use two.",
+  "because": "One lender might be sharpest on rate for the refinance. Another lends more when capacity matters for the next purchase. Pick the lender for the job in front of you."
+ },
+ {
+  "id": "myth-bank-valuation-c1",
+  "type": "myth",
+  "myth": "The bank&rsquo;s valuation is what the house is worth.",
+  "reality": "It&rsquo;s a lending number. The sale price is a different number.",
+  "because": "We&rsquo;ll push a valuation as hard as we can to get a refinance through, and still tell you plainly what the market would pay if you sold."
+ },
+ {
+  "id": "myth-offset-not-working-c1",
+  "type": "myth",
+  "myth": "My repayment didn&rsquo;t drop, so the offset isn&rsquo;t working.",
+  "reality": "The offset cuts your interest, not your repayment. That&rsquo;s the point.",
+  "because": "The same repayment now clears more principal, so you finish years earlier. Look at the interest line on your statement, not the repayment, and check the offset is linked."
+ },
+ {
+  "id": "myth-one-banks-no-c1",
+  "type": "myth",
+  "myth": "One bank said no, so that&rsquo;s the answer.",
+  "reality": "Borrowing power isn&rsquo;t one number. It depends who you ask.",
+  "because": "The same payslips through different lenders&rsquo; calculators give different answers. We run several before we tell anyone a number, usually within a day of getting documents."
+ },
+ {
+  "id": "myth-interest-only-cheaper-c1",
+  "type": "myth",
+  "myth": "Interest-only is the cheaper way to hold a property.",
+  "reality": "It usually carries a higher rate. It&rsquo;s a tool, not a default.",
+  "because": "Interest-only buys cash-flow room when you need it. If the rent covers principal and interest comfortably, paying it down is cheaper and faster. Ask for both figures."
+ },
+ {
+  "id": "myth-pre-approval-is-approval-c1",
+  "type": "myth",
+  "myth": "I&rsquo;m pre-approved, so the loan is approved.",
+  "reality": "Only if a human actually read your file.",
+  "because": "Some pre-approvals are system-generated with conditions buried in the fine print, and fall over when you buy. We insist on one a credit assessor has looked at."
+ },
+ {
+  "id": "myth-grant-as-deposit-c1",
+  "type": "myth",
+  "myth": "The grant is part of my deposit.",
+  "reality": "We plan settlement as if the grant won&rsquo;t arrive.",
+  "because": "Grants can be reassessed or declined at the last minute. If the settlement figures relied on that money, the shortfall comes from your pocket on the day."
+ },
+ {
+  "id": "myth-guarantor-just-a-signature-c1",
+  "type": "myth",
+  "myth": "Going guarantor is just a signature from Mum and Dad.",
+  "reality": "Their house is committed for years, not just your deposit.",
+  "because": "If the guarantors sell before their home is released as security, a cash contribution is usually required. The whole family needs to agree on the timeline before anyone signs."
+ }
+]

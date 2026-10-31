@@ -16,7 +16,7 @@ ROOT = Path(__file__).parent
 RES = ROOT / 'packs' / 'reserve'
 RAW = 'https://raw.githubusercontent.com/aadi146/ll-social-cards/main/cards/reserve'
 GEN = 'General information only, not personal advice.'
-BANNED = re.compile(r"\b(unlock|navigate|in today'?s market|speak with a broker|guaranteed?|leverage\b(?! leverage))", re.I)
+BANNED = re.compile(r"\b(unlock|navigate|in today'?s market|speak with a broker|guaranteed?|game-?changer|secret|hack|journey\b(?! card)|leverage\b(?! leverage))", re.I)
 DATED = re.compile(r"\b(\d\.\d{1,2}\s?%|\d{1,2}\.\d{2}\s?%|cash rate|RBA|CBA|NAB|ANZ|Westpac|Macquarie|ING\b|Bankwest|Suncorp|St\.? ?George|Liberty|Pepper|Resimac|Bluestone|La ?Trobe|first home guarantee|\$\d{2,3},?\d{3})", re.I)
 LIMITS = {  # words
     'take': {'hook': 14, 'so_what': 22}, 'stat': {'headline': 8, 'body': 40}, 'myth': {'myth': 12, 'reality': 12, 'because': 30},

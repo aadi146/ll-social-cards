@@ -1,0 +1,62 @@
+[
+ {
+  "id": "ask-yourself-one-income-c1",
+  "type": "question",
+  "question": "If one income stopped tomorrow, how many months could the other carry the house?",
+  "body": "Home and contents covers the building. Nothing in it covers the income that pays for it."
+ },
+ {
+  "id": "ask-yourself-know-your-rate-c1",
+  "type": "question",
+  "question": "Do you know the rate on each of your loan splits, or the rate you signed at?",
+  "body": "Most people quote the rate they remember. The statement usually says something higher."
+ },
+ {
+  "id": "ask-yourself-buffer-in-months-c1",
+  "type": "question",
+  "question": "If repayments outgrew your income, how many months would your buffer cover the gap?",
+  "body": "A buffer expressed in months is a plan. A buffer expressed as a lump sum is anxiety."
+ },
+ {
+  "id": "ask-yourself-payday-offset-c1",
+  "type": "question",
+  "question": "On payday, where does your salary land: a savings account, or your offset?",
+  "body": "Interest is worked out daily. Every day your pay waits in the offset is interest you don&rsquo;t pay."
+ },
+ {
+  "id": "ask-yourself-car-before-house-c1",
+  "type": "question",
+  "question": "If you needed a car in the next twelve months, how would you pay for it?",
+  "body": "Most new homeowners buy one within six months. Deciding now beats finding out after."
+ },
+ {
+  "id": "ask-yourself-budget-not-limit-c1",
+  "type": "question",
+  "question": "Does the agent know your budget, or your limit?",
+  "body": "Tell them the number you want to stick to. Hold the real headroom back."
+ },
+ {
+  "id": "ask-yourself-card-limit-c1",
+  "type": "question",
+  "question": "What&rsquo;s the limit on the credit card you never use?",
+  "body": "Lenders count the limit, not the balance. An untouched card still shrinks your borrowing power."
+ },
+ {
+  "id": "ask-yourself-banks-maximum-c1",
+  "type": "question",
+  "question": "If the bank said you could borrow double, would you? What would the month look like?",
+  "body": "Their number is their appetite. Yours is the repayment you can live with."
+ },
+ {
+  "id": "ask-yourself-loan-after-sixty-five-c1",
+  "type": "question",
+  "question": "If you stopped working at sixty-five, what would pay this loan out?",
+  "body": "Past fifty-five, lenders ask how the loan ends. It&rsquo;s worth answering before they do."
+ },
+ {
+  "id": "ask-yourself-who-pays-if-you-cant-c1",
+  "type": "question",
+  "question": "How much life, disability and income cover do you actually have? Not whether. How much.",
+  "body": "A policy you&rsquo;ve never looked at is a guess. Does the cover match the mortgage?"
+ }
+]

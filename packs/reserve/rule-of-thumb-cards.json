@@ -1,0 +1,67 @@
+[
+ {
+  "id": "rule-of-thumb-thirteen-months-c1",
+  "type": "stat",
+  "label": "months a year",
+  "value": "13",
+  "headline": "fortnightly repayments pay thirteen months a year",
+  "body": "Twenty-six fortnights is one extra monthly repayment every year, which quietly knocks years off a thirty-year loan. It isn&rsquo;t magic, and it isn&rsquo;t free: if monthly cash flow is tight, pay monthly and add extra when you can.",
+  "note": "Ask for half the monthly amount each fortnight, not a &lsquo;true&rsquo; fortnightly split."
+ },
+ {
+  "id": "rule-of-thumb-six-lenders-c1",
+  "type": "stat",
+  "label": "lenders, really",
+  "value": "6",
+  "headline": "forty on the website, six in real life",
+  "body": "Most brokers who say they work with forty lenders place loans with about six. That&rsquo;s not a scandal; depth beats breadth. We know our top ten deeply, which is what lets us workshop an unusual file instead of guessing."
+ },
+ {
+  "id": "rule-of-thumb-sixty-days-c1",
+  "type": "stat",
+  "label": "days fresh",
+  "value": "60",
+  "headline": "your payslip has a shelf life",
+  "body": "Payslips and statements go stale with lenders after roughly sixty days. A file that sits for a month can need refreshing before it&rsquo;s lodged. Keep your last two payslips and statements handy for the whole application, not just day one."
+ },
+ {
+  "id": "rule-of-thumb-buffer-years-c1",
+  "type": "stat",
+  "label": "years of buffer",
+  "value": "2–3",
+  "headline": "upsizing? keep cash back, not all in",
+  "body": "Stepping up to a bigger loan? We&rsquo;d rather use a smaller deposit and keep an offset than tip it all in. The buffer is there to get used to the higher repayments for the first two or three years."
+ },
+ {
+  "id": "rule-of-thumb-car-in-six-months-c1",
+  "type": "stat",
+  "label": "house, then car",
+  "value": "6mo",
+  "headline": "a car follows the house within six months",
+  "body": "Most people who buy a home buy a car within six months, and replace cars every two and a half years, not the five everyone assumes. We talk about the car when we set up the home loan, not after."
+ },
+ {
+  "id": "rule-of-thumb-six-touchpoints-c1",
+  "type": "stat",
+  "label": "check-ins a year",
+  "value": "6",
+  "headline": "settlement is the start, not the end",
+  "body": "Your broker&rsquo;s job starts again the day your loan settles. We run six touchpoints a year after settlement, including rate reviews at six and twelve months and an equity check, because the loan that was right on day one drifts."
+ },
+ {
+  "id": "rule-of-thumb-two-payslips-c1",
+  "type": "stat",
+  "label": "payslips to start",
+  "value": "2",
+  "headline": "two payslips, real numbers, in writing",
+  "body": "We don&rsquo;t need your life story to give you real options. Two recent payslips are enough to run your borrowing capacity across several lenders and come back in writing with what you can do now versus later."
+ },
+ {
+  "id": "rule-of-thumb-twelve-months-statements-c1",
+  "type": "stat",
+  "label": "months of statements",
+  "value": "12",
+  "headline": "you spend more than you think. check.",
+  "body": "Almost everyone underestimates their annual spending, often by a lot, once school fees, holidays and the small stuff are counted. Lenders rebuild the number from your statements, so do it first: twelve months, totalled, before anyone models your capacity."
+ }
+]
