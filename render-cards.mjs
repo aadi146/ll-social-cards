@@ -63,9 +63,9 @@ const sowhat = (lead, s, t) => h('div', { display: 'flex', marginTop: 44, border
 const GEN = 'General information only, not personal advice.';
 const CRED = 'General information only. Aaditya Sahu (Credit Representative 545239) of Lending Leverage Pty Ltd is an authorised credit representative of Connective Credit Services Pty Ltd, Australian Credit Licence 389328.';
 
-const logo = () => h('svg', { width: 56, height: 60, viewBox: '0 0 30 33' }, [
-  h('path', {}, null, { d: 'M1.75 1.75h8.5v21.5h-8.5z', stroke: TEAL, strokeWidth: 3.5, fill: 'none' }),
-  h('path', {}, null, { d: 'M8 1.75v29.5h20.25V20.25H12.5V1.75z', stroke: TEAL, strokeWidth: 3.5, fill: 'none' }),
+const logo = () => h('svg', { width: 52, height: 57, viewBox: '0 0 310 340' }, [
+  h('path', {}, null, { d: 'M10 10h112v245H10z M45 45h42v175H45z', fill: TEAL, fillRule: 'evenodd' }),
+  h('path', {}, null, { d: 'M90 10h45v205h165v115H90z M135 250h130v45H135z', fill: TEAL, fillRule: 'evenodd' }),
 ]);
 const foot = (t) => row({ width: W - 168, height: 100, flexShrink: 0, alignItems: 'center', justifyContent: 'space-between', marginTop: 40 },
   row({ alignItems: 'center', gap: 18 }, logo(), text('lending\nleverage', { width: 'auto', fontFamily: DISPLAY, fontSize: 30, lineHeight: 0.95, color: t.fg, whiteSpace: 'pre' })),
