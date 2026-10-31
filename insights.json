@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-31",
  "table": "LL Aadi Insights (n8n data table OyCGlRR2PYDdF3DI) — mirror",
- "count": 141,
+ "count": 143,
  "rows": [
   {
    "key": "buyers_agent_not_worth_it_first_home",
@@ -2114,6 +2114,36 @@
    "quote": "We are seeing a lot more complex refinancing and restructuring.",
    "source": "Plaud: Broker referral partnership, insurance, super (2026-10-13); Plaud: Adviser cross-sell, open banking, asset finance (2026-10-12)",
    "status": "Mined 31 Oct 2026 from Plaud calls (Aug–Oct). Aadi to confirm wording before first use. Confidence: medium.",
+   "active": false,
+   "used_count": 0,
+   "last_used": ""
+  },
+  {
+   "key": "talk_through_listings_before_you_find_the_one",
+   "category": "first-home-buyers",
+   "applies_to": "first home, property search, shortlisting, negotiation",
+   "hook": "Send us the places you'd inspect, long before you find the one.",
+   "so_what": "Start sharing listings you'd actually go and see, so you're practised at judging them when the right one turns up.",
+   "insight": "We ask first home buyers to start sending us the properties they'd inspect from day one, before they're ready to offer. Talking each one through is how we narrow down to the right home.",
+   "why": "Getting into a rhythm of discussing properties builds a feel for value, so pricing, offering and negotiating are easier when it counts.",
+   "quote": "If a property is something that you take the time to go inspect, it's definitely worth us talking about it",
+   "source": "Plaud: 10-29 Meeting: First Home Loan Assessment and Property Search Plan (2026-10-29)",
+   "status": "Mined 2026-10-31 by the Friday routine. Aadi to confirm wording before first use. New angle on shortlist_only_what_youd_inspect. Confidence: medium.",
+   "active": false,
+   "used_count": 0,
+   "last_used": ""
+  },
+  {
+   "key": "frank_but_amicable_with_lenders",
+   "category": "general",
+   "applies_to": "lender negotiations, commercial deals, broker value",
+   "hook": "We push lenders hard, but never burn the bridge. Your next loan needs it.",
+   "so_what": "Ask your broker how they handle a lender who changes terms late, and whether they'll still be welcome back.",
+   "insight": "When a lender shifts position late in a deal, we push back frankly but keep the conversation amicable. We'll be back with the same lender for the next refinance, so the relationship has to outlast the deal.",
+   "why": "Frank, respectful negotiation gets the deal settled without costing the client goodwill on future transactions.",
+   "quote": "Frank conversations, but at the same time be amicable.",
+   "source": "Plaud: 10-29 Meeting: Investment Management Fees, ICR Impact, Lease Renewal Cash Release, and Approval Timeline (2026-10-29)",
+   "status": "Mined 2026-10-31 by the Friday routine. Aadi to confirm wording before first use. New angle on broker_manages_two_stakeholders. Confidence: medium.",
    "active": false,
    "used_count": 0,
    "last_used": ""

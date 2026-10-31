@@ -1,0 +1,122 @@
+{
+  "week": "2026-11-09",
+  "posts": [
+    {
+      "id": "p1-dont-move-it-just-to-move-it",
+      "insight_keys": [
+        "dont_refinance_for_small_gains"
+      ],
+      "pillar": "refinancing-honestly",
+      "gate_score": 4,
+      "cards": [
+        {
+          "id": "2026-11-09-p1-take",
+          "type": "take",
+          "hook": "We won&rsquo;t move a loan just to move it.",
+          "so_what": "Already on a good rate? Ask what a switch adds, beyond the rate, before you break it."
+        }
+      ],
+      "linkedin": "We won't move a loan just to move it.\n\nRefinancing has real costs: break fees on a fixed rate, discharge and setup fees, and weeks of paperwork. If you're already on a good rate, especially a good fixed rate, a slightly sharper one rarely covers all of that.\n\nSo when someone asks us to refinance, the first question isn't \"who's cheaper?\" It's \"what would the new loan do that this one can't?\" A cash-out you genuinely need. A better split. An offset that actually gets used. If there's no real answer, we'd rather leave the loan where it is and tell you so.\n\nBefore you switch, ask what you're getting besides the rate.\n\nGeneral information only, not personal advice.",
+      "instagram": "We won't move a loan just to move it.\n\nIf you're already on a good rate, especially a good fixed one, switching for a tiny saving usually costs more in fees and hassle than it gives back.\n\nWe only suggest a refinance when it adds something real: cash you need, a better structure, an offset you'll actually use.\n\nWhat would a new loan do for you that your current one can't?\n\nGeneral information only, not personal advice.\n\n#mortgagebroker #refinance #homeloan #melbourneproperty #lendingleverage"
+    },
+    {
+      "id": "p2-cheapest-business-money",
+      "insight_keys": [
+        "mortgage_backed_credit_cheapest_for_business"
+      ],
+      "pillar": "business-owners",
+      "gate_score": 4,
+      "cards": [
+        {
+          "id": "2026-11-09-p2-myth",
+          "type": "myth",
+          "myth": "Business cash should come from a business loan.",
+          "reality": "Credit against property is usually the cheapest business funding.",
+          "because": "Home-secured lending is priced well below overdrafts. It can go to the business under a loan agreement, with your accountant. Want the home kept out? We respect that."
+        }
+      ],
+      "linkedin": "The cheapest business funding is often secured against your home, not the business.\n\nWhen a business needs cash, most owners go straight to an overdraft or an unsecured business line of credit. Those are priced for the bank's risk, and it shows. Credit secured by residential property is usually priced well below them, and it can be lent on to the business under a proper loan agreement, set up with your accountant.\n\nIt is a trade-off, though: your home ends up backing the business. If you'd rather keep the family home out of it, we respect that, and we'll look at business-only options instead.\n\nEither way, compare both before you sign up for the overdraft.\n\nGeneral information only, not personal advice.",
+      "instagram": "The cheapest business funding is often secured against your home, not the business.\n\nOverdrafts and unsecured business lines are priced for the bank's risk. Credit against residential property usually costs a lot less, and it can be lent to the business under a loan agreement (set that up with your accountant).\n\nThe trade-off is real: your home backs the business. If you'd rather keep it out, we respect that and look at business-only options.\n\nWhich matters more to you right now: the lower cost, or keeping the home separate?\n\nGeneral information only, not personal advice.\n\n#businessfinance #smallbusinessaustralia #mortgagebroker #melbournebusiness #lendingleverage"
+    },
+    {
+      "id": "p3-buyers-agent-first-home",
+      "insight_keys": [
+        "buyers_agent_not_worth_it_first_home"
+      ],
+      "pillar": "first-home",
+      "gate_score": 5,
+      "cards": [
+        {
+          "id": "2026-11-09-p3-take",
+          "type": "take",
+          "hook": "For a first home, we don&rsquo;t think a buyer&rsquo;s agent is worth the fee.",
+          "so_what": "You do the inspecting. We bring the sales data, due diligence and negotiation support."
+        }
+      ],
+      "linkedin": "For a first home, we don't think a buyer's agent is worth the fee.\n\nBuyer's agents typically charge around one to two percent of the price. On a high-ticket purchase that can earn its keep. For a first home bought in the general market, we'd rather you kept the money.\n\nWhat matters most in a home you'll live in is how it feels when you walk through it, and only you can judge that. So you do the inspecting. We bring the property data, the due diligence, and help with pricing and negotiating the offer.\n\nBefore paying someone to search for you, ask what they'd know that you won't feel at the inspection.\n\nGeneral information only, not personal advice.",
+      "instagram": "For a first home, we don't think a buyer's agent is worth the fee.\n\nThey usually charge around one to two percent of the price. That can make sense on a big-ticket purchase. For a home you'll live in, how it feels when you walk through matters most, and only you can judge that.\n\nSo you inspect. We bring the sales data, the due diligence and help with the offer.\n\nWould you rather pay someone to search, or put that money towards the home?\n\nGeneral information only, not personal advice.\n\n#firsthomebuyer #firsthome #mortgagebroker #melbourneproperty #lendingleverage"
+    },
+    {
+      "id": "p4-equity-investment-carousel",
+      "insight_keys": [
+        "fund_investment_from_equity_no_cross_collateral",
+        "undrawn_facility_in_offset_costs_nothing",
+        "redraw_is_not_savings_debt_recycling"
+      ],
+      "pillar": "complex-lending",
+      "gate_score": 4,
+      "cards": [
+        {
+          "id": "2026-11-09-p4-c1",
+          "type": "cover",
+          "label": "investors",
+          "hook": "Buying an investment with equity? How it&rsquo;s set up matters for years.",
+          "sub": "Three setups we like, and why."
+        },
+        {
+          "id": "2026-11-09-p4-c2",
+          "type": "point",
+          "label": "investors",
+          "n": 1,
+          "of": 3,
+          "title": "Keep the properties separate",
+          "body": "We fund the deposit and costs through a separate cash-out split against your home, without tying the two properties together. That keeps you flexible when you want to sell or refinance one later."
+        },
+        {
+          "id": "2026-11-09-p4-c3",
+          "type": "point",
+          "label": "investors",
+          "n": 2,
+          "of": 3,
+          "title": "Park it in an offset",
+          "body": "Releasing equity before you&rsquo;ve found the property? We often set it up interest-only with the funds sitting in an offset. Until you use it, your effective repayment is zero."
+        },
+        {
+          "id": "2026-11-09-p4-c4",
+          "type": "point",
+          "label": "investors",
+          "n": 3,
+          "of": 3,
+          "title": "Redraw isn&rsquo;t a savings account",
+          "body": "Money in redraw has already paid down your home loan. Pulling it out to invest muddies what the loan is for. A separate split for investing is cleaner. Plan it with your accountant."
+        },
+        {
+          "id": "2026-11-09-p4-c5",
+          "type": "cta",
+          "label": "investors",
+          "headline": "Get the structure right before you sign.",
+          "body": "A 15-minute chat is enough to map out the setup.",
+          "button": "Book a quick chat &rarr;"
+        }
+      ],
+      "linkedin": "Buying an investment with your home's equity? How it's set up matters for years.\n\nThree setups we keep coming back to:\n\n1. Keep the properties separate. Fund the deposit and costs through a separate split against your home, without tying the two properties together. You stay flexible when you sell or refinance one.\n\n2. Park the equity in an offset. Released early and set up interest-only with the money sitting in an offset, it costs you nothing until you use it.\n\n3. Don't treat redraw as savings. Pulling redraw out to invest muddies what the loan is for. A separate split is cleaner.\n\nHow the interest is treated for tax is one for your accountant.\n\nGeneral information only, not personal advice.",
+      "instagram": "Buying an investment with your home's equity? How it's set up matters for years.\n\nSwipe for three setups we like: keep the properties separate, park the equity in an offset until you need it, and don't treat redraw as savings.\n\nNone of these are about the rate. They're about staying flexible and keeping each loan clear about what it's for. The tax side is one for your accountant.\n\nWhich of these does your current setup already do?\n\nGeneral information only, not personal advice.\n\n#propertyinvestor #investmentproperty #mortgagebroker #melbourneproperty #lendingleverage"
+    }
+  ],
+  "held_back": [],
+  "new_insights": [
+    "talk_through_listings_before_you_find_the_one",
+    "frank_but_amicable_with_lenders"
+  ],
+  "note": "Built by the Friday routine on 2026-10-31 (test run). Card PNGs in cards/2026-11-09/. No RBA card: no decision announcement was provided this week. Active insights had no social hook yet, so hooks were written from the insight text; Aadi to confirm."
+}

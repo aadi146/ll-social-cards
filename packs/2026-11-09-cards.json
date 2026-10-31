@@ -1,0 +1,63 @@
+[
+  {
+    "id": "2026-11-09-p1-take",
+    "type": "take",
+    "hook": "We won&rsquo;t move a loan just to move it.",
+    "so_what": "Already on a good rate? Ask what a switch adds, beyond the rate, before you break it."
+  },
+  {
+    "id": "2026-11-09-p2-myth",
+    "type": "myth",
+    "myth": "Business cash should come from a business loan.",
+    "reality": "Credit against property is usually the cheapest business funding.",
+    "because": "Home-secured lending is priced well below overdrafts. It can go to the business under a loan agreement, with your accountant. Want the home kept out? We respect that."
+  },
+  {
+    "id": "2026-11-09-p3-take",
+    "type": "take",
+    "hook": "For a first home, we don&rsquo;t think a buyer&rsquo;s agent is worth the fee.",
+    "so_what": "You do the inspecting. We bring the sales data, due diligence and negotiation support."
+  },
+  {
+    "id": "2026-11-09-p4-c1",
+    "type": "cover",
+    "label": "investors",
+    "hook": "Buying an investment with equity? How it&rsquo;s set up matters for years.",
+    "sub": "Three setups we like, and why."
+  },
+  {
+    "id": "2026-11-09-p4-c2",
+    "type": "point",
+    "label": "investors",
+    "n": 1,
+    "of": 3,
+    "title": "Keep the properties separate",
+    "body": "We fund the deposit and costs through a separate cash-out split against your home, without tying the two properties together. That keeps you flexible when you want to sell or refinance one later."
+  },
+  {
+    "id": "2026-11-09-p4-c3",
+    "type": "point",
+    "label": "investors",
+    "n": 2,
+    "of": 3,
+    "title": "Park it in an offset",
+    "body": "Releasing equity before you&rsquo;ve found the property? We often set it up interest-only with the funds sitting in an offset. Until you use it, your effective repayment is zero."
+  },
+  {
+    "id": "2026-11-09-p4-c4",
+    "type": "point",
+    "label": "investors",
+    "n": 3,
+    "of": 3,
+    "title": "Redraw isn&rsquo;t a savings account",
+    "body": "Money in redraw has already paid down your home loan. Pulling it out to invest muddies what the loan is for. A separate split for investing is cleaner. Plan it with your accountant."
+  },
+  {
+    "id": "2026-11-09-p4-c5",
+    "type": "cta",
+    "label": "investors",
+    "headline": "Get the structure right before you sign.",
+    "body": "A 15-minute chat is enough to map out the setup.",
+    "button": "Book a quick chat &rarr;"
+  }
+]
