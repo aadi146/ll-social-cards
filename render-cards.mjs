@@ -95,7 +95,7 @@ const BUILDERS = {
       text(c.reality, { fontFamily: SANS, fontWeight: 700, fontSize: 54, letterSpacing: -1.5, lineHeight: 1.04, color: '#fff', marginTop: 26 }),
       text(c.because, { fontFamily: SANS, fontSize: 32, lineHeight: 1.35, color: '#CFECEE', marginTop: 24 })),
     disc(c.note || GEN, t, { marginTop: 30 })]),
-  cover: c => card(true, t => [label(c.label, t), head(c.hook, 96, t, { marginTop: 70 }), rule(), body(c.sub, t, 40), row({ marginTop: 60 }, pill('swipe →', t))]),
+  cover: c => card(true, t => [label(c.label, t), head(c.hook, 96, t, { marginTop: 70 }), rule(), body(c.sub, t, 40), row({ marginTop: 60 }, pill('swipe  →', t, { fontFamily: SANS, fontWeight: 700, letterSpacing: 0 }))]),
   point: c => card(false, t => [
     row({ justifyContent: 'space-between', alignItems: 'baseline' }, label(c.label, t), label(`${c.n} / ${c.of}`, t, { width: 'auto', color: MUTED })),
     text(String(c.n).padStart(2, '0'), { width: 'auto', fontFamily: SANS, fontWeight: 700, fontSize: 88, letterSpacing: -3, lineHeight: 1, color: TEAL, marginTop: 70 }),

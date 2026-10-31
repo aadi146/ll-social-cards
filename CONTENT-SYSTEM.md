@@ -43,7 +43,7 @@ Platforms: LinkedIn = card + 80–150 word text, first line is the hook, no hash
 Write (Opus) → Edit against this doc and platform limits (Sonnet) → independent genericness score 1–5 (Sonnet). Below 4: one rewrite, then held back with a one-line reason. Nothing is scheduled by automation: Zernio drafts only, Aadi schedules.
 
 ## Cadence
-Ceiling 3 LinkedIn + 3 Instagram per week, Facebook mirrors LinkedIn. Fewer if the gate holds posts back. RBA card goes out on decision days in addition.
+Ceiling 4 posts per week per platform (3 single cards + 1 carousel) on LinkedIn and Instagram; Facebook is not drafted by the routine. Fewer if the gate holds posts back. An RBA card may go out on decision days in addition.
 
 ## Friday pack (one review, Fri 3–4pm Melbourne)
 Delivered by the Friday cloud routine: Zernio drafts for the week; new insights to confirm; the Sunday Snapshot draft in HubSpot; the week's article draft in WordPress; what was held back and why. Monthly (first Friday): strategy review from Zernio analytics (saves, shares, profile visits by pillar and card type), what the unmined calls say clients are asking about, and 3 recommendations.
