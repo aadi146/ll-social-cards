@@ -1,0 +1,8 @@
+{
+  "name": "ll-social-cards",
+  "private": true,
+  "type": "module",
+  "description": "Lending Leverage social cards: renderer, brand assets, insight mirror and the weekly packs the Friday routine publishes to Zernio as drafts.",
+  "scripts": { "render": "node render-cards.mjs" },
+  "dependencies": { "@resvg/resvg-js": "^2.6.2", "satori": "^0.12.1" }
+}

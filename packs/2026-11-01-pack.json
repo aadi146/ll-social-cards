@@ -1,0 +1,84 @@
+{
+  "week": "2026-11-01",
+  "posts": [
+    {
+      "id": "p1-structure-over-rate",
+      "insight_keys": ["structure_over_rate"],
+      "pillar": "refinancing-honestly",
+      "cards": [
+        {"id": "p1-take", "type": "take", "hook": "If all you want is a sharper rate, call your bank. We&rsquo;re here for how the loan is built.",
+         "so_what": "Ask how your loans are split and secured, not just what rate they&rsquo;re on."}
+      ],
+      "linkedin": "If all you want is a sharper rate, call your bank.\n\nBanks are competitive on price. If your rate is the only thing bothering you, one phone call to your lender's retention team will usually fix it. You don't need us for that.\n\nWhere we earn our keep is structure: how the debt is split, what's secured against what, where the offsets sit, and whether the setup still makes sense for the next thing you want to do. Those decisions compound for years. A rate discount is a footnote.\n\nSo before you refinance, ask one question: is this a rate problem or a structure problem?\n\nGeneral information only, not personal advice.",
+      "instagram": "If all you want is a sharper rate, call your bank. Honestly.\n\nWe're here for the bit most people never look at: how the loan is actually built. Splits, security, offsets, and whether it still fits the plan you've got for the next few years.\n\nWhen did you last look at how your loan is structured, not just what it costs?\n\nGeneral information only, not personal advice.\n\n#mortgagebroker #homeloan #refinance #melbourneproperty #lendingleverage"
+    },
+    {
+      "id": "p2-good-debt-bad-debt",
+      "insight_keys": ["investment_debt_interest_only_pay_down_home"],
+      "pillar": "complex-lending",
+      "cards": [
+        {"id": "p2-myth", "type": "myth", "myth": "Pay the investment loan down first. Debt is debt.",
+         "reality": "Most of our clients put repayments on the home loan instead.",
+         "because": "Interest on an investment loan is usually tax-deductible; interest on your own home isn&rsquo;t. Worth a conversation with your accountant."}
+      ],
+      "linkedin": "\"Debt is debt. Pay it all down.\"\n\nWe hear this a lot from investors, and it's the one place we'll gently push back.\n\nNot all debt costs you the same. Interest on an investment loan is usually tax-deductible. Interest on the home you live in isn't. So every dollar you put against the home loan saves you after-tax money, while every dollar against the investment loan reduces a deduction.\n\nOur general view: keep investment debt interest-only, point your repayments and your offset at the home loan, and revisit if you ever plan to move into the investment.\n\nIt's a conversation to have with your accountant alongside your broker, because the tax side depends on your situation.\n\nGeneral information only, not personal advice.",
+      "instagram": "\"Debt is debt, just pay it down.\"\n\nNot quite. Interest on an investment loan is usually tax-deductible. Interest on your own home isn't. That changes which loan deserves your spare cash.\n\nMost of our clients point repayments at the home loan and keep the investment loan interest-only. Your accountant should be in that conversation.\n\nWhich loan is your extra cash going to right now?\n\nGeneral information only, not personal advice.\n\n#propertyinvestor #investmentproperty #mortgagebroker #melbourne #lendingleverage"
+    },
+    {
+      "id": "p3-five-times-income",
+      "insight_keys": ["borrowing_capacity_five_times_income"],
+      "pillar": "first-home",
+      "cards": [
+        {"id": "p3-stat", "type": "stat", "label": "rule of thumb", "value": "5&times;", "headline": "your income is a rough borrowing ceiling",
+         "body": "Before HECS, car loans and credit cards come off it. It gives you a budget to start looking with. We run the real numbers before you fall in love with a place."}
+      ],
+      "linkedin": "A rough rule of thumb we give first-home buyers: your borrowing capacity is about five times your income.\n\nThat's before HECS, car loans and credit cards come off it, and before any lender has run your actual payslips. It's not a quote. It's a starting budget so your weekend searching isn't wasted on the wrong price bracket.\n\nThe real number moves a lot between lenders. The same payslips can come back with meaningfully different answers, which is why we run several before telling anyone what they can spend.\n\nGeneral information only, not personal advice.",
+      "instagram": "Quick maths for first-home buyers: roughly 5× your income is where borrowing power starts.\n\nThen HECS, car loans and credit cards come off it. And different banks will give you different answers on the same payslips.\n\nIt's a budget to start searching with, not a number to make an offer on. We run the real figures before you fall in love with a place.\n\nHave you ever been surprised by what a bank said you could borrow?\n\nGeneral information only, not personal advice.\n\n#firsthomebuyer #homeloan #borrowingpower #melbourne #lendingleverage"
+    },
+    {
+      "id": "p4-first-home-carousel",
+      "insight_keys": ["first_home_whole_journey_not_just_loan", "five_percent_deposit_keep_savings_buffer", "apartment_body_corporate_due_diligence"],
+      "pillar": "first-home",
+      "cards": [
+        {"id": "p4-c1", "type": "cover", "label": "first home", "hook": "Buying your first home? The loan is the easy bit.",
+         "sub": "Five things we help with that have nothing to do with the interest rate."},
+        {"id": "p4-c2", "type": "point", "label": "first home", "n": 1, "of": 5, "title": "Reading the property data",
+         "body": "Is this place good value, or just well staged? We pull the sales history and comparable numbers before you make an offer."},
+        {"id": "p4-c3", "type": "point", "label": "first home", "n": 2, "of": 5, "title": "Checking what&rsquo;s hidden",
+         "body": "With apartments especially, we dig into the body corporate. There&rsquo;s usually a reason someone is selling. A tired landlord is fine. A hidden building problem isn&rsquo;t."},
+        {"id": "p4-c4", "type": "point", "label": "first home", "n": 3, "of": 5, "title": "The offer and the negotiation",
+         "body": "What to open with, when to hold, what the agent&rsquo;s signals mean. You inspect, we help you play the hand."},
+        {"id": "p4-c5", "type": "point", "label": "first home", "n": 4, "of": 5, "title": "Deposit vs buffer",
+         "body": "If a 5% scheme is available, we often prefer using it and keeping some of your savings back in an offset. A buffer is worth more than a slightly smaller loan."},
+        {"id": "p4-c6", "type": "point", "label": "first home", "n": 5, "of": 5, "title": "The contract, all the way to keys",
+         "body": "Settlement dates, special conditions, who pays what and when. We stay on it until the keys are in your hand."},
+        {"id": "p4-c7", "type": "cta", "label": "first home", "headline": "You pick the home. We handle the rest.",
+         "body": "A 15-minute chat is enough to know where you stand.", "button": "Book a quick chat &rarr;"}
+      ],
+      "linkedin": "Buying your first home? The loan is the easy bit.\n\nGetting finance approved is the part everyone worries about and, with the right preparation, the part that goes fastest. The hard part is everything around it: working out if a place is actually good value, spotting a body corporate problem before it's yours, knowing what to offer and when to walk, and keeping the contract and settlement on track.\n\nThat's where we spend most of our time with first-home buyers. You do the inspecting, because how a place feels when you walk in matters most. We do the data, the due diligence and the negotiation alongside you, all the way to the keys.\n\nFive of those things, in the carousel.\n\nGeneral information only, not personal advice.",
+      "instagram": "Buying your first home? The loan is the easy bit. Swipe for the five things we actually spend our time on with first-home buyers.\n\nYou inspect. We do the data, the digging, the negotiation and the contract, all the way to the keys.\n\nWhich of these five is the one you'd want help with most?\n\nGeneral information only, not personal advice.\n\n#firsthomebuyer #firsthome #melbourneproperty #mortgagebroker #lendingleverage"
+    },
+    {
+      "id": "p5-comfortable-not-maximum",
+      "insight_keys": ["comfortable_capacity_not_maximum"],
+      "pillar": "money-habits",
+      "cards": [
+        {"id": "p5-take", "type": "take", "hook": "The bank&rsquo;s maximum is not your number.",
+         "so_what": "Ask for the comfortable figure and the stretch figure, then plan on the first."}
+      ],
+      "linkedin": "The bank's maximum is not your number.\n\nWhen we quote borrowing capacity we give the comfortable figure first. Could we squeeze more if we pushed? Usually. But approval and affordability are different things, and living at the very edge of what a lender will give you rarely buys a better life.\n\nSo we show two numbers: the one you'd be comfortable repaying through a couple of rate moves, and the stretch. Then we plan around the first and keep the second in the drawer for when something genuinely special comes up.\n\nGeneral information only, not personal advice.",
+      "instagram": "The bank's maximum is not your number.\n\nWe always give the comfortable figure first. The stretch figure exists, but living at the edge of what a bank will lend you is a stressful way to own a home.\n\nTwo numbers, plan on the first, keep the second in the drawer.\n\nDo you know your comfortable number, or just your maximum?\n\nGeneral information only, not personal advice.\n\n#homeloan #borrowingpower #mortgagebroker #melbourne #lendingleverage"
+    },
+    {
+      "id": "p6-stress-test",
+      "insight_keys": ["sunday-snapshot-2026-11-01-tip"],
+      "pillar": "money-habits",
+      "cards": [
+        {"id": "p6-question", "type": "question", "question": "If your repayments rose $200 a month, which part of your budget would feel it first?",
+         "body": "Stress-testing your own numbers once a year is the cheapest insurance there is."}
+      ],
+      "linkedin": "A question to ask yourself this week: if your repayments rose $200 a month, which part of your budget would feel it first?\n\nNot a trick question. On a typical loan a 0.25 percentage point move is roughly that, and the RBA meets on Tuesday. Knowing the answer before it happens is the difference between a plan and a scramble.\n\nStress-testing your own numbers once a year is the cheapest insurance there is.\n\nGeneral information only, not personal advice.",
+      "instagram": "Try this one honestly: if your repayments rose $200 a month, what would you cut first?\n\nThe RBA meets Tuesday. On a typical loan, one 0.25 point move is roughly that. Knowing your answer now turns a worry into a plan.\n\nWhat would go first for you?\n\nGeneral information only, not personal advice.\n\n#rba #interestrates #homeloan #budgeting #lendingleverage"
+    }
+  ]
+}
