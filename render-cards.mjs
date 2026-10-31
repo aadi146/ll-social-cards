@@ -4,7 +4,7 @@
 //
 //   node render-cards.mjs spec.json out-dir [assets-base-url]
 //
-// spec.json = array of cards, each {id, type, ...fields}; types: stat, take, myth, cover, point, cta, rba, question.
+// spec.json = array of cards, each {id, type, ...fields}; types: stat, take, myth, cover, point, cta, rba, question, term (plain-English jargon), qa (ask the broker).
 // Fonts and the photo are read from ./fonts and ./assets next to this file when present, otherwise
 // fetched from <assets-base-url> (default: the public Awesomate Files folder).
 import satori from 'satori';
@@ -107,6 +107,18 @@ const BUILDERS = {
     row({ marginTop: 60, alignItems: 'flex-end', gap: 30 },
       text(c.rate, { width: 'auto', fontFamily: SANS, fontWeight: 700, fontSize: 230, letterSpacing: -10, lineHeight: 0.9, color: '#7FD3D6' }), pill(c.change, t, { marginBottom: 22 })),
     head(c.headline, 64, t, { marginTop: 40 }), rule(), body(c.body, t), sowhat('What it means for you:', c.so_what, t)]),
+  term: c => card(true, t => [label(c.label || 'plain english', t),
+    text(c.term, { fontFamily: SANS, fontWeight: 700, fontSize: 110, letterSpacing: -5, lineHeight: 1, color: '#7FD3D6', marginTop: 60 }),
+    text(c.meaning, { fontFamily: SANS, fontWeight: 700, fontSize: 54, letterSpacing: -1.5, lineHeight: 1.08, color: '#fff', marginTop: 34 }),
+    rule(), body(c.why_it_matters, t, 36), disc(GEN, t, { marginTop: 36 })]),
+  qa: c => card(false, t => [label(c.label || 'ask the broker', t),
+    col({ marginTop: 50, background: '#fff', borderRadius: 24, paddingTop: 40, paddingBottom: 40, paddingLeft: 48, paddingRight: 48, border: `2px solid ${LINE}` },
+      row({}, pill('you ask', t)),
+      text(c.question, { fontFamily: SANS, fontWeight: 700, fontSize: 52, letterSpacing: -1.5, lineHeight: 1.08, color: CHAR, marginTop: 24 })),
+    col({ marginTop: 24, background: NAVY, borderRadius: 24, paddingTop: 40, paddingBottom: 40, paddingLeft: 48, paddingRight: 48 },
+      row({}, pill('we say', t, { background: 'rgba(255,255,255,0.14)', color: '#fff' })),
+      text(c.answer, { fontFamily: SANS, fontSize: 36, lineHeight: 1.35, color: '#fff', marginTop: 24 })),
+    disc(GEN, t, { marginTop: 30 })]),
   question: c => card(false, t => [label('a question to ask yourself', t), head(c.question, 90, t, { marginTop: 90, color: NAVY }), rule(), body(c.body, t), disc(GEN, t, { marginTop: 36 })]),
 };
 

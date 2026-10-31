@@ -28,6 +28,8 @@ Cross-cutting angles: no-fee model (banks pay us), high-touch + Trident one-stop
 | question | a question to ask yourself | ≤20 words, body ≤20 |
 | carousel | cover + 3–5 points + CTA | point title ≤5 words, body ≤35 |
 | rba update | reactive, within hours of a decision | from RBA Watch data only |
+| plain english (`term`) | one piece of jargon, explained | term ≤4 words, meaning ≤14, why it matters ≤45 |
+| ask the broker (`qa`) | a real question people ask, answered plainly | question ≤18 words, answer ≤55 |
 
 Platforms: LinkedIn = card + 80–150 word text, first line is the hook, no hashtags beyond 3; Instagram = carousel or single card, caption ≤120 words ending with a question, 5 hashtags; Facebook = LinkedIn copy, warmer; WordPress = articles only (existing engine).
 
