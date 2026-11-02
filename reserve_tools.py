@@ -21,7 +21,7 @@ DATED = re.compile(r"\b(\d\.\d{1,2}\s?%|\d{1,2}\.\d{2}\s?%|cash rate|RBA|CBA|NAB
 LIMITS = {  # words
     'take': {'hook': 14, 'so_what': 22}, 'stat': {'headline': 8, 'body': 40}, 'myth': {'myth': 12, 'reality': 12, 'because': 30},
     'question': {'question': 20, 'body': 20}, 'point': {'title': 5, 'body': 35}, 'cover': {'hook': 14, 'sub': 20}, 'cta': {'headline': 8, 'body': 20},
-    'term': {'term': 4, 'meaning': 14, 'why_it_matters': 45}, 'qa': {'question': 18, 'answer': 55},
+    'term': {'term': 4, 'meaning': 14, 'why_it_matters': 45}, 'qa': {'question': 18, 'answer': 55}, 'note': {'text': 75},
 }
 
 
@@ -109,7 +109,7 @@ def index():
             total += 1
             first = post['cards'][0]
             img = f"{RAW}/{series}/{series}-{post['id']}-{first['id']}.png"
-            hook = post.get('hook') or first.get('hook') or first.get('headline') or first.get('question') or first.get('term') or first.get('myth') or ''
+            hook = post.get('hook') or first.get('hook') or (first.get('text','').split('\n')[0] if first.get('type')=='note' else '') or first.get('headline') or first.get('question') or first.get('term') or first.get('myth') or ''
             flag = ' · *to confirm*' if post.get('needs_confirmation') else ''
             n = len(post['cards'])
             kind = f"carousel, {n} slides" if n > 1 else first['type']

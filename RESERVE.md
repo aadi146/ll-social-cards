@@ -1,7 +1,7 @@
 # Reserve bank
 
 Ready-to-post pieces, grouped by series. Pick by **id**; nothing here is in Zernio until Aadi asks for it.
-**100 pieces across 7 series.**
+**115 pieces across 8 series.**
 Pieces marked *to confirm* rest on an insight Aadi has not yet confirmed.
 
 ## A question to ask yourself
@@ -2068,6 +2068,515 @@ Have your parents said when they plan to sell?
 General information only, not personal advice.  
   
 #firsthomebuyer #guarantor #familyfinance #mortgagebroker #lendingleverage
+
+</details>
+
+## In his words
+
+The screenshot-of-a-post look: white card, Aadi's name, three short paragraphs that land one idea. Ten single notes and five threads of five slides.
+
+### `notes/nobody-cheers` — No one cheers for you keeping the loan you already have.
+
+<img src="https://raw.githubusercontent.com/aadi146/ll-social-cards/main/cards/reserve/notes/notes-nobody-cheers-c1.png" width="270">
+
+note · insights: dont_refinance_for_small_gains, idle_cash_belongs_in_an_offset, debt_gets_easier_over_time
+
+<details><summary>LinkedIn caption</summary>
+
+No one cheers for you keeping the loan you already have.  
+  
+Nobody posts about the refinance they didn’t do, the car they didn’t finance, the offset they didn’t touch. There’s no before-and-after photo for leaving a good loan alone.  
+  
+But that’s most of what building equity actually looks like from the inside. Pay lands in the offset. Spare cash stays there. The loan you were tempted to move for a tiny saving stays put. Year one feels like nothing. Year five looks like luck to everyone else.  
+  
+The boring decisions never look impressive in the moment. Only at the end.  
+  
+General information only, not personal advice.
+
+</details>
+<details><summary>Instagram caption</summary>
+
+No one cheers for you keeping the loan you already have.  
+  
+Nobody posts about the refinance they didn’t do or the offset they didn’t touch. But that’s most of what building equity looks like from the inside: boring decisions, repeated, that only look impressive at the end.  
+  
+What’s the boring money decision you’re quietly proud of?  
+  
+General information only, not personal advice.  
+  
+#homeloan #offset #moneyhabits #mortgagebroker #lendingleverage
+
+</details>
+
+### `notes/bank-maximum` — The bank will tell you the most you can borrow. · *to confirm*
+
+<img src="https://raw.githubusercontent.com/aadi146/ll-social-cards/main/cards/reserve/notes/notes-bank-maximum-c1.png" width="270">
+
+note · insights: comfortable_capacity_not_maximum
+
+<details><summary>LinkedIn caption</summary>
+
+The bank will tell you the most you can borrow.  
+  
+Nobody tells you the most you can comfortably repay. Those are different numbers, and most people only ever hear the first one.  
+  
+When we quote borrowing capacity we give the comfortable figure first. Could we squeeze more if we pushed? Usually. But approval and affordability are not the same thing, and living at the very edge of what a lender will give you rarely buys a better life.  
+  
+So you get two numbers from us: the one you can hold through a couple of rate moves, and the stretch. Plan on the first. Keep the second in the drawer.  
+  
+General information only, not personal advice.
+
+</details>
+<details><summary>Instagram caption</summary>
+
+The bank will tell you the most you can borrow. Nobody tells you the most you can comfortably repay.  
+  
+We give the comfortable number first, every time. The stretch number exists, but it lives in the drawer for the day something genuinely special comes up.  
+  
+Do you know your comfortable number, or just your maximum?  
+  
+General information only, not personal advice.  
+  
+#borrowingpower #homeloan #firsthomebuyer #mortgagebroker #lendingleverage
+
+</details>
+
+### `notes/rates-vs-structure` — Everyone compares rates. Almost nobody compares structures.
+
+<img src="https://raw.githubusercontent.com/aadi146/ll-social-cards/main/cards/reserve/notes/notes-rates-vs-structure-c1.png" width="270">
+
+note · insights: structure_over_rate
+
+<details><summary>LinkedIn caption</summary>
+
+Everyone compares rates. Almost nobody compares structures.  
+  
+A rate changes every few months. Banks are competitive on it, and one call to your lender’s retention team usually fixes a rate problem. You don’t need us for that.  
+  
+A structure is different. How the debt is split, what’s secured against what, where the offsets sit, whether the setup still works for the next thing you want to do. Those decisions compound for a decade, and nobody at a branch is paid to think about them.  
+  
+So before you refinance, ask one question: is this a rate problem or a structure problem?  
+  
+General information only, not personal advice.
+
+</details>
+<details><summary>Instagram caption</summary>
+
+Everyone compares rates. Almost nobody compares structures.  
+  
+A rate changes every few months. A structure decides what you can do for the next ten years. If all you want is a sharper rate, honestly, call your bank. We’re here for how the loan is built.  
+  
+When did you last look at how your loan is set up, not just what it costs?  
+  
+General information only, not personal advice.  
+  
+#refinance #homeloan #loanstructure #mortgagebroker #lendingleverage
+
+</details>
+
+### `notes/good-debt` — Interest on your investment loan is usually deductible.
+
+<img src="https://raw.githubusercontent.com/aadi146/ll-social-cards/main/cards/reserve/notes/notes-good-debt-c1.png" width="270">
+
+note · insights: investment_debt_interest_only_pay_down_home
+
+<details><summary>LinkedIn caption</summary>
+
+Interest on your investment loan is usually deductible. Interest on the home you live in isn’t.  
+  
+So every spare dollar has a better home, and it’s usually not the one people send it to. Paying down the investment loan feels responsible. It also shrinks a deduction. Paying down your own home loan cuts interest you can never claim.  
+  
+Our general view: keep investment debt interest-only, point repayments and the offset at the home loan, and revisit if you ever plan to move into the investment.  
+  
+The tax side depends on your situation, so have your accountant in that conversation.  
+  
+General information only, not personal advice.
+
+</details>
+<details><summary>Instagram caption</summary>
+
+Interest on your investment loan is usually deductible. Interest on the home you live in isn’t.  
+  
+So every spare dollar has a better home. It’s just not the one most people send it to. Keep the investment loan interest-only, aim repayments at the home loan, and check the tax side with your accountant.  
+  
+Which loan is your extra cash hitting right now?  
+  
+General information only, not personal advice.  
+  
+#propertyinvestor #investmentproperty #gooddebt #mortgagebroker #lendingleverage
+
+</details>
+
+### `notes/redraw-isnt-savings` — Redraw feels like savings. It isn’t.
+
+<img src="https://raw.githubusercontent.com/aadi146/ll-social-cards/main/cards/reserve/notes/notes-redraw-isnt-savings-c1.png" width="270">
+
+note · insights: redraw_is_not_savings_debt_recycling
+
+<details><summary>LinkedIn caption</summary>
+
+Redraw feels like savings. It isn’t.  
+  
+It’s money you’ve already paid off your home loan. The moment you pull it back out to fund an investment, you’ve mixed two purposes in one loan, and the purpose is what decides what you can claim.  
+  
+The cleaner approach is to reduce the home loan limit and set up a separate split for the investment. Same money, different label, a story your accountant can actually follow in three years’ time.  
+  
+It takes a bit of planning and some cost up front. Untangling it later costs more.  
+  
+General information only, not personal advice.
+
+</details>
+<details><summary>Instagram caption</summary>
+
+Redraw feels like savings. It isn’t.  
+  
+It’s money you’ve already paid off your loan. Pull it out for an investment and you’ve muddied what that loan was for. A separate split keeps the story clean, and your accountant will thank you later.  
+  
+Is your redraw doing a job it was never meant to do?  
+  
+General information only, not personal advice.  
+  
+#redraw #offset #propertyinvestor #mortgagebroker #lendingleverage
+
+</details>
+
+### `notes/loan-is-the-easy-bit` — Buying your first home? The loan is the easy bit.
+
+<img src="https://raw.githubusercontent.com/aadi146/ll-social-cards/main/cards/reserve/notes/notes-loan-is-the-easy-bit-c1.png" width="270">
+
+note · insights: first_home_whole_journey_not_just_loan
+
+<details><summary>LinkedIn caption</summary>
+
+Buying your first home? The loan is the easy bit.  
+  
+Finance is the part everyone worries about and, with the right preparation, the part that goes fastest. The hard part is everything around it: working out if a place is actually good value, spotting a body corporate problem before it’s yours, knowing what to offer and when to walk, and keeping the contract and settlement on track.  
+  
+That’s where we spend most of our time with first-home buyers. You do the inspecting, because how a place feels when you walk in matters most. We do the data, the due diligence and the negotiation alongside you, all the way to the keys.  
+  
+General information only, not personal advice.
+
+</details>
+<details><summary>Instagram caption</summary>
+
+Buying your first home? The loan is the easy bit.  
+  
+The hard part is knowing whether the place is good value, what to offer, when to walk, and what the contract actually says. You inspect. We do the data, the digging and the negotiation, all the way to the keys.  
+  
+Which part of buying worries you most: the money, or the choosing?  
+  
+General information only, not personal advice.  
+  
+#firsthomebuyer #firsthome #melbourneproperty #mortgagebroker #lendingleverage
+
+</details>
+
+### `notes/one-banks-no` — The bank said no. That’s one bank. · *to confirm*
+
+<img src="https://raw.githubusercontent.com/aadi146/ll-social-cards/main/cards/reserve/notes/notes-one-banks-no-c1.png" width="270">
+
+note · insights: one_banks_no_is_not_the_markets_no
+
+<details><summary>LinkedIn caption</summary>
+
+The bank said no. That’s one bank.  
+  
+One credit team, one policy, one way of reading your payslips. It isn’t the answer, it’s an answer.  
+  
+A surprising number of the files we settle were a no somewhere else first. Self-employed income read as unstable. Shift penalties ignored. A probation period treated as a risk instead of a start date. The income was real; the story was told badly, or told to the wrong desk.  
+  
+If you’ve been knocked back, the useful question isn’t “what’s wrong with me”. It’s “who reads this kind of income properly, and how do we present it”.  
+  
+General information only, not personal advice.
+
+</details>
+<details><summary>Instagram caption</summary>
+
+The bank said no. That’s one bank.  
+  
+One credit team, one policy, one way of reading your payslips. Plenty of the files we settle were a no somewhere else first, because the income was real but the story was told badly.  
+  
+Have you ever taken one no as the final word?  
+  
+General information only, not personal advice.  
+  
+#homeloan #firsthomebuyer #selfemployed #mortgagebroker #lendingleverage
+
+</details>
+
+### `notes/thirty-years` — Sign for thirty years. Pay it off in twenty-five anyway. · *to confirm*
+
+<img src="https://raw.githubusercontent.com/aadi146/ll-social-cards/main/cards/reserve/notes/notes-thirty-years-c1.png" width="270">
+
+note · insights: thirty_year_term_pay_like_twenty_five
+
+<details><summary>LinkedIn caption</summary>
+
+Sign for thirty years. Pay it off in twenty-five anyway.  
+  
+Clients refinancing often ask to keep the loan at twenty-five years to match the old one. The instinct is good: don’t stretch the debt out. We’d still write it over thirty.  
+  
+The longer term sets a lower minimum repayment, and the minimum repayment is what every lender uses when they work out what else you can borrow. That protects your capacity for the next purchase.  
+  
+The actual paying down is done by you: higher repayments you set yourself, and an offset you keep building. Same finish line, with room to move if life changes.  
+  
+General information only, not personal advice.
+
+</details>
+<details><summary>Instagram caption</summary>
+
+Sign for thirty years. Pay it off in twenty-five anyway.  
+  
+The longer term sets a lower minimum repayment, and the minimum is what lenders use to work out what else you can borrow. You do the real paying down yourself, with higher repayments and an offset.  
+  
+Is your loan term working for you, or just making you feel disciplined?  
+  
+General information only, not personal advice.  
+  
+#homeloan #refinance #borrowingpower #mortgagebroker #lendingleverage
+
+</details>
+
+### `notes/agents-commission` — The buyer’s agent says buy first. The selling agent says sell first. · *to confirm*
+
+<img src="https://raw.githubusercontent.com/aadi146/ll-social-cards/main/cards/reserve/notes/notes-agents-commission-c1.png" width="270">
+
+note · insights: agents_advice_follows_their_commission
+
+<details><summary>LinkedIn caption</summary>
+
+The buyer’s agent says buy first. The selling agent says sell first.  
+  
+Both can be good at their jobs and still give advice shaped by their own timeline and fee. That isn’t cynicism, it’s just how incentives work.  
+  
+So when you’re upgrading, we ask clients to isolate that advice for a moment. Run the buy-first and sell-first numbers with someone who gets paid the same either way. Decide on your finances. Then brief the agents on the plan and let them do what they’re genuinely good at.  
+  
+Ask who gets paid when you take their advice. It’s not rude. It’s due diligence.  
+  
+General information only, not personal advice.
+
+</details>
+<details><summary>Instagram caption</summary>
+
+The buyer’s agent says buy first. The selling agent says sell first.  
+  
+Both are good at their jobs. Both are also describing the order that pays them. Decide on your own numbers, then brief the agents on the plan.  
+  
+Who gave you your last piece of property advice, and how were they paid?  
+  
+General information only, not personal advice.  
+  
+#upgrading #homeloan #propertyadvice #mortgagebroker #lendingleverage
+
+</details>
+
+### `notes/five-percent-buffer` — A bigger deposit feels safer. A buffer usually is.
+
+<img src="https://raw.githubusercontent.com/aadi146/ll-social-cards/main/cards/reserve/notes/notes-five-percent-buffer-c1.png" width="270">
+
+note · insights: five_percent_deposit_keep_savings_buffer
+
+<details><summary>LinkedIn caption</summary>
+
+A bigger deposit feels safer. A buffer usually is.  
+  
+First-home buyers who qualify for a low-deposit scheme often want to tip every dollar into the deposit anyway, because a smaller loan feels like the responsible move. We usually suggest the opposite: use the scheme, keep part of the savings back, park it in an offset.  
+  
+Yes, you borrow a bit more, so you need the capacity for it. But the money in the offset saves interest exactly as if you’d paid it in, and it’s still yours when the hot water system dies in month three.  
+  
+A slightly bigger loan with money behind you beats a smaller loan and an empty account.  
+  
+General information only, not personal advice.
+
+</details>
+<details><summary>Instagram caption</summary>
+
+A bigger deposit feels safer. A buffer usually is.  
+  
+If you qualify for a low-deposit scheme, we often prefer using it and keeping part of your savings back in an offset. Same interest saved, and the money is still yours when something breaks in month three.  
+  
+Would you rather a smaller loan or money in the bank?  
+  
+General information only, not personal advice.  
+  
+#firsthomebuyer #deposit #offset #mortgagebroker #lendingleverage
+
+</details>
+
+### `notes/thread-boring-decisions` — Five boring money decisions that quietly build equity. · *to confirm*
+
+<img src="https://raw.githubusercontent.com/aadi146/ll-social-cards/main/cards/reserve/notes/notes-thread-boring-decisions-c1.png" width="270">
+
+carousel, 5 slides · insights: run_your_whole_banking_through_the_offset, idle_cash_belongs_in_an_offset, upsizers_keep_offset_buffer_first_years, turn_your_buffer_into_a_runway, home_buyers_buy_a_car_within_six_months
+
+<details><summary>LinkedIn caption</summary>
+
+Five boring money decisions that quietly build equity.  
+  
+None of them will impress anyone at a barbecue. All of them show up on your loan balance in five years.  
+  
+Your pay lands in the offset, not a savings account. Savings interest gets taxed; offset interest saved doesn’t.  
+  
+If you’re upsizing, keep cash back for the first few years rather than tipping it all into the deposit.  
+  
+Measure your buffer in months, not dollars. A lump sum is anxiety; a number of months is a plan.  
+  
+And plan the car. Most people buy one within six months of settling, and it’s the car loan, not the mortgage, that makes the budget tight.  
+  
+General information only, not personal advice.
+
+</details>
+<details><summary>Instagram caption</summary>
+
+Five boring money decisions that quietly build equity. Swipe.  
+  
+Pay into the offset. Keep a buffer when you upsize. Count that buffer in months, not dollars. Plan the car before it plans you. None of it is exciting. All of it compounds.  
+  
+Which of the five is the one you’ve been putting off?  
+  
+General information only, not personal advice.  
+  
+#moneyhabits #offset #homeloan #mortgagebroker #lendingleverage
+
+</details>
+
+### `notes/thread-what-a-broker-does` — What a broker actually does, in five lines. · *to confirm*
+
+<img src="https://raw.githubusercontent.com/aadi146/ll-social-cards/main/cards/reserve/notes/notes-thread-what-a-broker-does-c1.png" width="270">
+
+carousel, 5 slides · insights: brokers_are_paid_the_same_so_no_favourite_bank, we_sound_out_every_bank_before_one_application_hits_your_file, structure_over_rate, rate_shopping_makes_you_a_transactional_broker, client_care_rhythm_six_touchpoints
+
+<details><summary>LinkedIn caption</summary>
+
+What a broker actually does, in five lines. Not the version on the website.  
+  
+You don’t pay us. The bank does, and every bank pays about the same, so we don’t have a favourite. The only thing that moves our recommendation is your file.  
+  
+We ask every bank before we tell them who you are, then apply once, to the lender that already said yes in principle.  
+  
+If your broker only talked about rate, you got a transaction, not advice. Structure decides what you can do next.  
+  
+And settlement isn’t the end. Rate reviews, an equity check, a call when life changes. That’s the part that keeps clients for fifteen years.  
+  
+General information only, not personal advice.
+
+</details>
+<details><summary>Instagram caption</summary>
+
+What a broker actually does, in five lines. Swipe.  
+  
+You don’t pay us, the bank does. We ask every bank first, then apply once. We talk structure, not just rate. And settlement is where the job starts again, not where it ends.  
+  
+What did your last broker do after your loan settled?  
+  
+General information only, not personal advice.  
+  
+#mortgagebroker #homeloan #howwework #melbourne #lendingleverage
+
+</details>
+
+### `notes/thread-investor-structure` — Buying an investment with your home’s equity? Five lines on getting the structure right. · *to confirm*
+
+<img src="https://raw.githubusercontent.com/aadi146/ll-social-cards/main/cards/reserve/notes/notes-thread-investor-structure-c1.png" width="270">
+
+carousel, 5 slides · insights: fund_investment_from_equity_no_cross_collateral, undrawn_facility_in_offset_costs_nothing, investment_debt_interest_only_pay_down_home, transact_through_offset_never_redraw, structure_today_with_the_next_purchase_in_mind
+
+<details><summary>LinkedIn caption</summary>
+
+Buying an investment with your home’s equity? The loan is easy. The structure is what matters.  
+  
+Keep the two properties in separate lanes: the deposit comes from its own split against your home, with nothing tied to anything else.  
+  
+Park released equity in an offset. Until you use it, it costs you nothing, and you move when the right property turns up.  
+  
+Keep the investment debt interest-only and aim your repayments at the home loan. One interest bill is usually deductible; one never is. Your accountant should be in that conversation.  
+  
+Transact through the offset, never through redraw. And set up today’s loan with the next purchase already in mind.  
+  
+General information only, not personal advice.
+
+</details>
+<details><summary>Instagram caption</summary>
+
+Buying an investment with your home’s equity? Swipe for the five lines we keep coming back to.  
+  
+Separate lanes for the two properties. Equity parked in an offset until you need it. Investment debt interest-only, repayments at the home loan. Offset, never redraw. And today’s loan set up for the next one.  
+  
+Which of these did nobody mention on your last loan?  
+  
+General information only, not personal advice.  
+  
+#propertyinvestor #equity #investmentproperty #mortgagebroker #lendingleverage
+
+</details>
+
+### `notes/thread-first-home-honestly` — First home, honestly. Five things we tell every buyer. · *to confirm*
+
+<img src="https://raw.githubusercontent.com/aadi146/ll-social-cards/main/cards/reserve/notes/notes-thread-first-home-honestly-c1.png" width="270">
+
+carousel, 5 slides · insights: deposit_is_the_barrier_not_repayments, five_percent_deposit_keep_savings_buffer, borrowing_capacity_five_times_income, buyers_agent_not_worth_it_first_home, first_home_whole_journey_not_just_loan
+
+<details><summary>LinkedIn caption</summary>
+
+First home, honestly. Five things we tell every buyer in the first meeting.  
+  
+Most people can afford the repayments; they can’t afford the deposit. So we work on deposit pathways instead of telling you to wait for twenty percent, because prices rarely wait.  
+  
+Roughly five times your income is where borrowing power starts, before debts come off it. It’s a budget to search with, not a number to offer on.  
+  
+For a first home, a buyer’s agent is rarely worth the fee. You can do the walking through. We’ll do the data, the digging and the negotiation.  
+  
+And the loan is the easy bit. Value, offer, contract and settlement are where buyers get hurt.  
+  
+General information only, not personal advice.
+
+</details>
+<details><summary>Instagram caption</summary>
+
+First home, honestly. Swipe for the five things we tell every buyer in the first meeting.  
+  
+The deposit is the barrier, not the repayments. Five times your income is a search budget, not an offer. A buyer’s agent is rarely worth it for a first home. And the loan is the easy bit.  
+  
+Which of these surprised you?  
+  
+General information only, not personal advice.  
+  
+#firsthomebuyer #firsthome #deposit #mortgagebroker #lendingleverage
+
+</details>
+
+### `notes/thread-refinancing-honestly` — Refinancing, honestly. Five things a broker doesn’t usually say out loud. · *to confirm*
+
+<img src="https://raw.githubusercontent.com/aadi146/ll-social-cards/main/cards/reserve/notes/notes-thread-refinancing-honestly-c1.png" width="270">
+
+carousel, 5 slides · insights: dont_refinance_for_small_gains, stay_with_existing_lender_when_structure_allows, variable_discount_is_for_life_of_loan, keep_pushing_rate_until_settlement, switching_lenders_is_redirecting_your_salary
+
+<details><summary>LinkedIn caption</summary>
+
+Refinancing, honestly. Five things a broker doesn’t usually say out loud.  
+  
+We won’t move a loan just to move it. If you already have a good rate and the switch adds nothing structural, we’ll tell you to stay; fees and hassle eat a marginal gain.  
+  
+Your current bank can often do what you need. A top-up, a variation, a reprice. We ask them first.  
+  
+Your rate will move, your discount shouldn’t. What we negotiate is the margin below the standard rate, and it stays for the life of the loan.  
+  
+The rate on the proposal is where the haggling starts. We keep going back to the pricing desk until settlement. And switching banks is mostly one form: where your pay goes.  
+  
+General information only, not personal advice.
+
+</details>
+<details><summary>Instagram caption</summary>
+
+Refinancing, honestly. Swipe for five things a broker doesn’t usually say out loud.  
+  
+We won’t move a loan just to move it. Your current bank can often do what you need. Your discount should outlast any rate move. And the proposal rate is where the haggling starts, not ends.  
+  
+Has a broker ever told you not to refinance?  
+  
+General information only, not personal advice.  
+  
+#refinance #homeloan #interestrates #mortgagebroker #lendingleverage
 
 </details>
 

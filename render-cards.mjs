@@ -4,7 +4,7 @@
 //
 //   node render-cards.mjs spec.json out-dir [assets-base-url]
 //
-// spec.json = array of cards, each {id, type, ...fields}; types: stat, take, myth, cover, point, cta, rba, question, term (plain-English jargon), qa (ask the broker).
+// spec.json = array of cards, each {id, type, ...fields}; types: stat, take, myth, cover, point, cta, rba, question, term (plain-English jargon), qa (ask the broker), note (screenshot-of-a-post text card; n/of for thread slides).
 // Fonts and the photo are read from ./fonts and ./assets next to this file when present, otherwise
 // fetched from <assets-base-url> (default: the public Awesomate Files folder).
 import satori from 'satori';
@@ -67,9 +67,9 @@ const logo = () => h('svg', { width: 52, height: 57, viewBox: '0 0 310 340' }, [
   h('path', {}, null, { d: 'M10 10h112v245H10z M45 45h42v175H45z', fill: TEAL, fillRule: 'evenodd' }),
   h('path', {}, null, { d: 'M90 10h45v205h165v115H90z M135 250h130v45H135z', fill: TEAL, fillRule: 'evenodd' }),
 ]);
-const foot = (t) => row({ width: W - 168, height: 100, flexShrink: 0, alignItems: 'center', justifyContent: 'space-between', marginTop: 40 },
+const foot = (t, right = '@lendingwithaadi') => row({ width: W - 168, height: 100, flexShrink: 0, alignItems: 'center', justifyContent: 'space-between', marginTop: 40 },
   row({ alignItems: 'center', gap: 18 }, logo(), text('lending\nleverage', { width: 'auto', fontFamily: DISPLAY, fontSize: 30, lineHeight: 0.95, color: t.fg, whiteSpace: 'pre' })),
-  text('@lendingwithaadi', { width: 'auto', fontFamily: SANS, fontSize: 24, color: t.handle }));
+  text(right, { width: 'auto', fontFamily: SANS, fontSize: 24, color: t.handle }));
 
 const card = (isDark, content) => {
   const t = dark(isDark);
@@ -119,6 +119,24 @@ const BUILDERS = {
       row({}, pill('we say', t, { background: 'rgba(255,255,255,0.14)', color: '#fff' })),
       text(c.answer, { fontFamily: SANS, fontSize: 36, lineHeight: 1.35, color: '#fff', marginTop: 24 })),
     disc(GEN, t, { marginTop: 30 })]),
+  // 'note': the screenshot-of-a-post look. White card, Aadi's name and handle, big plain text in short paragraphs.
+  // Optional n/of turns it into a thread slide. Paragraphs come from c.text split on blank lines, or c.paragraphs[].
+  note: c => {
+    const paras = c.paragraphs || String(c.text).split(/\n\s*\n/);
+    const t = { fg: CHAR, label: TEAL, body: INK, handle: MUTED, disc: MUTED, bg: '#fff' };
+    return col({ width: W, height: H, paddingTop: 96, paddingRight: 84, paddingBottom: 72, paddingLeft: 84, background: '#fff', color: CHAR },
+      col({ height: H - 96 - 72 - 140, width: W - 168, justifyContent: 'center' },
+        row({ alignItems: 'center', gap: 28 },
+          h('img', { width: 120, height: 120, borderRadius: 60, objectFit: 'cover', objectPosition: 'top' }, null, { src: photoUrl }),
+          col({ gap: 4 },
+            row({ alignItems: 'center', gap: 12 }, text('Aadi Sahu', { width: 'auto', fontFamily: SANS, fontWeight: 700, fontSize: 44, letterSpacing: -1, color: CHAR }),
+              h('svg', { width: 36, height: 36, viewBox: '0 0 24 24' }, [h('path', {}, null, { d: 'M12 2l2.4 2.1 3.1-.5.9 3 2.9 1.3-1 3 1 3-2.9 1.3-.9 3-3.1-.5L12 22l-2.4-2.1-3.1.5-.9-3-2.9-1.3 1-3-1-3 2.9-1.3.9-3 3.1.5z', fill: TEAL }), h('path', {}, null, { d: 'M8 12.5l2.6 2.6L16.5 9', stroke: '#fff', strokeWidth: 2.4, fill: 'none', strokeLinecap: 'round', strokeLinejoin: 'round' })])),
+            text('@lendingwithaadi', { width: 'auto', fontFamily: SANS, fontSize: 32, color: MUTED })),
+          c.n ? text(`${c.n}/${c.of}`, { width: 'auto', marginLeft: 'auto', fontFamily: SANS, fontSize: 32, color: MUTED }) : null),
+        col({ marginTop: 64, gap: 36 }, ...paras.map(pg => text(pg, { fontFamily: SANS, fontSize: c.size || 58, lineHeight: 1.22, letterSpacing: -1.2, color: CHAR }))),
+        disc(c.note === undefined ? GEN : c.note, t, { marginTop: 56 })),
+      foot(t, 'lendingleverage.com.au'));
+  },
   question: c => card(false, t => [label('a question to ask yourself', t), head(c.question, 90, t, { marginTop: 90, color: NAVY }), rule(), body(c.body, t), disc(GEN, t, { marginTop: 36 })]),
 };
 

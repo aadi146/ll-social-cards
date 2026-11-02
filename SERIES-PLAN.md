@@ -1,4 +1,4 @@
-# Reserve content: series plan (100 pieces)
+# Reserve content: series plan (115 pieces)
 
 A bank of ready-to-post pieces Aadi picks from whenever a week needs more, or a theme deserves a run. Every piece is built from a confirmed-or-mined view in `insights.json` and follows CONTENT-SYSTEM.md. Nothing here goes to Zernio until Aadi picks it. Older recordings (April–July) are used for principles only: no rates, lender names, lender policy, scheme caps or grant amounts.
 
@@ -11,6 +11,7 @@ A bank of ready-to-post pieces Aadi picks from whenever a week needs more, or a 
 | 5 | **A question to ask yourself** | `question` | 10 | Money-habits and protection prompts, framed as questions, never advice. |
 | 6 | **Carousels** | `cover` + `point` + `cta` | 20 | Journeys ("what actually happens when…"), "before you sign" checklists, "5 things we check", and themed jargon sets. 5–7 slides each. |
 | 7 | **How we work** | `qa` + `take` | 12 | "Ask the broker" Q&A cards and behind-the-scenes views on how LL runs a file. The no-fee model and the Trident one-stop shop live here. |
+| 8 | **In his words** | `note` | 15 | The screenshot-of-a-post look: white card, name and handle, three short paragraphs that land one idea (observation, observation, reframe). Ten singles and five 5-slide threads. The established-voice format; any carousel can be re-cut this way on request. |
 
 ## Posting rhythm suggestion
 - Weekly routine supplies 4 fresh posts. Reserve fills gaps and themed weeks.
