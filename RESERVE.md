@@ -1,7 +1,7 @@
 # Reserve bank
 
 Ready-to-post pieces, grouped by series. Pick by **id**; nothing here is in Zernio until Aadi asks for it.
-**115 pieces across 8 series.**
+**121 pieces across 9 series.**
 Pieces marked *to confirm* rest on an insight Aadi has not yet confirmed.
 
 ## A question to ask yourself
@@ -1079,6 +1079,216 @@ Does your accountant know you plan to borrow in the next two years?
 General information only, not personal advice.  
   
 #businessowner #selfemployed #homeloan #mortgagebroker #lendingleverage
+
+</details>
+
+## Headlines vs your household
+
+A run on the gap between what the news says about property and what actually matters at your kitchen table. Built in the note style; no market figures, so it stays usable whichever way the headlines turn.
+
+### `headlines/no-headline-for-settled` — Nobody writes a headline about the settlement that went fine. · *to confirm*
+
+<img src="https://raw.githubusercontent.com/aadi146/ll-social-cards/main/cards/reserve/headlines/headlines-no-headline-for-settled-c1.png" width="270">
+
+note · insights: complex_restructures_are_the_market_now, finance_is_the_fastest_part
+
+<details><summary>LinkedIn caption</summary>
+
+Nobody writes a headline about the settlement that went fine.  
+  
+Thousands of them happen every week. People buy, move, refinance, restructure, and none of it is news, because nothing went wrong.  
+  
+The one that falls over gets the front page. Prices dip, a headline screams, and suddenly everyone you know is nervous about a market most of them aren’t transacting in.  
+  
+From where we sit, the files keep coming in. Different shapes than a few years ago, more restructuring than buying, but moving. The news reports the exceptions. Your household runs on the rule.  
+  
+Worth remembering before the next headline decides your mood.  
+  
+General information only, not personal advice.
+
+</details>
+<details><summary>Instagram caption</summary>
+
+Nobody writes a headline about the settlement that went fine.  
+  
+Thousands happen every week. The one that falls over makes the news, and suddenly everyone’s nervous about a market most of them aren’t even transacting in. That’s not the market. That’s how attention works.  
+  
+When did a headline last change how you felt about your own finances?  
+  
+General information only, not personal advice.  
+  
+#propertymarket #homeloan #perspective #mortgagebroker #lendingleverage
+
+</details>
+
+### `headlines/same-market-different-problems` — Same market. Very different problems. · *to confirm*
+
+<img src="https://raw.githubusercontent.com/aadi146/ll-social-cards/main/cards/reserve/headlines/headlines-same-market-different-problems-c1.png" width="270">
+
+note · insights: hold_if_sustainable_sell_if_not, bank_valuation_is_not_a_sale_price, turn_your_buffer_into_a_runway
+
+<details><summary>LinkedIn caption</summary>
+
+Your home is worth less than it was last year. What does that actually change?  
+  
+If you love the place, you’re not selling, and the repayments are comfortable, the honest answer is: almost nothing about your Tuesday. A valuation is a number on a day. You don’t pay it, and you don’t live in it.  
+  
+If you need to sell, or you’re refinancing on thin equity, or the buffer is already gone, it changes a great deal. That’s a conversation worth having early, not late.  
+  
+Same market, very different problems. The headline can’t tell you which one you have. Your numbers can.  
+  
+General information only, not personal advice.
+
+</details>
+<details><summary>Instagram caption</summary>
+
+Your home is worth less than it was last year. So what?  
+  
+If you love it, aren’t selling and the repayments are comfortable, that number barely touches your week. If you need to sell or the buffer is thin, it matters a lot. Same market, very different problems.  
+  
+Which of those two are you, honestly?  
+  
+General information only, not personal advice.  
+  
+#propertyvalues #homeloan #equity #mortgagebroker #lendingleverage
+
+</details>
+
+### `headlines/what-if-youre-fine` — What if you’re actually fine? · *to confirm*
+
+<img src="https://raw.githubusercontent.com/aadi146/ll-social-cards/main/cards/reserve/headlines/headlines-what-if-youre-fine-c1.png" width="270">
+
+note · insights: you_probably_dont_know_your_own_rate, could_one_income_carry_the_mortgage, complex_questions_get_a_call_not_an_email
+
+<details><summary>LinkedIn caption</summary>
+
+What if you’re actually fine?  
+  
+There’s a financial conversation most households keep putting off. Not because it’s long (it’s about twenty minutes) but because everyone is braced for bad news, and nobody wants that squeezed between school pickup and dinner.  
+  
+Here’s what we see when people finally have it: most of the time the answer is “you’re fine, and here’s the one thing to tidy up.” A rate nobody has checked in two years. A buffer that should be measured in months, not dollars. One income carrying a mortgage that two incomes signed for.  
+  
+You don’t avoid the conversation because you’re in trouble. You avoid it because you don’t know. Knowing is the breathing room.  
+  
+General information only, not personal advice.
+
+</details>
+<details><summary>Instagram caption</summary>
+
+What if you’re actually fine?  
+  
+The money conversation you keep putting off takes about twenty minutes. Most people avoid it braced for bad news. Most of the time the answer is “you’re fine, here’s the one thing to tidy up.” Knowing is the breathing room.  
+  
+When did you last actually look at your own loan?  
+  
+General information only, not personal advice.  
+  
+#homeloan #moneyhabits #financialwellbeing #mortgagebroker #lendingleverage
+
+</details>
+
+### `headlines/know-your-numbers` — You don’t need to predict the market. You need to know your numbers. · *to confirm*
+
+<img src="https://raw.githubusercontent.com/aadi146/ll-social-cards/main/cards/reserve/headlines/headlines-know-your-numbers-c1.png" width="270">
+
+note · insights: capacity_differs_by_lender_run_several, turn_your_buffer_into_a_runway, set_your_walk_away_price_before_auction_day
+
+<details><summary>LinkedIn caption</summary>
+
+You don’t need to predict the market. You need to know your numbers.  
+  
+Everyone spends their evenings guessing what the Reserve Bank will do next. Almost nobody spends five minutes on the numbers that actually decide their year.  
+  
+If you have a mortgage: your rate, your buffer measured in months, and what one more rise does to the repayment.  
+  
+If you’re buying: your real borrowing power, run through more than one lender, before you fall for a house rather than after.  
+  
+If you’re selling: what you actually walk away with once the loan and the selling costs are paid, and the number below which you don’t sell.  
+  
+Three numbers. None of them require a forecast.  
+  
+General information only, not personal advice.
+
+</details>
+<details><summary>Instagram caption</summary>
+
+You don’t need to predict the market. You need to know three numbers.  
+  
+Mortgage: your rate, your buffer in months, what one more rise does. Buying: your borrowing power before you fall for a house. Selling: what you walk away with after the loan and the costs.  
+  
+Which of your three could you say right now, without looking?  
+  
+General information only, not personal advice.  
+  
+#borrowingpower #homeloan #knowyournumbers #mortgagebroker #lendingleverage
+
+</details>
+
+### `headlines/same-market-different-fear` — Same market. Different fear. · *to confirm*
+
+<img src="https://raw.githubusercontent.com/aadi146/ll-social-cards/main/cards/reserve/headlines/headlines-same-market-different-fear-c1.png" width="270">
+
+note · insights: soft_market_hurts_those_who_sit_out, dont_refinance_for_small_gains, start_from_goals_work_backwards
+
+<details><summary>LinkedIn caption</summary>
+
+When everyone thinks property is going up, people are terrified of missing out. When everyone thinks it’s falling, they’re terrified of making a mistake.  
+  
+Same market. Different fear. And the fear is a terrible decision-maker either way.  
+  
+We see it on files every week. The upgrader who sits out a soft market and loses the discount on the way in. The owner who refinances for a tiny saving because a headline said rates were moving. The buyer with a solid plan who freezes because of a dinner-party opinion.  
+  
+Start from what you actually want in the next few years and work backwards. Sometimes that’s buying. Sometimes it’s refinancing. Sometimes it’s doing absolutely nothing, on purpose.  
+  
+General information only, not personal advice.
+
+</details>
+<details><summary>Instagram caption</summary>
+
+Market going up? People fear missing out. Market falling? People fear a mistake. Same market, different fear.  
+  
+Sometimes the smart move is buying. Sometimes refinancing. Sometimes doing absolutely nothing, on purpose. The fear should never be the one deciding.  
+  
+Which fear is running your decisions right now?  
+  
+General information only, not personal advice.  
+  
+#propertymarket #homeloan #decisions #mortgagebroker #lendingleverage
+
+</details>
+
+### `headlines/thread-headlines-vs-household` — Not every problem in the headlines needs to become a problem in your house. · *to confirm*
+
+<img src="https://raw.githubusercontent.com/aadi146/ll-social-cards/main/cards/reserve/headlines/headlines-thread-headlines-vs-household-c1.png" width="270">
+
+carousel, 5 slides · insights: hold_if_sustainable_sell_if_not, turn_your_buffer_into_a_runway, capacity_differs_by_lender_run_several, dont_refinance_for_small_gains, could_one_income_carry_the_mortgage
+
+<details><summary>LinkedIn caption</summary>
+
+Not every problem in the headlines needs to become a problem in your house.  
+  
+Prices falling is a headline. Whether it’s yours depends on one question: are you selling, struggling, or short on equity? If none of those, it’s weather.  
+  
+A rate rise is a headline. Your problem is a buffer you can’t measure. Divide what you have by what one more rise costs each month, and you have a plan instead of a worry.  
+  
+Borrowing power shrinking is a headline. Your number depends on which lender reads your payslips, so know yours before you fall for a house.  
+  
+Everyone refinancing is a headline. Your loan might already be fine, and leaving it alone can be the smartest move, when you’ve decided it on purpose.  
+  
+General information only, not personal advice.
+
+</details>
+<details><summary>Instagram caption</summary>
+
+Not every problem in the headlines needs to become a problem in your house. Swipe for five ways to tell the difference.  
+  
+Falling prices only matter if you’re selling, struggling or short on equity. A rate rise only matters against a buffer you’ve measured. Borrowing power is your number, not the news’s. And sometimes doing nothing is the plan.  
+  
+Which headline has been living rent-free in your head?  
+  
+General information only, not personal advice.  
+  
+#propertymarket #homeloan #perspective #mortgagebroker #lendingleverage
 
 </details>
 
