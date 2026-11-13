@@ -1,0 +1,63 @@
+[
+  {
+    "id": "2026-11-16-p1-myth",
+    "type": "myth",
+    "myth": "Buying before you sell means you need bridging finance.",
+    "reality": "Lining up both settlements usually does the same job, cheaper.",
+    "because": "A bridge can cost thousands while you carry two loans. Match the settlement dates or use equity in an offset. Bridge only for a long gap."
+  },
+  {
+    "id": "2026-11-16-p2-take",
+    "type": "take",
+    "hook": "Want a better rate on business funding? Offer security.",
+    "so_what": "Ask how much partial security, even 30–40% of the limit, would move the price before taking the first quote."
+  },
+  {
+    "id": "2026-11-16-p3-note",
+    "type": "note",
+    "text": "Cash in a savings account is working for the bank, not you.\n\nMost people keep savings and the home loan in separate boxes. One pays a little. The other charges a lot.\n\nAn offset puts them in the same box. The money stays yours to spend, and every dollar stops interest on the loan.\n\nWe'd rather your cash argued with your mortgage than sat quietly next to it.",
+    "size": 48
+  },
+  {
+    "id": "2026-11-16-p4-c1",
+    "type": "cover",
+    "label": "first home",
+    "hook": "Buying your first home this year? Sort these three first.",
+    "sub": "Before you apply, not after."
+  },
+  {
+    "id": "2026-11-16-p4-c2",
+    "type": "point",
+    "label": "first home",
+    "n": 1,
+    "of": 3,
+    "title": "Take the permanent role",
+    "body": "Changing jobs anyway? A permanent salary can count almost straight away. Contract income is treated like self-employed income and needs a track record, which can push your purchase back a year."
+  },
+  {
+    "id": "2026-11-16-p4-c3",
+    "type": "point",
+    "label": "first home",
+    "n": 2,
+    "of": 3,
+    "title": "Clear the car loan first",
+    "body": "Got savings and a car loan? Paying it out before you apply is often worth it, even with a break fee. Those repayments eat into what you can borrow."
+  },
+  {
+    "id": "2026-11-16-p4-c4",
+    "type": "point",
+    "label": "first home",
+    "n": 3,
+    "of": 3,
+    "title": "Plan for the first two years",
+    "body": "Your mortgage feels biggest on day one. Incomes tend to rise and the debt shrinks in real terms. So build your buffer for the first two years, when it bites hardest."
+  },
+  {
+    "id": "2026-11-16-p4-c5",
+    "type": "cta",
+    "label": "first home",
+    "headline": "Buying soon? Talk to us before you change anything.",
+    "body": "A 15-minute chat now can save you months later.",
+    "button": "Book a quick chat &rarr;"
+  }
+]

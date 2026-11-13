@@ -1,0 +1,128 @@
+{
+  "week": "2026-11-16",
+  "posts": [
+    {
+      "id": "p1-bridging-myth",
+      "insight_keys": [
+        "avoid_bridging_finance_where_possible"
+      ],
+      "pillar": "complex-lending",
+      "gate_score": 4,
+      "cards": [
+        {
+          "id": "2026-11-16-p1-myth",
+          "type": "myth",
+          "myth": "Buying before you sell means you need bridging finance.",
+          "reality": "Lining up both settlements usually does the same job, cheaper.",
+          "because": "A bridge can cost thousands while you carry two loans. Match the settlement dates or use equity in an offset. Bridge only for a long gap."
+        }
+      ],
+      "linkedin": "Bridging finance is usually the expensive way to solve a timing problem.\n\nBuying before you sell feels like it needs a bridging loan. Most of the time it doesn't. While a bridge runs you're carrying the old loan and the new one, and that can cost thousands.\n\nSo we look at cheaper fixes first. If the two settlements are only days or weeks apart, we negotiate the dates so they land together and you move once. If you have equity, an offset or line of credit can often cover the gap.\n\nBridging earns its place when there's a long gap between the sale and the purchase. Not a few days.\n\nBefore you sign up for one, ask whether matching the settlement dates gets you there instead.\n\nGeneral information only, not personal advice.",
+      "instagram": "Bridging finance is usually the expensive way to solve a timing problem.\n\nWhile it runs, you carry the old loan and the new one. That can cost thousands.\n\nIf your sale and purchase are only days or weeks apart, we'd rather negotiate the settlement dates so they land together. Equity in an offset can often cover the gap too. Bridging makes sense for a long gap, not a short one.\n\nAre your settlement dates set in stone, or has anyone asked?\n\nGeneral information only, not personal advice.\n\n#propertyinvestor #bridgingfinance #mortgagebroker #melbourneproperty #lendingleverage"
+    },
+    {
+      "id": "p2-security-moves-the-rate",
+      "insight_keys": [
+        "security_biggest_lever_trade_finance"
+      ],
+      "pillar": "business-owners",
+      "gate_score": 4,
+      "cards": [
+        {
+          "id": "2026-11-16-p2-take",
+          "type": "take",
+          "hook": "Want a better rate on business funding? Offer security.",
+          "so_what": "Ask how much partial security, even 30–40% of the limit, would move the price before taking the first quote."
+        }
+      ],
+      "linkedin": "Want a better rate on business funding? Offer security.\n\nOn bigger trade and working-capital facilities, the fees across the major banks tend to look much the same. What actually moves the price is security.\n\nIt doesn't have to be everything. Partial cover, often around 30 to 40 percent of the limit, gives a bank a lot of comfort. That can be property, or cash such as a term deposit held with the bank.\n\nSo before you accept the first quote on a facility of any real size, ask the question most owners skip: how much would the rate change if we offered some security? Then decide whether that trade-off suits you.\n\nGeneral information only, not personal advice.",
+      "instagram": "Want a better rate on business funding? Offer security.\n\nOn larger trade and working-capital facilities, bank fees tend to look alike. Security is what moves the price, and partial cover, often 30 to 40 percent of the limit, can be enough. Property or a term deposit both count.\n\nAsk how much the rate would change before you take the first quote.\n\nWould you put up security for a sharper rate, or keep things separate?\n\nGeneral information only, not personal advice.\n\n#businessfinance #smallbusinessaustralia #workingcapital #mortgagebroker #lendingleverage"
+    },
+    {
+      "id": "p3-cash-argues-with-mortgage",
+      "insight_keys": [
+        "idle_cash_belongs_in_an_offset"
+      ],
+      "pillar": "money-habits",
+      "gate_score": 4,
+      "cards": [
+        {
+          "id": "2026-11-16-p3-note",
+          "type": "note",
+          "text": "Cash in a savings account is working for the bank, not you.\n\nMost people keep savings and the home loan in separate boxes. One pays a little. The other charges a lot.\n\nAn offset puts them in the same box. The money stays yours to spend, and every dollar stops interest on the loan.\n\nWe'd rather your cash argued with your mortgage than sat quietly next to it.",
+          "size": 48
+        }
+      ],
+      "linkedin": "Cash in a savings account is working for the bank, not you.\n\nWe see it all the time: a healthy savings balance earning a little interest, sitting next to a home loan charging a lot more. And the interest you earn is usually taxable.\n\nMove the same money into an offset linked to your mortgage and it reduces the interest you're charged on the loan instead. It's still your money, still there when you need it. How the tax side works for you is one for your accountant.\n\nIf you have savings and a home loan at the same time, ask what moving that cash into an offset would save you each month.\n\nGeneral information only, not personal advice.",
+      "instagram": "Cash in a savings account is working for the bank, not you.\n\nIt earns a little interest, and that interest is usually taxed. In an offset, the same money cuts the interest on your home loan, and you can still get to it any time. The tax side is one for your accountant.\n\nWe'd rather your cash argued with your mortgage than sat quietly next to it.\n\nDo you know what your savings would save you in an offset?\n\nGeneral information only, not personal advice.\n\n#offsetaccount #homeloan #moneyhabits #mortgagebroker #lendingleverage"
+    },
+    {
+      "id": "p4-first-home-three-things",
+      "insight_keys": [
+        "permanent_payg_beats_contracting_for_timing",
+        "pay_off_car_loan_before_mortgage",
+        "debt_gets_easier_over_time"
+      ],
+      "pillar": "first-home",
+      "gate_score": 4,
+      "cards": [
+        {
+          "id": "2026-11-16-p4-c1",
+          "type": "cover",
+          "label": "first home",
+          "hook": "Buying your first home this year? Sort these three first.",
+          "sub": "Before you apply, not after."
+        },
+        {
+          "id": "2026-11-16-p4-c2",
+          "type": "point",
+          "label": "first home",
+          "n": 1,
+          "of": 3,
+          "title": "Take the permanent role",
+          "body": "Changing jobs anyway? A permanent salary can count almost straight away. Contract income is treated like self-employed income and needs a track record, which can push your purchase back a year."
+        },
+        {
+          "id": "2026-11-16-p4-c3",
+          "type": "point",
+          "label": "first home",
+          "n": 2,
+          "of": 3,
+          "title": "Clear the car loan first",
+          "body": "Got savings and a car loan? Paying it out before you apply is often worth it, even with a break fee. Those repayments eat into what you can borrow."
+        },
+        {
+          "id": "2026-11-16-p4-c4",
+          "type": "point",
+          "label": "first home",
+          "n": 3,
+          "of": 3,
+          "title": "Plan for the first two years",
+          "body": "Your mortgage feels biggest on day one. Incomes tend to rise and the debt shrinks in real terms. So build your buffer for the first two years, when it bites hardest."
+        },
+        {
+          "id": "2026-11-16-p4-c5",
+          "type": "cta",
+          "label": "first home",
+          "headline": "Buying soon? Talk to us before you change anything.",
+          "body": "A 15-minute chat now can save you months later.",
+          "button": "Book a quick chat &rarr;"
+        }
+      ],
+      "linkedin": "Buying your first home this year? Sort these three things first.\n\n1. Changing jobs anyway? Take the permanent role. A permanent salary can count almost straight away. Contract income is treated like self-employed income and needs a track record, which can push a purchase back by a year.\n\n2. Got savings and a car loan? Clear the car first. Even with a break fee it's often worth it, because those repayments cut what you can borrow.\n\n3. Plan your buffer for the first two years. A mortgage feels biggest on day one. Incomes tend to rise and the debt shrinks in real terms, but the early stretch is when it bites.\n\nIf a purchase is close, ask us before you change anything.\n\nGeneral information only, not personal advice.",
+      "instagram": "Buying your first home this year? Sort these three first.\n\nSwipe for them: take the permanent role over contracting if you're moving jobs anyway, clear the car loan before you apply, and build your buffer for the first two years, when the mortgage feels biggest.\n\nNone of these are about the rate. They're about getting to yes sooner and sleeping better after.\n\nWhich of the three is on your list right now?\n\nGeneral information only, not personal advice.\n\n#firsthomebuyer #firsthome #mortgagebroker #melbourneproperty #lendingleverage"
+    }
+  ],
+  "held_back": [],
+  "new_insights": [
+    "sell_first_when_the_market_is_softening",
+    "dont_fix_a_loan_on_a_property_youre_selling",
+    "commercial_buyers_agent_can_earn_its_fee",
+    "older_house_more_land_for_the_money",
+    "the_sellers_costs_dont_set_the_price",
+    "one_bathroom_family_home_check_you_can_add_one",
+    "regional_postcode_decline_is_one_banks_appetite",
+    "offer_before_auction_when_the_market_is_quiet"
+  ],
+  "note": "Built by the Friday routine on 2026-11-13. Card PNGs in cards/2026-11-16/. No RBA card: the last decision (3 Nov) fell in the previous week and no announcement text was provided this run. p3 note was rewritten once at the gate (first draft scored 3, too generic). p4 cover hook is a framing line across three insights; Aadi to confirm. Plaud: 3 recordings (2026-11-04 14:36, 2026-11-09 15:25, 2026-11-11 10:24) had no transcript yet and were not mined."
+}
