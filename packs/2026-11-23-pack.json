@@ -1,0 +1,131 @@
+{
+  "week": "2026-11-23",
+  "posts": [
+    {
+      "id": "p1-upgrade-offset",
+      "insight_keys": [
+        "offset_on_investment_loan_for_next_home"
+      ],
+      "pillar": "complex-lending",
+      "gate_score": 4,
+      "cards": [
+        {
+          "id": "2026-11-23-p1-take",
+          "type": "take",
+          "hook": "Planning to upgrade? Build your next deposit inside an offset.",
+          "so_what": "Own an investment? Ask whether an offset on that loan should hold your savings. Tax side with your accountant."
+        }
+      ],
+      "linkedin": "Planning to upgrade? Build your next deposit inside an offset.\n\nIf you already own an investment property and want to buy your next home, here's a setup we like. Keep the investment loan interest-only, attach an offset to it, and build that offset hard.\n\nWhile the money sits there, it cuts the interest on the investment loan. When you buy, it comes out and becomes a bigger deposit on the new home. That keeps the loan on the place you live in smaller, and that's the interest you can't claim.\n\nHow the tax side works for you is one for your accountant.\n\nIf upgrading is on the cards, ask where your savings should live until then.\n\nGeneral information only, not personal advice.",
+      "instagram": "Planning to upgrade? Build your next deposit inside an offset.\n\nOwn an investment? An offset on that loan saves interest while your savings grow. When you buy, the money comes out as a bigger deposit, so the loan on your own home starts smaller. That's the interest you can't claim. Check the tax side with your accountant.\n\nWhere are your upgrade savings sitting right now?\n\nGeneral information only, not personal advice.\n\n#propertyinvestor #offsetaccount #upgrading #mortgagebroker #lendingleverage"
+    },
+    {
+      "id": "p2-joint-venture-names",
+      "insight_keys": [
+        "joint_ventures_in_trust_or_company"
+      ],
+      "pillar": "business-owners",
+      "gate_score": 4,
+      "cards": [
+        {
+          "id": "2026-11-23-p2-take",
+          "type": "take",
+          "hook": "Building with a mate? Don&rsquo;t do it in your own names.",
+          "so_what": "Ask your accountant about a trust or company before you sign anything together."
+        }
+      ],
+      "linkedin": "Building with a mate? Don't do it in your own names.\n\nTwo friends, a block of land, a plan for a couple of townhouses. It's a common way people get into their first project. The part that gets skipped is whose name it all goes in.\n\nWe'd recommend a trust or company structure, set up with your accountant, rather than your individual names. Two reasons.\n\nIt limits how far a problem with the project can reach into your personal finances. And two strong borrowers pooled in one structure can support a bigger project with mainstream lenders than either could alone.\n\nGet the structure sorted with your accountant before you sign anything together.\n\nGeneral information only, not personal advice.\n\n#propertydevelopment #jointventure #smallbusiness",
+      "instagram": "Building with a mate? Don't do it in your own names.\n\nFor a joint project, we'd recommend a trust or company, set up with your accountant, over your individual names. It limits personal liability, and two strong borrowers together can support a bigger project with mainstream lenders.\n\nSort the structure before anyone signs.\n\nHave you talked structure with your project partner yet?\n\nGeneral information only, not personal advice.\n\n#propertydevelopment #jointventure #smallbusinessaustralia #mortgagebroker #lendingleverage"
+    },
+    {
+      "id": "p3-ask-your-bank-first",
+      "insight_keys": [
+        "stay_with_existing_lender_when_structure_allows"
+      ],
+      "pillar": "refinancing-honestly",
+      "gate_score": 4,
+      "cards": [
+        {
+          "id": "2026-11-23-p3-note",
+          "type": "note",
+          "text": "Your current bank can often do what you need.\n\nNeed a top-up, or more for the build? Most people assume that means moving the whole loan.\n\nMoving costs you: discharge fees, switching costs, a new application from scratch.\n\nSo we ask your lender first. We switch when the rate or structure is meaningfully better elsewhere. Not just to move it.",
+          "size": 48
+        }
+      ],
+      "linkedin": "Your current bank can often do what you need. Ask them first.\n\nWhen someone needs a top-up, or more money for a renovation or build, the assumption is often that the whole loan has to move. Sometimes it should. Often it doesn't.\n\nMoving has a cost: discharge fees, switching costs, and a fresh application. Where your lender can do the variation, staying put is usually the easier path.\n\nSo that's where we start. We ask the existing lender first, and we only switch if the rate or structure is meaningfully better somewhere else.\n\nBefore you refinance to get a top-up, ask whether a variation with your current lender gets the same result.\n\nGeneral information only, not personal advice.\n\n#refinance #homeloan",
+      "instagram": "Your current bank can often do what you need. Ask them first.\n\nNeed a top-up or more for a build? That doesn't automatically mean moving the loan. Switching comes with discharge fees and a fresh application. We ask your lender first and only move when the rate or structure is meaningfully better elsewhere.\n\nHas anyone asked your current lender before suggesting you leave?\n\nGeneral information only, not personal advice.\n\n#refinance #homeloan #renovation #mortgagebroker #lendingleverage"
+    },
+    {
+      "id": "p4-grant-apartment-carousel",
+      "insight_keys": [
+        "brand_new_apartments_for_grant",
+        "older_pocket_sized_unit_blocks"
+      ],
+      "pillar": "first-home",
+      "gate_score": 4,
+      "cards": [
+        {
+          "id": "2026-11-23-p4-c1",
+          "type": "cover",
+          "label": "first home",
+          "hook": "Don&rsquo;t buy a brand-new apartment just to get the grant.",
+          "sub": "What we&rsquo;d look at instead."
+        },
+        {
+          "id": "2026-11-23-p4-c2",
+          "type": "point",
+          "label": "first home",
+          "n": 1,
+          "of": 3,
+          "title": "The grant has a price",
+          "body": "New apartments are often priced high for what they are. If you overpay by more than the grant is worth, it hasn&rsquo;t helped you. Compare the two before the grant decides."
+        },
+        {
+          "id": "2026-11-23-p4-c3",
+          "type": "point",
+          "label": "first home",
+          "n": 2,
+          "of": 3,
+          "title": "Old, small block, no lift",
+          "body": "Around 10 to 15 one- or two-bedroom units on a decent-sized block. No lift keeps body corporate costs down, and the land underneath can appeal to developers later."
+        },
+        {
+          "id": "2026-11-23-p4-c4",
+          "type": "point",
+          "label": "first home",
+          "n": 3,
+          "of": 3,
+          "title": "Read the fees first",
+          "body": "Before a view sells you, ask why the body corporate fees are what they are. Low running costs and real land underneath tend to hold their value."
+        },
+        {
+          "id": "2026-11-23-p4-c5",
+          "type": "cta",
+          "label": "first home",
+          "headline": "New with the grant, or older without it?",
+          "body": "A 15-minute chat is enough to know where you stand.",
+          "button": "Book a quick chat &rarr;"
+        }
+      ],
+      "linkedin": "Don't buy a brand-new apartment just to get the grant.\n\nThe first home owner grant is real money, and it's tempting to shop for a property that qualifies. Our view: don't let it pick the property for you. New apartments are often priced high for what they are, and if you overpay by more than the grant, you've gone backwards.\n\nWhat we quietly like instead: older, smaller unit blocks. Ten to fifteen one- or two-bedroom units on a decent-sized block, no lift. Body corporate costs stay low, and the land underneath has appeal down the track. They take some finding, but they tend to hold their value.\n\nBefore a view sells you, ask why the body corporate fees are what they are.\n\nGeneral information only, not personal advice.\n\n#firsthomebuyer #firsthome #melbourneproperty",
+      "instagram": "Don't buy a brand-new apartment just to get the grant.\n\nNew can be priced high for what it is. Overpay by more than the grant and it hasn't helped. Swipe for the type of unit we quietly like instead: old, small block, no lift. Lower fees, real land underneath.\n\nNew with the grant, or older without it: which way are you leaning?\n\nGeneral information only, not personal advice.\n\n#firsthomebuyer #firsthome #melbourneproperty #mortgagebroker #lendingleverage"
+    }
+  ],
+  "held_back": [],
+  "new_insights": [
+    "fixed_rates_price_in_rises_hunt_the_laggards",
+    "short_fix_as_low_commitment_hedge",
+    "low_contract_minimum_avoids_default_in_a_tight_month",
+    "run_a_parallel_application_when_the_cheaper_lender_is_slow",
+    "get_credit_sign_off_on_an_exception_before_lodging",
+    "development_finance_is_easy_selling_the_stock_is_hard",
+    "dont_skip_auction_listings_passed_in_is_the_deal",
+    "agree_the_price_before_paying_for_contract_review",
+    "new_estate_suburbs_lack_scarcity",
+    "construction_lender_wants_your_cash_in_first",
+    "dont_revalue_for_equity_in_a_soft_valuation_market",
+    "a_broker_handing_you_listings_isnt_in_your_interest",
+    "buying_is_the_trigger_dont_list_or_bridge_before_you_find_it"
+  ],
+  "note": "Built by the Friday routine on 2026-11-20. Card PNGs in cards/2026-11-23/. No RBA card: no Reserve Bank decision this week (last was 3 Nov) and no announcement text was provided. p1 swapped in at selection for subdividing_can_lift_value, which drafted at a 3 (too generic). p4 carousel combines two first-home insights. p1 continues last week's offset theme from a different angle (investors upgrading). Plaud: 11 client/adviser recordings from 6-19 Nov were mined (incl. the 11-09 one that had no transcript last week); skipped as internal: 11-08, 11-09 (trail book), 11-11, 11-12 x2, 11-17 (brokerage growth), 11-18 (funding/capital raising). Passages where a client discussed leaving income off an application were excluded."
+}

@@ -1,0 +1,10 @@
+[
+ {"id": "2026-11-23-p1-take", "type": "take", "hook": "Planning to upgrade? Build your next deposit inside an offset.", "so_what": "Own an investment? Ask whether an offset on that loan should hold your savings. Tax side with your accountant."},
+ {"id": "2026-11-23-p2-take", "type": "take", "hook": "Building with a mate? Don&rsquo;t do it in your own names.", "so_what": "Ask your accountant about a trust or company before you sign anything together."},
+ {"id": "2026-11-23-p3-note", "type": "note", "text": "Your current bank can often do what you need.\n\nNeed a top-up, or more for the build? Most people assume that means moving the whole loan.\n\nMoving costs you: discharge fees, switching costs, a new application from scratch.\n\nSo we ask your lender first. We switch when the rate or structure is meaningfully better elsewhere. Not just to move it.", "size": 48},
+ {"id": "2026-11-23-p4-c1", "type": "cover", "label": "first home", "hook": "Don&rsquo;t buy a brand-new apartment just to get the grant.", "sub": "What we&rsquo;d look at instead."},
+ {"id": "2026-11-23-p4-c2", "type": "point", "label": "first home", "n": 1, "of": 3, "title": "The grant has a price", "body": "New apartments are often priced high for what they are. If you overpay by more than the grant is worth, it hasn&rsquo;t helped you. Compare the two before the grant decides."},
+ {"id": "2026-11-23-p4-c3", "type": "point", "label": "first home", "n": 2, "of": 3, "title": "Old, small block, no lift", "body": "Around 10 to 15 one- or two-bedroom units on a decent-sized block. No lift keeps body corporate costs down, and the land underneath can appeal to developers later."},
+ {"id": "2026-11-23-p4-c4", "type": "point", "label": "first home", "n": 3, "of": 3, "title": "Read the fees first", "body": "Before a view sells you, ask why the body corporate fees are what they are. Low running costs and real land underneath tend to hold their value."},
+ {"id": "2026-11-23-p4-c5", "type": "cta", "label": "first home", "headline": "New with the grant, or older without it?", "body": "A 15-minute chat is enough to know where you stand.", "button": "Book a quick chat &rarr;"}
+]
