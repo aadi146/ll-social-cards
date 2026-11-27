@@ -1,0 +1,125 @@
+{
+  "week": "2026-11-30",
+  "posts": [
+    {
+      "id": "p1-tax-now-house-later",
+      "insight_keys": [
+        "declare_income_if_buying_soon"
+      ],
+      "pillar": "business-owners",
+      "gate_score": 4,
+      "cards": [
+        {
+          "id": "2026-11-30-p1-take",
+          "type": "take",
+          "hook": "Minimising your tax now can cost you a house later.",
+          "so_what": "Self-employed and buying within two years? Ask your accountant how your next return will read to a bank."
+        }
+      ],
+      "linkedin": "Minimising your tax now can cost you a house later.\n\nIf you're self-employed or contracting, the instinct is to keep reported income as low as your accountant can get it. Fair enough, in most years.\n\nBut a lender only sees what's on your tax returns. If the plan is to buy in the next year or two, those returns are your borrowing capacity. A great year minimised down on paper becomes a smaller loan when you apply.\n\nSo if a purchase is on the horizon, build the returns with that in mind, with your accountant, so the income you actually earn is income a bank can use.\n\nSelf-employed and buying within two years? Ask your accountant how your next return will read to a bank.\n\nGeneral information only, not personal advice.\n\n#selfemployed #smallbusiness #homeloan",
+      "instagram": "Minimising your tax now can cost you a house later.\n\nA lender only sees what's on your tax returns. If you're self-employed and buying in the next year or two, those returns are your borrowing capacity. Plan them with your accountant so the income you earn is income a bank can use.\n\nWhen did you last ask your accountant how your return reads to a bank?\n\nGeneral information only, not personal advice.\n\n#selfemployed #smallbusinessaustralia #firsthomebuyer #mortgagebroker #lendingleverage"
+    },
+    {
+      "id": "p2-small-project-mainstream",
+      "insight_keys": [
+        "small_projects_use_mainstream_construction"
+      ],
+      "pillar": "complex-lending",
+      "gate_score": 4,
+      "cards": [
+        {
+          "id": "2026-11-30-p2-myth",
+          "type": "myth",
+          "myth": "Building a few townhouses means you need a private lender.",
+          "reality": "A first small project usually fits a normal construction loan.",
+          "because": "Two or three dwellings on reasonably priced land can often go mainstream. Same result, without a couple of percent extra in private rates and fees."
+        }
+      ],
+      "linkedin": "Two or three townhouses? Don't pay private-lender prices.\n\nA lot of people doing their first small development assume it's private money from the start. Higher rate, establishment fees, the lot. For bigger projects, sometimes that's right.\n\nFor a first, smaller one, two or three dwellings, we'd rather keep it in mainstream construction lending, provided the land price is reasonable. If you can get the same result while saving a couple of percent on rate and fees, there's no reason to pay for private money.\n\nBefore you go private, ask whether a mainstream construction loan can fund the project.\n\nGeneral information only, not personal advice.\n\n#propertydevelopment #construction #townhouses",
+      "instagram": "Two or three townhouses? Don't pay private-lender prices.\n\nFor a first small project on reasonably priced land, we'd rather use a mainstream construction loan. Same result, without paying a couple of percent more in rate and fees for private money.\n\nHas anyone checked whether your project fits a normal construction loan?\n\nGeneral information only, not personal advice.\n\n#propertydevelopment #townhouses #construction #mortgagebroker #lendingleverage"
+    },
+    {
+      "id": "p3-different-banks-different-jobs",
+      "insight_keys": [
+        "rate_now_capacity_later"
+      ],
+      "pillar": "refinancing-honestly",
+      "gate_score": 4,
+      "cards": [
+        {
+          "id": "2026-11-30-p3-note",
+          "type": "note",
+          "text": "Different banks win at different things.\n\nThe lender with the sharpest rate for your refinance often isn’t the one that will lend you the most for your next purchase.\n\nSo we might refinance you with one bank and fund the next purchase with another.\n\nOne bank for everything is tidy. Matching each loan to the bank that’s best at that job usually serves you better.",
+          "size": 48
+        }
+      ],
+      "linkedin": "Different banks win at different things. Use more than one.\n\nMost people like the idea of one bank for everything. It's tidy. One app, one login, one relationship.\n\nBut lenders aren't equally good at everything. The one with the sharpest rate for a refinance is often not the one that will lend you the most for your next purchase.\n\nSo we'll sometimes refinance you with one lender for the rate, then use a different lender for the next purchase, where borrowing capacity matters more. Each loan goes to the bank that's strongest for that job.\n\nAsk which lender is strongest for the job you need done now, not overall.\n\nGeneral information only, not personal advice.\n\n#refinance #propertyinvestor #homeloan",
+      "instagram": "Different banks win at different things. Use more than one.\n\nThe sharpest rate for your refinance and the most borrowing for your next purchase often come from different lenders. So we match each loan to the bank that's strongest for that job, not one bank for everything.\n\nAre all your loans with one bank out of habit, or because it's the best fit?\n\nGeneral information only, not personal advice.\n\n#refinance #propertyinvestor #homeloan #mortgagebroker #lendingleverage"
+    },
+    {
+      "id": "p4-buy-the-house-carousel",
+      "insight_keys": [
+        "house_beats_unit_for_investment",
+        "small_town_growth_risk"
+      ],
+      "pillar": "complex-lending",
+      "gate_score": 4,
+      "cards": [
+        {
+          "id": "2026-11-30-p4-c1",
+          "type": "cover",
+          "label": "investing",
+          "hook": "If you can afford it, buy the house.",
+          "sub": "And why cheap isn&rsquo;t the same as good value."
+        },
+        {
+          "id": "2026-11-30-p4-c2",
+          "type": "point",
+          "label": "investing",
+          "n": 1,
+          "of": 3,
+          "title": "Houses usually grow faster",
+          "body": "If the budget stretches, a house beats a unit as an investment almost every time. In many family-oriented regional markets, renters want houses too."
+        },
+        {
+          "id": "2026-11-30-p4-c3",
+          "type": "point",
+          "label": "investing",
+          "n": 2,
+          "of": 3,
+          "title": "When a unit makes sense",
+          "body": "When borrowing capacity forces it, or it&rsquo;s a genuinely exceptional deal. Otherwise, ask what a house in a proven area costs before you settle."
+        },
+        {
+          "id": "2026-11-30-p4-c4",
+          "type": "point",
+          "label": "investing",
+          "n": 3,
+          "of": 3,
+          "title": "Cheap towns carry risk",
+          "body": "A small town that just looks cheap may not grow at all. Thin markets have little data behind the price. The same budget often buys better somewhere proven."
+        },
+        {
+          "id": "2026-11-30-p4-c5",
+          "type": "cta",
+          "label": "investing",
+          "headline": "House or unit? Proven or cheap?",
+          "body": "A 15-minute chat is enough to know where you stand.",
+          "button": "Book a quick chat &rarr;"
+        }
+      ],
+      "linkedin": "If you can afford it, buy the house.\n\nThat's our view on investment property, almost every time. Houses tend to grow faster in value, and in many family-oriented regional markets they're what renters are looking for too. A unit makes sense when borrowing capacity forces it, or when it's a genuinely exceptional deal.\n\nThe other trap we see: buying somewhere just because it's cheap. Small towns with little sales data are a real risk. You can't be sure they'll grow at all, and the same budget often buys a better property in a proven market.\n\nBefore you buy, ask what a house in a proven area costs versus the unit or cheap town you're looking at, and ask for the data.\n\nGeneral information only, not personal advice.\n\n#propertyinvestor #investmentproperty #realestateaustralia",
+      "instagram": "If you can afford it, buy the house.\n\nHouses usually grow faster, and in many regional markets renters want them too. Units make sense when capacity forces it or the deal is exceptional. And a small town that just looks cheap is a gamble without the data. Swipe for how we think about it.\n\nHouse, unit or the cheap town: which are you weighing up?\n\nGeneral information only, not personal advice.\n\n#propertyinvestor #investmentproperty #realestateaustralia #mortgagebroker #lendingleverage"
+    }
+  ],
+  "held_back": [
+    {
+      "id": "p3-own-home-or-invest-note",
+      "reason": "own_home_vs_rentvesting_lifestyle_call scored 3 twice: 'both are valid, it's a lifestyle call' reads like any broker's rentvesting post; replaced at selection by rate_now_capacity_later."
+    }
+  ],
+  "new_insights": [
+    "run_capacity_on_todays_paperwork_and_whats_coming"
+  ],
+  "note": "Built by the Friday routine on 2026-11-27. Card PNGs in cards/2026-11-30/. No RBA card: no announcement text was provided this run. Plaud 13-27 Nov: 13 recordings; 6-19 Nov ones were mined last week. New this run: three 24 Nov recordings. The named consultation was mined (1 new view; the 'one payslip' and 'investors are buying now' views duplicated two_payslips_start_the_conversation and uncertainty_is_a_buyers_market, so skipped; a tax-loss passage was excluded as tax advice). The two untitled 24 Nov recordings (13 and 8 min) have no transcript or outline in Plaud, so were not read."
+}

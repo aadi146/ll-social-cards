@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-27",
  "table": "LL Aadi Insights (n8n data table OyCGlRR2PYDdF3DI) — mirror",
- "count": 366,
+ "count": 367,
  "rows": [
   {
    "key": "buyers_agent_not_worth_it_first_home",
@@ -5489,6 +5489,21 @@
    "quote": "The trigger is us buying something. So let's say if you don't buy, then nothing changes.",
    "source": "Plaud: 11-19 Customer Consultation: Borrowing Capacity and Buy-Sell Planning (2026-11-19)",
    "status": "Mined 20 Nov 2026 by the Friday routine. Aadi to confirm wording before first use. Confidence: high. Related: buy_first_sell_later_when_savings_allow; note: sell_first_when_the_market_is_softening points the other way, depends on circumstances, don't publish side by side unframed.",
+   "active": false,
+   "used_count": 0,
+   "last_used": ""
+  },
+  {
+   "key": "run_capacity_on_todays_paperwork_and_whats_coming",
+   "category": "general",
+   "applies_to": "self-employed, borrowing capacity, rising income, planning the next purchase",
+   "hook": "We run your numbers twice: on today's paperwork, and on what's coming.",
+   "so_what": "Ask what your borrowing looks like now versus after the next payslip or tax return lands.",
+   "insight": "When income is rising, we run borrowing capacity twice: once on what the documents show today, and once on the income that's coming, across both the major and non-major lenders. That shows you what waiting for the next payslip or tax return is actually worth.",
+   "why": "Seeing both numbers side by side tells you whether to move now or wait for the paperwork to catch up with the income.",
+   "quote": "",
+   "source": "Plaud: 11-24 Client Consultation: Third Property Borrowing Capacity and Equity Release (2026-11-24)",
+   "status": "Mined 2026-11-27 by the Friday routine. Aadi to confirm wording before first use. Confidence: medium. New angle on rising_income_can_be_shown_with_recent_activity and capacity_differs_by_lender_run_several.",
    "active": false,
    "used_count": 0,
    "last_used": ""
